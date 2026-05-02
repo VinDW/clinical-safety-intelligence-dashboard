@@ -27,6 +27,32 @@ The project uses synthetic clinical trial data only. No real patient data is inc
 - Dynamic data tables
 - Downloadable filtered reports
 
+- ## Dashboard Preview
+
+### Executive Review
+
+![Executive Review](screenshots/Executive%20Review.png)
+
+### Study Overview
+
+![Study Overview](screenshots/Study%20Overview.png)
+
+### Adverse Events
+
+![Adverse Events](screenshots/Adverse%20Events.png)
+
+### Laboratory Monitoring
+
+![Laboratory Monitoring](screenshots/Laboratory%20Moni.png)
+
+### Patient Profiles
+
+![Patient Profiles](screenshots/Patient%20Profiles.png)
+
+### Site Risk
+
+![Site Risk](screenshots/Site%20Risk.png)
+
 ## Dashboard Modules
 
 ### Executive Review
