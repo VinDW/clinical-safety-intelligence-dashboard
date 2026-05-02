@@ -1,0 +1,17 @@
+system_organ_class,treatment_arm,n,percentage
+Blood disorders,Active Treatment,52,15.9
+Blood disorders,Placebo,31,14.6
+Cardiac disorders,Active Treatment,36,11
+Cardiac disorders,Placebo,30,14.1
+Gastrointestinal disorders,Active Treatment,42,12.8
+Gastrointestinal disorders,Placebo,26,12.2
+General disorders,Active Treatment,34,10.4
+General disorders,Placebo,24,11.3
+Investigations,Active Treatment,44,13.4
+Investigations,Placebo,29,13.6
+Nervous system disorders,Active Treatment,41,12.5
+Nervous system disorders,Placebo,33,15.5
+Respiratory disorders,Active Treatment,37,11.3
+Respiratory disorders,Placebo,18,8.5
+Skin disorders,Active Treatment,42,12.8
+Skin disorders,Placebo,22,10.3

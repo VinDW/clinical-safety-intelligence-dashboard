@@ -1,0 +1,29 @@
+lab_test,toxicity_grade,treatment_arm,n,percentage
+ALT,Grade 0,Active Treatment,996,82.7
+ALT,Grade 0,Placebo,1229,94.9
+ALT,Grade 1,Active Treatment,209,17.3
+ALT,Grade 1,Placebo,66,5.1
+AST,Grade 0,Active Treatment,1063,88.2
+AST,Grade 0,Placebo,1243,96
+AST,Grade 1,Active Treatment,142,11.8
+AST,Grade 1,Placebo,52,4
+Creatinine,Grade 0,Active Treatment,1132,93.9
+Creatinine,Grade 0,Placebo,1188,91.7
+Creatinine,Grade 1,Active Treatment,73,6.1
+Creatinine,Grade 1,Placebo,107,8.3
+Haemoglobin,Grade 0,Active Treatment,1054,87.5
+Haemoglobin,Grade 0,Placebo,1145,88.4
+Haemoglobin,Grade 1,Active Treatment,151,12.5
+Haemoglobin,Grade 1,Placebo,150,11.6
+Neutrophils,Grade 0,Active Treatment,1131,93.9
+Neutrophils,Grade 0,Placebo,1242,95.9
+Neutrophils,Grade 1,Active Treatment,46,3.8
+Neutrophils,Grade 1,Placebo,44,3.4
+Neutrophils,Grade 2,Active Treatment,20,1.7
+Neutrophils,Grade 2,Placebo,5,0.4
+Neutrophils,Grade 3,Active Treatment,8,0.7
+Neutrophils,Grade 3,Placebo,4,0.3
+Platelets,Grade 0,Active Treatment,1142,94.8
+Platelets,Grade 0,Placebo,1231,95.1
+Platelets,Grade 1,Active Treatment,63,5.2
+Platelets,Grade 1,Placebo,64,4.9

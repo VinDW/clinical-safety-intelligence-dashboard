@@ -1,0 +1,501 @@
+subject_id,site_id,treatment_arm,first_dose_date,last_dose_date,planned_treatment_days,actual_treatment_days,dose_mg,compliance_rate,compliance_category,discontinued,discontinuation_reason
+SUBJ-0001,SITE-01,Active Treatment,2024-02-17,2024-03-15,84,27,100,0.94,High,1,Lost to Follow-up
+SUBJ-0002,SITE-06,Active Treatment,2024-07-05,2024-09-27,84,84,100,0.93,High,0,Completed / Ongoing
+SUBJ-0003,SITE-13,Placebo,2024-05-17,2024-08-09,84,84,0,0.98,High,0,Completed / Ongoing
+SUBJ-0004,SITE-15,Active Treatment,2025-06-28,2025-09-20,84,84,100,0.85,Moderate,0,Completed / Ongoing
+SUBJ-0005,SITE-12,Active Treatment,2024-11-06,2025-01-29,84,84,100,0.94,High,0,Completed / Ongoing
+SUBJ-0006,SITE-04,Placebo,2025-03-22,2025-06-14,84,84,0,0.93,High,0,Completed / Ongoing
+SUBJ-0007,SITE-16,Placebo,2024-08-22,2024-11-14,84,84,0,0.9,High,0,Completed / Ongoing
+SUBJ-0008,SITE-05,Placebo,2024-07-07,2024-09-29,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0009,SITE-12,Active Treatment,2024-03-31,2024-06-23,84,84,100,0.84,Moderate,0,Completed / Ongoing
+SUBJ-0010,SITE-02,Active Treatment,2024-04-11,2024-07-04,84,84,100,0.93,High,0,Completed / Ongoing
+SUBJ-0011,SITE-19,Placebo,2024-09-21,2024-12-14,84,84,0,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0012,SITE-15,Active Treatment,2024-10-25,2025-01-17,84,84,100,0.96,High,0,Completed / Ongoing
+SUBJ-0013,SITE-14,Placebo,2024-04-20,2024-05-18,84,28,0,1,High,1,Protocol Deviation
+SUBJ-0014,SITE-17,Placebo,2025-04-09,2025-05-04,84,25,0,0.85,Moderate,1,Adverse Event
+SUBJ-0015,SITE-12,Active Treatment,2025-03-07,2025-05-30,84,84,100,0.92,High,0,Completed / Ongoing
+SUBJ-0016,SITE-10,Placebo,2024-09-27,2024-12-20,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0017,SITE-18,Active Treatment,2024-07-24,2024-10-16,84,84,100,0.99,High,0,Completed / Ongoing
+SUBJ-0018,SITE-02,Placebo,2024-08-25,2024-11-17,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0019,SITE-05,Active Treatment,2024-07-21,2024-10-13,84,84,100,0.95,High,0,Completed / Ongoing
+SUBJ-0020,SITE-12,Placebo,2025-07-08,2025-09-30,84,84,0,0.8,Moderate,0,Completed / Ongoing
+SUBJ-0021,SITE-05,Active Treatment,2025-05-30,2025-08-22,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0022,SITE-16,Placebo,2024-09-08,2024-12-01,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0023,SITE-03,Placebo,2024-12-09,2025-03-03,84,84,0,0.88,Moderate,0,Completed / Ongoing
+SUBJ-0024,SITE-12,Placebo,2024-05-27,2024-07-07,84,41,0,1,High,1,Withdrawal by Subject
+SUBJ-0025,SITE-03,Placebo,2024-02-19,2024-05-13,84,84,0,0.92,High,0,Completed / Ongoing
+SUBJ-0026,SITE-03,Placebo,2024-12-29,2025-03-23,84,84,0,0.92,High,0,Completed / Ongoing
+SUBJ-0027,SITE-10,Placebo,2024-09-30,2024-12-23,84,84,0,0.87,Moderate,0,Completed / Ongoing
+SUBJ-0028,SITE-04,Active Treatment,2024-01-13,2024-04-06,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0029,SITE-08,Active Treatment,2025-03-11,2025-06-03,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0030,SITE-18,Placebo,2024-09-20,2024-12-13,84,84,0,0.97,High,0,Completed / Ongoing
+SUBJ-0031,SITE-02,Placebo,2024-03-24,2024-06-16,84,84,0,0.94,High,0,Completed / Ongoing
+SUBJ-0032,SITE-13,Active Treatment,2024-10-20,2025-01-12,84,84,100,0.9,High,0,Completed / Ongoing
+SUBJ-0033,SITE-09,Active Treatment,2025-04-15,2025-05-17,84,32,100,1,High,1,Withdrawal by Subject
+SUBJ-0034,SITE-12,Active Treatment,2025-03-14,2025-05-15,84,62,100,0.94,High,1,Adverse Event
+SUBJ-0035,SITE-05,Placebo,2024-11-24,2025-02-16,84,84,0,0.87,Moderate,0,Completed / Ongoing
+SUBJ-0036,SITE-09,Placebo,2024-05-07,2024-07-30,84,84,0,0.99,High,0,Completed / Ongoing
+SUBJ-0037,SITE-13,Placebo,2024-09-24,2024-12-17,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0038,SITE-18,Active Treatment,2025-06-21,2025-09-13,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0039,SITE-09,Placebo,2025-01-28,2025-04-22,84,84,0,0.91,High,0,Completed / Ongoing
+SUBJ-0040,SITE-16,Active Treatment,2025-08-11,2025-11-03,84,84,100,0.83,Moderate,0,Completed / Ongoing
+SUBJ-0041,SITE-07,Active Treatment,2025-07-16,2025-10-08,84,84,100,0.91,High,0,Completed / Ongoing
+SUBJ-0042,SITE-18,Active Treatment,2024-06-18,2024-09-10,84,84,100,0.97,High,0,Completed / Ongoing
+SUBJ-0043,SITE-05,Placebo,2025-05-29,2025-08-21,84,84,0,0.95,High,0,Completed / Ongoing
+SUBJ-0044,SITE-05,Placebo,2024-01-22,2024-04-15,84,84,0,0.92,High,0,Completed / Ongoing
+SUBJ-0045,SITE-11,Placebo,2024-10-13,2025-01-05,84,84,0,0.95,High,0,Completed / Ongoing
+SUBJ-0046,SITE-04,Placebo,2024-09-17,2024-12-10,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0047,SITE-17,Placebo,2024-11-03,2025-01-26,84,84,0,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0048,SITE-08,Placebo,2025-02-10,2025-05-05,84,84,0,0.9,High,0,Completed / Ongoing
+SUBJ-0049,SITE-09,Active Treatment,2025-08-27,2025-11-19,84,84,100,0.95,High,0,Completed / Ongoing
+SUBJ-0050,SITE-03,Placebo,2024-05-28,2024-08-20,84,84,0,0.9,High,0,Completed / Ongoing
+SUBJ-0051,SITE-15,Placebo,2024-06-13,2024-08-09,84,57,0,0.88,Moderate,1,Withdrawal by Subject
+SUBJ-0052,SITE-20,Placebo,2024-09-18,2024-12-11,84,84,0,0.87,Moderate,0,Completed / Ongoing
+SUBJ-0053,SITE-09,Placebo,2024-05-13,2024-08-05,84,84,0,0.93,High,0,Completed / Ongoing
+SUBJ-0054,SITE-06,Placebo,2025-03-17,2025-06-09,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0055,SITE-04,Placebo,2024-06-17,2024-07-09,84,22,0,0.98,High,1,Withdrawal by Subject
+SUBJ-0056,SITE-15,Placebo,2025-04-18,2025-07-11,84,84,0,0.82,Moderate,0,Completed / Ongoing
+SUBJ-0057,SITE-01,Active Treatment,2024-03-20,2024-06-12,84,84,100,0.96,High,0,Completed / Ongoing
+SUBJ-0058,SITE-12,Placebo,2025-02-11,2025-05-06,84,84,0,0.91,High,0,Completed / Ongoing
+SUBJ-0059,SITE-06,Active Treatment,2024-11-13,2025-02-05,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0060,SITE-13,Active Treatment,2025-02-24,2025-05-19,84,84,100,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0061,SITE-04,Placebo,2024-10-01,2024-12-24,84,84,0,0.91,High,0,Completed / Ongoing
+SUBJ-0062,SITE-08,Active Treatment,2025-08-08,2025-10-31,84,84,100,0.88,Moderate,0,Completed / Ongoing
+SUBJ-0063,SITE-06,Active Treatment,2024-01-09,2024-04-02,84,84,100,0.97,High,0,Completed / Ongoing
+SUBJ-0064,SITE-16,Active Treatment,2024-08-20,2024-11-12,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0065,SITE-06,Active Treatment,2025-01-09,2025-02-22,84,44,100,0.88,Moderate,1,Lost to Follow-up
+SUBJ-0066,SITE-17,Placebo,2024-04-14,2024-07-07,84,84,0,0.93,High,0,Completed / Ongoing
+SUBJ-0067,SITE-19,Placebo,2024-07-26,2024-10-18,84,84,0,0.94,High,0,Completed / Ongoing
+SUBJ-0068,SITE-01,Placebo,2024-01-05,2024-03-29,84,84,0,0.84,Moderate,0,Completed / Ongoing
+SUBJ-0069,SITE-17,Active Treatment,2025-03-18,2025-06-10,84,84,100,0.96,High,0,Completed / Ongoing
+SUBJ-0070,SITE-20,Placebo,2025-07-04,2025-09-26,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0071,SITE-06,Active Treatment,2024-09-24,2024-12-17,84,84,100,0.9,High,0,Completed / Ongoing
+SUBJ-0072,SITE-05,Active Treatment,2025-01-06,2025-03-31,84,84,100,0.85,Moderate,0,Completed / Ongoing
+SUBJ-0073,SITE-17,Placebo,2024-05-23,2024-08-15,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0074,SITE-03,Active Treatment,2024-05-23,2024-08-15,84,84,100,0.96,High,0,Completed / Ongoing
+SUBJ-0075,SITE-20,Placebo,2024-08-09,2024-11-01,84,84,0,0.94,High,0,Completed / Ongoing
+SUBJ-0076,SITE-15,Placebo,2024-02-25,2024-05-19,84,84,0,0.94,High,0,Completed / Ongoing
+SUBJ-0077,SITE-17,Placebo,2024-12-01,2025-02-23,84,84,0,0.97,High,0,Completed / Ongoing
+SUBJ-0078,SITE-08,Active Treatment,2024-03-18,2024-06-10,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0079,SITE-04,Placebo,2024-09-08,2024-12-01,84,84,0,0.72,Low,0,Completed / Ongoing
+SUBJ-0080,SITE-13,Placebo,2024-07-18,2024-10-10,84,84,0,0.96,High,0,Completed / Ongoing
+SUBJ-0081,SITE-01,Active Treatment,2024-03-15,2024-06-07,84,84,100,0.88,Moderate,0,Completed / Ongoing
+SUBJ-0082,SITE-12,Placebo,2024-09-25,2024-12-18,84,84,0,0.9,High,0,Completed / Ongoing
+SUBJ-0083,SITE-03,Placebo,2025-01-16,2025-04-10,84,84,0,0.95,High,0,Completed / Ongoing
+SUBJ-0084,SITE-19,Active Treatment,2024-02-23,2024-05-17,84,84,100,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0085,SITE-13,Active Treatment,2024-07-17,2024-10-09,84,84,100,0.93,High,0,Completed / Ongoing
+SUBJ-0086,SITE-01,Placebo,2025-01-21,2025-04-15,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0087,SITE-06,Active Treatment,2025-03-28,2025-06-20,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0088,SITE-18,Placebo,2025-07-24,2025-10-02,84,70,0,1,High,1,Adverse Event
+SUBJ-0089,SITE-20,Placebo,2025-06-12,2025-09-04,84,84,0,0.8,Moderate,0,Completed / Ongoing
+SUBJ-0090,SITE-18,Active Treatment,2024-10-19,2025-01-11,84,84,100,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0091,SITE-01,Placebo,2024-03-20,2024-06-12,84,84,0,0.95,High,0,Completed / Ongoing
+SUBJ-0092,SITE-20,Placebo,2024-06-09,2024-09-01,84,84,0,0.83,Moderate,0,Completed / Ongoing
+SUBJ-0093,SITE-10,Placebo,2024-10-08,2024-12-31,84,84,0,0.85,Moderate,0,Completed / Ongoing
+SUBJ-0094,SITE-02,Active Treatment,2024-01-16,2024-04-09,84,84,100,0.79,Moderate,0,Completed / Ongoing
+SUBJ-0095,SITE-04,Active Treatment,2025-07-04,2025-09-26,84,84,100,0.95,High,0,Completed / Ongoing
+SUBJ-0096,SITE-05,Active Treatment,2025-01-08,2025-04-02,84,84,100,0.93,High,0,Completed / Ongoing
+SUBJ-0097,SITE-15,Active Treatment,2025-03-01,2025-04-13,84,43,100,1,High,1,Withdrawal by Subject
+SUBJ-0098,SITE-01,Active Treatment,2024-05-16,2024-08-08,84,84,100,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0099,SITE-17,Placebo,2024-02-13,2024-05-07,84,84,0,0.92,High,0,Completed / Ongoing
+SUBJ-0100,SITE-09,Active Treatment,2025-06-21,2025-09-13,84,84,100,0.72,Low,0,Completed / Ongoing
+SUBJ-0101,SITE-13,Active Treatment,2024-02-14,2024-05-08,84,84,100,0.97,High,0,Completed / Ongoing
+SUBJ-0102,SITE-12,Active Treatment,2025-05-25,2025-08-17,84,84,100,0.85,Moderate,0,Completed / Ongoing
+SUBJ-0103,SITE-19,Placebo,2024-09-26,2024-12-19,84,84,0,0.78,Moderate,0,Completed / Ongoing
+SUBJ-0104,SITE-18,Active Treatment,2025-03-14,2025-04-21,84,38,100,0.93,High,1,Adverse Event
+SUBJ-0105,SITE-12,Placebo,2024-01-26,2024-03-11,84,45,0,0.8,Moderate,1,Adverse Event
+SUBJ-0106,SITE-09,Placebo,2024-01-01,2024-03-25,84,84,0,0.99,High,0,Completed / Ongoing
+SUBJ-0107,SITE-03,Placebo,2025-06-22,2025-09-14,84,84,0,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0108,SITE-02,Active Treatment,2025-02-01,2025-04-15,84,73,100,1,High,1,Adverse Event
+SUBJ-0109,SITE-17,Active Treatment,2025-02-28,2025-05-23,84,84,100,0.96,High,0,Completed / Ongoing
+SUBJ-0110,SITE-02,Active Treatment,2024-03-18,2024-06-10,84,84,100,0.94,High,0,Completed / Ongoing
+SUBJ-0111,SITE-10,Placebo,2025-05-26,2025-08-18,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0112,SITE-13,Placebo,2025-07-26,2025-09-08,84,44,0,0.83,Moderate,1,Protocol Deviation
+SUBJ-0113,SITE-10,Placebo,2025-01-05,2025-03-30,84,84,0,0.74,Low,0,Completed / Ongoing
+SUBJ-0114,SITE-14,Active Treatment,2024-07-30,2024-10-22,84,84,100,0.94,High,0,Completed / Ongoing
+SUBJ-0115,SITE-06,Placebo,2024-05-26,2024-08-18,84,84,0,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0116,SITE-19,Active Treatment,2025-03-25,2025-06-17,84,84,100,0.99,High,0,Completed / Ongoing
+SUBJ-0117,SITE-12,Placebo,2024-08-05,2024-10-28,84,84,0,0.81,Moderate,0,Completed / Ongoing
+SUBJ-0118,SITE-12,Placebo,2024-02-04,2024-04-28,84,84,0,0.81,Moderate,0,Completed / Ongoing
+SUBJ-0119,SITE-02,Placebo,2025-01-23,2025-04-17,84,84,0,0.94,High,0,Completed / Ongoing
+SUBJ-0120,SITE-04,Active Treatment,2024-01-02,2024-03-26,84,84,100,0.98,High,0,Completed / Ongoing
+SUBJ-0121,SITE-02,Placebo,2025-01-23,2025-04-17,84,84,0,0.97,High,0,Completed / Ongoing
+SUBJ-0122,SITE-06,Active Treatment,2024-07-13,2024-10-05,84,84,100,0.94,High,0,Completed / Ongoing
+SUBJ-0123,SITE-15,Placebo,2024-08-14,2024-11-06,84,84,0,0.96,High,0,Completed / Ongoing
+SUBJ-0124,SITE-17,Active Treatment,2025-01-02,2025-03-27,84,84,100,0.98,High,0,Completed / Ongoing
+SUBJ-0125,SITE-12,Placebo,2025-01-31,2025-04-25,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0126,SITE-04,Placebo,2025-05-20,2025-08-12,84,84,0,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0127,SITE-04,Placebo,2024-01-09,2024-03-20,84,71,0,0.84,Moderate,1,Adverse Event
+SUBJ-0128,SITE-03,Active Treatment,2024-10-09,2024-11-15,84,37,100,0.89,Moderate,1,Adverse Event
+SUBJ-0129,SITE-11,Placebo,2024-11-19,2025-02-11,84,84,0,0.7,Low,0,Completed / Ongoing
+SUBJ-0130,SITE-16,Active Treatment,2024-11-16,2025-02-08,84,84,100,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0131,SITE-06,Placebo,2024-01-05,2024-03-29,84,84,0,0.95,High,0,Completed / Ongoing
+SUBJ-0132,SITE-06,Placebo,2024-12-12,2025-03-06,84,84,0,0.76,Moderate,0,Completed / Ongoing
+SUBJ-0133,SITE-01,Placebo,2025-05-21,2025-08-13,84,84,0,0.87,Moderate,0,Completed / Ongoing
+SUBJ-0134,SITE-04,Placebo,2024-03-26,2024-04-11,84,16,0,1,High,1,Withdrawal by Subject
+SUBJ-0135,SITE-19,Placebo,2024-07-13,2024-10-05,84,84,0,0.88,Moderate,0,Completed / Ongoing
+SUBJ-0136,SITE-13,Placebo,2024-05-16,2024-08-08,84,84,0,0.97,High,0,Completed / Ongoing
+SUBJ-0137,SITE-03,Placebo,2024-12-10,2025-03-04,84,84,0,0.73,Low,0,Completed / Ongoing
+SUBJ-0138,SITE-05,Placebo,2025-04-19,2025-07-12,84,84,0,0.95,High,0,Completed / Ongoing
+SUBJ-0139,SITE-06,Placebo,2025-05-14,2025-08-06,84,84,0,0.88,Moderate,0,Completed / Ongoing
+SUBJ-0140,SITE-19,Active Treatment,2024-08-20,2024-11-12,84,84,100,0.98,High,0,Completed / Ongoing
+SUBJ-0141,SITE-15,Placebo,2024-04-18,2024-07-11,84,84,0,0.94,High,0,Completed / Ongoing
+SUBJ-0142,SITE-10,Placebo,2025-06-12,2025-09-04,84,84,0,0.94,High,0,Completed / Ongoing
+SUBJ-0143,SITE-06,Active Treatment,2024-06-22,2024-09-06,84,76,100,0.75,Moderate,1,Adverse Event
+SUBJ-0144,SITE-11,Active Treatment,2025-08-30,2025-11-22,84,84,100,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0145,SITE-19,Active Treatment,2024-02-22,2024-05-16,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0146,SITE-04,Placebo,2025-07-26,2025-10-18,84,84,0,0.84,Moderate,0,Completed / Ongoing
+SUBJ-0147,SITE-18,Placebo,2025-04-05,2025-06-28,84,84,0,0.99,High,0,Completed / Ongoing
+SUBJ-0148,SITE-16,Placebo,2025-03-13,2025-06-05,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0149,SITE-18,Placebo,2024-07-10,2024-10-02,84,84,0,0.85,Moderate,0,Completed / Ongoing
+SUBJ-0150,SITE-04,Active Treatment,2024-01-06,2024-03-14,84,68,100,0.83,Moderate,1,Adverse Event
+SUBJ-0151,SITE-19,Active Treatment,2025-02-06,2025-05-01,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0152,SITE-06,Placebo,2024-04-11,2024-07-04,84,84,0,0.88,Moderate,0,Completed / Ongoing
+SUBJ-0153,SITE-12,Active Treatment,2025-01-20,2025-04-14,84,84,100,0.87,Moderate,0,Completed / Ongoing
+SUBJ-0154,SITE-01,Placebo,2025-06-06,2025-08-29,84,84,0,0.81,Moderate,0,Completed / Ongoing
+SUBJ-0155,SITE-05,Active Treatment,2025-05-10,2025-08-02,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0156,SITE-06,Placebo,2025-05-28,2025-08-20,84,84,0,0.81,Moderate,0,Completed / Ongoing
+SUBJ-0157,SITE-04,Active Treatment,2024-09-06,2024-11-29,84,84,100,0.94,High,0,Completed / Ongoing
+SUBJ-0158,SITE-14,Active Treatment,2024-07-11,2024-10-03,84,84,100,0.84,Moderate,0,Completed / Ongoing
+SUBJ-0159,SITE-13,Active Treatment,2024-03-01,2024-05-24,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0160,SITE-02,Active Treatment,2024-06-17,2024-09-09,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0161,SITE-18,Placebo,2024-04-07,2024-06-30,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0162,SITE-16,Active Treatment,2025-02-15,2025-05-10,84,84,100,0.88,Moderate,0,Completed / Ongoing
+SUBJ-0163,SITE-14,Placebo,2024-10-29,2025-01-21,84,84,0,0.77,Moderate,0,Completed / Ongoing
+SUBJ-0164,SITE-18,Active Treatment,2025-05-16,2025-08-08,84,84,100,0.79,Moderate,0,Completed / Ongoing
+SUBJ-0165,SITE-15,Placebo,2024-09-04,2024-11-27,84,84,0,0.84,Moderate,0,Completed / Ongoing
+SUBJ-0166,SITE-08,Active Treatment,2024-10-31,2025-01-23,84,84,100,0.98,High,0,Completed / Ongoing
+SUBJ-0167,SITE-17,Active Treatment,2024-01-18,2024-04-01,84,74,100,0.94,High,1,Lost to Follow-up
+SUBJ-0168,SITE-11,Placebo,2025-03-06,2025-05-29,84,84,0,0.93,High,0,Completed / Ongoing
+SUBJ-0169,SITE-10,Active Treatment,2024-06-01,2024-08-24,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0170,SITE-16,Active Treatment,2024-03-29,2024-06-21,84,84,100,0.79,Moderate,0,Completed / Ongoing
+SUBJ-0171,SITE-07,Placebo,2024-07-23,2024-10-15,84,84,0,0.98,High,0,Completed / Ongoing
+SUBJ-0172,SITE-13,Placebo,2024-06-21,2024-09-13,84,84,0,0.84,Moderate,0,Completed / Ongoing
+SUBJ-0173,SITE-13,Placebo,2024-11-18,2025-02-10,84,84,0,0.85,Moderate,0,Completed / Ongoing
+SUBJ-0174,SITE-08,Active Treatment,2024-08-26,2024-11-18,84,84,100,0.94,High,0,Completed / Ongoing
+SUBJ-0175,SITE-12,Active Treatment,2025-06-13,2025-09-05,84,84,100,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0176,SITE-15,Placebo,2024-04-25,2024-07-18,84,84,0,0.8,Moderate,0,Completed / Ongoing
+SUBJ-0177,SITE-15,Active Treatment,2024-02-02,2024-04-26,84,84,100,0.98,High,0,Completed / Ongoing
+SUBJ-0178,SITE-10,Active Treatment,2025-05-22,2025-08-14,84,84,100,0.97,High,0,Completed / Ongoing
+SUBJ-0179,SITE-08,Placebo,2025-03-22,2025-06-14,84,84,0,0.94,High,0,Completed / Ongoing
+SUBJ-0180,SITE-10,Active Treatment,2024-07-17,2024-10-09,84,84,100,0.93,High,0,Completed / Ongoing
+SUBJ-0181,SITE-08,Placebo,2025-08-07,2025-10-30,84,84,0,0.95,High,0,Completed / Ongoing
+SUBJ-0182,SITE-16,Placebo,2025-07-25,2025-10-17,84,84,0,0.94,High,0,Completed / Ongoing
+SUBJ-0183,SITE-01,Placebo,2024-01-19,2024-04-12,84,84,0,0.84,Moderate,0,Completed / Ongoing
+SUBJ-0184,SITE-20,Placebo,2024-05-24,2024-08-16,84,84,0,0.92,High,0,Completed / Ongoing
+SUBJ-0185,SITE-05,Placebo,2024-06-29,2024-09-21,84,84,0,0.8,Moderate,0,Completed / Ongoing
+SUBJ-0186,SITE-10,Active Treatment,2025-06-02,2025-08-25,84,84,100,0.88,Moderate,0,Completed / Ongoing
+SUBJ-0187,SITE-11,Active Treatment,2025-06-09,2025-09-01,84,84,100,0.97,High,0,Completed / Ongoing
+SUBJ-0188,SITE-01,Placebo,2025-04-23,2025-07-16,84,84,0,0.94,High,0,Completed / Ongoing
+SUBJ-0189,SITE-18,Active Treatment,2025-04-30,2025-07-23,84,84,100,0.93,High,0,Completed / Ongoing
+SUBJ-0190,SITE-03,Active Treatment,2024-06-27,2024-09-19,84,84,100,0.94,High,0,Completed / Ongoing
+SUBJ-0191,SITE-03,Placebo,2024-09-28,2024-12-21,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0192,SITE-02,Active Treatment,2025-07-17,2025-10-09,84,84,100,0.98,High,0,Completed / Ongoing
+SUBJ-0193,SITE-13,Placebo,2024-02-27,2024-05-21,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0194,SITE-12,Active Treatment,2025-03-09,2025-03-28,84,19,100,0.97,High,1,Withdrawal by Subject
+SUBJ-0195,SITE-07,Active Treatment,2025-01-12,2025-03-09,84,56,100,0.93,High,1,Lost to Follow-up
+SUBJ-0196,SITE-13,Active Treatment,2024-07-26,2024-10-18,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0197,SITE-15,Placebo,2025-04-30,2025-07-23,84,84,0,0.9,High,0,Completed / Ongoing
+SUBJ-0198,SITE-01,Placebo,2025-04-22,2025-07-15,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0199,SITE-14,Active Treatment,2024-07-01,2024-09-23,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0200,SITE-04,Active Treatment,2025-03-25,2025-06-17,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0201,SITE-03,Active Treatment,2025-08-11,2025-10-06,84,56,100,0.8,Moderate,1,Withdrawal by Subject
+SUBJ-0202,SITE-16,Placebo,2024-05-06,2024-07-29,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0203,SITE-07,Placebo,2025-08-01,2025-10-24,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0204,SITE-05,Active Treatment,2025-03-15,2025-06-07,84,84,100,0.98,High,0,Completed / Ongoing
+SUBJ-0205,SITE-09,Active Treatment,2024-04-14,2024-07-07,84,84,100,0.76,Moderate,0,Completed / Ongoing
+SUBJ-0206,SITE-06,Active Treatment,2024-02-22,2024-05-16,84,84,100,0.87,Moderate,0,Completed / Ongoing
+SUBJ-0207,SITE-18,Active Treatment,2025-08-23,2025-11-15,84,84,100,0.87,Moderate,0,Completed / Ongoing
+SUBJ-0208,SITE-11,Placebo,2025-06-20,2025-09-12,84,84,0,0.98,High,0,Completed / Ongoing
+SUBJ-0209,SITE-19,Active Treatment,2024-06-27,2024-09-13,84,78,100,0.9,High,1,Withdrawal by Subject
+SUBJ-0210,SITE-04,Active Treatment,2025-05-10,2025-08-02,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0211,SITE-09,Placebo,2024-11-30,2025-02-22,84,84,0,0.93,High,0,Completed / Ongoing
+SUBJ-0212,SITE-13,Placebo,2025-01-09,2025-04-03,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0213,SITE-19,Placebo,2024-06-01,2024-08-24,84,84,0,0.77,Moderate,0,Completed / Ongoing
+SUBJ-0214,SITE-08,Active Treatment,2025-06-21,2025-09-13,84,84,100,0.98,High,0,Completed / Ongoing
+SUBJ-0215,SITE-02,Active Treatment,2024-06-16,2024-09-08,84,84,100,0.88,Moderate,0,Completed / Ongoing
+SUBJ-0216,SITE-02,Placebo,2024-09-12,2024-12-05,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0217,SITE-12,Placebo,2025-08-04,2025-10-27,84,84,0,0.9,High,0,Completed / Ongoing
+SUBJ-0218,SITE-05,Active Treatment,2024-09-13,2024-12-06,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0219,SITE-03,Active Treatment,2025-06-04,2025-08-27,84,84,100,0.96,High,0,Completed / Ongoing
+SUBJ-0220,SITE-20,Active Treatment,2025-01-15,2025-04-09,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0221,SITE-12,Active Treatment,2025-02-21,2025-05-16,84,84,100,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0222,SITE-20,Placebo,2024-09-15,2024-12-08,84,84,0,0.96,High,0,Completed / Ongoing
+SUBJ-0223,SITE-19,Placebo,2024-03-24,2024-06-16,84,84,0,0.81,Moderate,0,Completed / Ongoing
+SUBJ-0224,SITE-12,Placebo,2025-04-26,2025-07-19,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0225,SITE-20,Active Treatment,2025-01-08,2025-04-02,84,84,100,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0226,SITE-10,Placebo,2024-11-13,2025-02-05,84,84,0,0.94,High,0,Completed / Ongoing
+SUBJ-0227,SITE-01,Placebo,2024-03-03,2024-05-26,84,84,0,0.96,High,0,Completed / Ongoing
+SUBJ-0228,SITE-14,Placebo,2024-09-28,2024-12-21,84,84,0,0.82,Moderate,0,Completed / Ongoing
+SUBJ-0229,SITE-16,Placebo,2025-01-20,2025-04-14,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0230,SITE-06,Active Treatment,2025-01-30,2025-04-24,84,84,100,0.94,High,0,Completed / Ongoing
+SUBJ-0231,SITE-15,Placebo,2024-12-31,2025-03-25,84,84,0,0.94,High,0,Completed / Ongoing
+SUBJ-0232,SITE-09,Active Treatment,2024-03-13,2024-06-05,84,84,100,0.97,High,0,Completed / Ongoing
+SUBJ-0233,SITE-09,Placebo,2024-07-23,2024-10-15,84,84,0,0.97,High,0,Completed / Ongoing
+SUBJ-0234,SITE-09,Placebo,2025-08-31,2025-11-23,84,84,0,0.81,Moderate,0,Completed / Ongoing
+SUBJ-0235,SITE-03,Active Treatment,2025-05-13,2025-08-05,84,84,100,0.96,High,0,Completed / Ongoing
+SUBJ-0236,SITE-18,Placebo,2025-04-21,2025-07-14,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0237,SITE-11,Active Treatment,2024-12-20,2025-03-14,84,84,100,0.94,High,0,Completed / Ongoing
+SUBJ-0238,SITE-17,Placebo,2025-04-03,2025-06-26,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0239,SITE-03,Placebo,2025-08-26,2025-11-06,84,72,0,1,High,1,Withdrawal by Subject
+SUBJ-0240,SITE-05,Placebo,2024-03-14,2024-06-06,84,84,0,0.88,Moderate,0,Completed / Ongoing
+SUBJ-0241,SITE-02,Active Treatment,2024-05-22,2024-08-14,84,84,100,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0242,SITE-02,Placebo,2024-01-01,2024-03-25,84,84,0,0.88,Moderate,0,Completed / Ongoing
+SUBJ-0243,SITE-01,Active Treatment,2024-05-26,2024-08-18,84,84,100,0.84,Moderate,0,Completed / Ongoing
+SUBJ-0244,SITE-11,Active Treatment,2025-06-08,2025-08-31,84,84,100,0.97,High,0,Completed / Ongoing
+SUBJ-0245,SITE-06,Placebo,2024-02-23,2024-05-17,84,84,0,0.99,High,0,Completed / Ongoing
+SUBJ-0246,SITE-06,Placebo,2024-04-20,2024-07-13,84,84,0,0.98,High,0,Completed / Ongoing
+SUBJ-0247,SITE-09,Active Treatment,2024-08-23,2024-11-15,84,84,100,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0248,SITE-01,Active Treatment,2025-03-10,2025-06-02,84,84,100,0.9,High,0,Completed / Ongoing
+SUBJ-0249,SITE-03,Active Treatment,2024-03-11,2024-06-03,84,84,100,0.91,High,0,Completed / Ongoing
+SUBJ-0250,SITE-07,Active Treatment,2024-06-10,2024-09-02,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0251,SITE-08,Active Treatment,2024-05-05,2024-06-14,84,40,100,1,High,1,Protocol Deviation
+SUBJ-0252,SITE-14,Active Treatment,2025-01-15,2025-04-09,84,84,100,0.92,High,0,Completed / Ongoing
+SUBJ-0253,SITE-07,Placebo,2025-05-04,2025-07-27,84,84,0,0.99,High,0,Completed / Ongoing
+SUBJ-0254,SITE-20,Active Treatment,2025-08-28,2025-11-20,84,84,100,0.9,High,0,Completed / Ongoing
+SUBJ-0255,SITE-12,Active Treatment,2024-03-29,2024-06-09,84,72,100,0.93,High,1,Adverse Event
+SUBJ-0256,SITE-10,Placebo,2024-09-01,2024-11-24,84,84,0,0.87,Moderate,0,Completed / Ongoing
+SUBJ-0257,SITE-09,Active Treatment,2024-12-03,2025-01-28,84,56,100,0.84,Moderate,1,Lost to Follow-up
+SUBJ-0258,SITE-16,Active Treatment,2025-08-10,2025-11-02,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0259,SITE-11,Active Treatment,2025-07-31,2025-10-11,84,72,100,0.96,High,1,Adverse Event
+SUBJ-0260,SITE-09,Placebo,2024-06-05,2024-08-28,84,84,0,0.85,Moderate,0,Completed / Ongoing
+SUBJ-0261,SITE-18,Placebo,2024-03-19,2024-06-11,84,84,0,0.94,High,0,Completed / Ongoing
+SUBJ-0262,SITE-18,Placebo,2025-03-04,2025-04-20,84,47,0,0.97,High,1,Adverse Event
+SUBJ-0263,SITE-08,Active Treatment,2025-01-14,2025-04-08,84,84,100,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0264,SITE-04,Active Treatment,2025-03-29,2025-06-21,84,84,100,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0265,SITE-02,Placebo,2024-11-27,2025-02-19,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0266,SITE-18,Active Treatment,2024-04-04,2024-06-27,84,84,100,0.94,High,0,Completed / Ongoing
+SUBJ-0267,SITE-15,Active Treatment,2025-01-30,2025-04-24,84,84,100,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0268,SITE-08,Active Treatment,2024-10-18,2025-01-10,84,84,100,0.91,High,0,Completed / Ongoing
+SUBJ-0269,SITE-01,Placebo,2025-01-28,2025-03-11,84,42,0,0.99,High,1,Withdrawal by Subject
+SUBJ-0270,SITE-13,Placebo,2025-04-01,2025-05-16,84,45,0,0.89,Moderate,1,Adverse Event
+SUBJ-0271,SITE-16,Placebo,2024-09-24,2024-12-17,84,84,0,0.88,Moderate,0,Completed / Ongoing
+SUBJ-0272,SITE-20,Active Treatment,2025-05-16,2025-08-08,84,84,100,0.76,Moderate,0,Completed / Ongoing
+SUBJ-0273,SITE-07,Active Treatment,2025-01-06,2025-03-02,84,55,100,0.96,High,1,Withdrawal by Subject
+SUBJ-0274,SITE-17,Active Treatment,2024-12-12,2025-03-06,84,84,100,0.95,High,0,Completed / Ongoing
+SUBJ-0275,SITE-17,Placebo,2024-11-25,2025-02-17,84,84,0,0.96,High,0,Completed / Ongoing
+SUBJ-0276,SITE-13,Active Treatment,2024-06-11,2024-09-03,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0277,SITE-01,Active Treatment,2024-08-16,2024-11-08,84,84,100,0.92,High,0,Completed / Ongoing
+SUBJ-0278,SITE-10,Active Treatment,2025-08-02,2025-10-25,84,84,100,0.95,High,0,Completed / Ongoing
+SUBJ-0279,SITE-07,Placebo,2025-08-31,2025-11-23,84,84,0,0.9,High,0,Completed / Ongoing
+SUBJ-0280,SITE-14,Active Treatment,2024-06-30,2024-09-22,84,84,100,0.77,Moderate,0,Completed / Ongoing
+SUBJ-0281,SITE-18,Placebo,2024-08-09,2024-11-01,84,84,0,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0282,SITE-04,Placebo,2024-09-05,2024-11-28,84,84,0,0.98,High,0,Completed / Ongoing
+SUBJ-0283,SITE-15,Placebo,2025-09-02,2025-10-19,84,47,0,1,High,1,Protocol Deviation
+SUBJ-0284,SITE-05,Placebo,2024-08-31,2024-11-23,84,84,0,0.98,High,0,Completed / Ongoing
+SUBJ-0285,SITE-17,Placebo,2024-11-17,2025-02-09,84,84,0,0.82,Moderate,0,Completed / Ongoing
+SUBJ-0286,SITE-10,Active Treatment,2024-12-31,2025-02-04,84,35,100,1,High,1,Lost to Follow-up
+SUBJ-0287,SITE-13,Active Treatment,2025-02-25,2025-05-20,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0288,SITE-12,Placebo,2025-03-23,2025-06-15,84,84,0,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0289,SITE-15,Placebo,2024-03-01,2024-05-24,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0290,SITE-17,Placebo,2024-08-15,2024-11-07,84,84,0,0.98,High,0,Completed / Ongoing
+SUBJ-0291,SITE-14,Placebo,2024-02-28,2024-05-22,84,84,0,0.99,High,0,Completed / Ongoing
+SUBJ-0292,SITE-18,Placebo,2025-08-13,2025-11-05,84,84,0,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0293,SITE-11,Placebo,2024-07-28,2024-10-20,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0294,SITE-02,Active Treatment,2025-06-15,2025-09-07,84,84,100,0.84,Moderate,0,Completed / Ongoing
+SUBJ-0295,SITE-13,Placebo,2025-07-25,2025-10-17,84,84,0,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0296,SITE-20,Placebo,2024-06-08,2024-08-31,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0297,SITE-02,Placebo,2025-03-17,2025-06-09,84,84,0,0.91,High,0,Completed / Ongoing
+SUBJ-0298,SITE-10,Placebo,2025-06-12,2025-09-04,84,84,0,0.84,Moderate,0,Completed / Ongoing
+SUBJ-0299,SITE-19,Active Treatment,2024-10-13,2024-10-30,84,17,100,0.92,High,1,Adverse Event
+SUBJ-0300,SITE-17,Placebo,2025-01-27,2025-04-21,84,84,0,0.8,Moderate,0,Completed / Ongoing
+SUBJ-0301,SITE-09,Active Treatment,2024-11-30,2025-02-22,84,84,100,0.93,High,0,Completed / Ongoing
+SUBJ-0302,SITE-11,Placebo,2025-06-24,2025-09-16,84,84,0,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0303,SITE-16,Placebo,2025-03-02,2025-05-25,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0304,SITE-02,Placebo,2025-05-22,2025-08-14,84,84,0,0.91,High,0,Completed / Ongoing
+SUBJ-0305,SITE-14,Active Treatment,2024-01-02,2024-03-26,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0306,SITE-13,Active Treatment,2025-01-18,2025-04-12,84,84,100,0.93,High,0,Completed / Ongoing
+SUBJ-0307,SITE-20,Placebo,2024-08-28,2024-11-20,84,84,0,0.96,High,0,Completed / Ongoing
+SUBJ-0308,SITE-12,Active Treatment,2025-05-07,2025-07-30,84,84,100,0.98,High,0,Completed / Ongoing
+SUBJ-0309,SITE-16,Active Treatment,2024-12-14,2025-03-08,84,84,100,0.91,High,0,Completed / Ongoing
+SUBJ-0310,SITE-11,Placebo,2025-03-06,2025-05-29,84,84,0,0.98,High,0,Completed / Ongoing
+SUBJ-0311,SITE-15,Placebo,2024-09-19,2024-12-12,84,84,0,0.99,High,0,Completed / Ongoing
+SUBJ-0312,SITE-08,Active Treatment,2024-04-30,2024-07-23,84,84,100,0.84,Moderate,0,Completed / Ongoing
+SUBJ-0313,SITE-15,Placebo,2024-04-22,2024-05-15,84,23,0,1,High,1,Adverse Event
+SUBJ-0314,SITE-20,Active Treatment,2024-08-01,2024-10-24,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0315,SITE-06,Placebo,2024-07-19,2024-10-11,84,84,0,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0316,SITE-10,Active Treatment,2025-07-27,2025-10-19,84,84,100,0.7,Low,0,Completed / Ongoing
+SUBJ-0317,SITE-08,Active Treatment,2024-05-12,2024-08-04,84,84,100,0.88,Moderate,0,Completed / Ongoing
+SUBJ-0318,SITE-08,Placebo,2024-01-16,2024-04-09,84,84,0,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0319,SITE-12,Active Treatment,2025-04-02,2025-06-25,84,84,100,0.99,High,0,Completed / Ongoing
+SUBJ-0320,SITE-15,Active Treatment,2024-11-22,2025-02-14,84,84,100,0.73,Low,0,Completed / Ongoing
+SUBJ-0321,SITE-12,Placebo,2024-05-02,2024-07-25,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0322,SITE-19,Placebo,2024-02-16,2024-05-10,84,84,0,0.9,High,0,Completed / Ongoing
+SUBJ-0323,SITE-20,Active Treatment,2024-05-29,2024-08-21,84,84,100,0.96,High,0,Completed / Ongoing
+SUBJ-0324,SITE-13,Placebo,2024-11-11,2025-02-03,84,84,0,0.91,High,0,Completed / Ongoing
+SUBJ-0325,SITE-06,Active Treatment,2025-08-21,2025-11-13,84,84,100,0.96,High,0,Completed / Ongoing
+SUBJ-0326,SITE-19,Placebo,2024-11-24,2025-02-16,84,84,0,0.79,Moderate,0,Completed / Ongoing
+SUBJ-0327,SITE-08,Active Treatment,2024-05-14,2024-07-14,84,61,100,0.86,Moderate,1,Lost to Follow-up
+SUBJ-0328,SITE-18,Active Treatment,2025-02-01,2025-04-26,84,84,100,0.83,Moderate,0,Completed / Ongoing
+SUBJ-0329,SITE-13,Placebo,2024-12-01,2025-02-23,84,84,0,0.88,Moderate,0,Completed / Ongoing
+SUBJ-0330,SITE-07,Active Treatment,2024-09-14,2024-12-07,84,84,100,0.95,High,0,Completed / Ongoing
+SUBJ-0331,SITE-08,Active Treatment,2025-01-16,2025-04-10,84,84,100,0.92,High,0,Completed / Ongoing
+SUBJ-0332,SITE-05,Active Treatment,2025-02-19,2025-05-14,84,84,100,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0333,SITE-18,Placebo,2024-03-15,2024-06-07,84,84,0,0.91,High,0,Completed / Ongoing
+SUBJ-0334,SITE-04,Placebo,2024-12-03,2025-02-25,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0335,SITE-06,Active Treatment,2025-05-24,2025-08-16,84,84,100,0.82,Moderate,0,Completed / Ongoing
+SUBJ-0336,SITE-09,Placebo,2025-06-30,2025-09-22,84,84,0,0.83,Moderate,0,Completed / Ongoing
+SUBJ-0337,SITE-20,Active Treatment,2025-03-07,2025-04-11,84,35,100,0.99,High,1,Protocol Deviation
+SUBJ-0338,SITE-01,Placebo,2025-06-26,2025-09-18,84,84,0,0.85,Moderate,0,Completed / Ongoing
+SUBJ-0339,SITE-13,Active Treatment,2024-09-27,2024-12-20,84,84,100,0.84,Moderate,0,Completed / Ongoing
+SUBJ-0340,SITE-13,Placebo,2025-07-08,2025-09-30,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0341,SITE-12,Placebo,2024-09-15,2024-12-08,84,84,0,0.97,High,0,Completed / Ongoing
+SUBJ-0342,SITE-08,Placebo,2025-08-23,2025-11-15,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0343,SITE-18,Active Treatment,2024-05-26,2024-08-18,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0344,SITE-02,Active Treatment,2025-03-22,2025-06-14,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0345,SITE-08,Placebo,2024-05-27,2024-08-19,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0346,SITE-13,Active Treatment,2025-08-29,2025-11-21,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0347,SITE-18,Placebo,2024-06-14,2024-09-06,84,84,0,0.97,High,0,Completed / Ongoing
+SUBJ-0348,SITE-04,Active Treatment,2025-03-29,2025-06-01,84,64,100,0.79,Moderate,1,Protocol Deviation
+SUBJ-0349,SITE-17,Placebo,2025-03-20,2025-06-12,84,84,0,0.98,High,0,Completed / Ongoing
+SUBJ-0350,SITE-07,Active Treatment,2024-05-13,2024-08-05,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0351,SITE-03,Placebo,2024-05-02,2024-05-29,84,27,0,0.94,High,1,Withdrawal by Subject
+SUBJ-0352,SITE-06,Placebo,2025-08-17,2025-11-09,84,84,0,0.81,Moderate,0,Completed / Ongoing
+SUBJ-0353,SITE-14,Active Treatment,2024-01-07,2024-02-02,84,26,100,0.99,High,1,Lost to Follow-up
+SUBJ-0354,SITE-13,Placebo,2024-10-24,2025-01-16,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0355,SITE-08,Placebo,2024-12-31,2025-03-25,84,84,0,0.9,High,0,Completed / Ongoing
+SUBJ-0356,SITE-13,Placebo,2024-02-26,2024-05-20,84,84,0,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0357,SITE-20,Placebo,2025-01-27,2025-04-21,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0358,SITE-09,Placebo,2025-04-26,2025-06-26,84,61,0,1,High,1,Withdrawal by Subject
+SUBJ-0359,SITE-09,Placebo,2025-05-14,2025-08-06,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0360,SITE-10,Active Treatment,2024-03-08,2024-05-31,84,84,100,0.95,High,0,Completed / Ongoing
+SUBJ-0361,SITE-10,Placebo,2025-05-05,2025-07-28,84,84,0,0.97,High,0,Completed / Ongoing
+SUBJ-0362,SITE-03,Active Treatment,2024-12-22,2025-03-16,84,84,100,0.87,Moderate,0,Completed / Ongoing
+SUBJ-0363,SITE-13,Placebo,2025-05-25,2025-08-17,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0364,SITE-18,Active Treatment,2024-07-28,2024-09-25,84,59,100,0.83,Moderate,1,Lost to Follow-up
+SUBJ-0365,SITE-01,Placebo,2025-01-22,2025-04-16,84,84,0,0.99,High,0,Completed / Ongoing
+SUBJ-0366,SITE-09,Placebo,2025-09-01,2025-11-24,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0367,SITE-09,Placebo,2025-06-20,2025-09-12,84,84,0,0.85,Moderate,0,Completed / Ongoing
+SUBJ-0368,SITE-17,Active Treatment,2024-10-15,2025-01-07,84,84,100,0.91,High,0,Completed / Ongoing
+SUBJ-0369,SITE-05,Placebo,2025-04-24,2025-07-17,84,84,0,0.99,High,0,Completed / Ongoing
+SUBJ-0370,SITE-16,Active Treatment,2025-08-09,2025-11-01,84,84,100,0.93,High,0,Completed / Ongoing
+SUBJ-0371,SITE-16,Active Treatment,2025-09-01,2025-11-24,84,84,100,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0372,SITE-02,Placebo,2024-11-05,2025-01-28,84,84,0,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0373,SITE-04,Placebo,2025-01-18,2025-04-12,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0374,SITE-02,Placebo,2024-12-04,2025-02-26,84,84,0,0.96,High,0,Completed / Ongoing
+SUBJ-0375,SITE-12,Placebo,2025-02-04,2025-04-29,84,84,0,0.96,High,0,Completed / Ongoing
+SUBJ-0376,SITE-07,Placebo,2025-04-13,2025-07-06,84,84,0,0.92,High,0,Completed / Ongoing
+SUBJ-0377,SITE-18,Placebo,2024-08-16,2024-11-08,84,84,0,0.99,High,0,Completed / Ongoing
+SUBJ-0378,SITE-02,Active Treatment,2025-07-26,2025-09-23,84,59,100,0.86,Moderate,1,Withdrawal by Subject
+SUBJ-0379,SITE-06,Placebo,2024-09-30,2024-12-23,84,84,0,0.85,Moderate,0,Completed / Ongoing
+SUBJ-0380,SITE-16,Placebo,2025-03-24,2025-06-16,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0381,SITE-16,Placebo,2024-11-26,2025-02-18,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0382,SITE-18,Placebo,2024-11-25,2025-02-17,84,84,0,0.79,Moderate,0,Completed / Ongoing
+SUBJ-0383,SITE-18,Active Treatment,2025-05-15,2025-08-07,84,84,100,0.96,High,0,Completed / Ongoing
+SUBJ-0384,SITE-19,Placebo,2024-11-27,2025-02-19,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0385,SITE-16,Placebo,2025-03-26,2025-06-18,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0386,SITE-09,Active Treatment,2025-02-19,2025-05-14,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0387,SITE-02,Active Treatment,2024-07-31,2024-10-23,84,84,100,0.85,Moderate,0,Completed / Ongoing
+SUBJ-0388,SITE-12,Active Treatment,2024-11-25,2025-02-17,84,84,100,0.9,High,0,Completed / Ongoing
+SUBJ-0389,SITE-04,Active Treatment,2025-08-01,2025-10-24,84,84,100,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0390,SITE-14,Active Treatment,2024-06-19,2024-09-11,84,84,100,0.81,Moderate,0,Completed / Ongoing
+SUBJ-0391,SITE-17,Active Treatment,2025-08-31,2025-11-23,84,84,100,0.95,High,0,Completed / Ongoing
+SUBJ-0392,SITE-11,Placebo,2025-08-06,2025-10-29,84,84,0,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0393,SITE-01,Placebo,2025-06-03,2025-08-26,84,84,0,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0394,SITE-09,Active Treatment,2025-02-11,2025-05-06,84,84,100,0.94,High,0,Completed / Ongoing
+SUBJ-0395,SITE-01,Placebo,2025-06-24,2025-09-16,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0396,SITE-02,Active Treatment,2025-03-19,2025-06-11,84,84,100,0.86,Moderate,0,Completed / Ongoing
+SUBJ-0397,SITE-04,Placebo,2025-06-14,2025-09-06,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0398,SITE-19,Active Treatment,2024-03-26,2024-06-18,84,84,100,0.84,Moderate,0,Completed / Ongoing
+SUBJ-0399,SITE-19,Active Treatment,2024-10-04,2024-10-28,84,24,100,0.94,High,1,Adverse Event
+SUBJ-0400,SITE-08,Active Treatment,2025-04-29,2025-07-22,84,84,100,0.87,Moderate,0,Completed / Ongoing
+SUBJ-0401,SITE-10,Active Treatment,2025-09-02,2025-11-25,84,84,100,0.96,High,0,Completed / Ongoing
+SUBJ-0402,SITE-15,Placebo,2024-07-24,2024-10-16,84,84,0,0.85,Moderate,0,Completed / Ongoing
+SUBJ-0403,SITE-20,Active Treatment,2024-09-26,2024-12-19,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0404,SITE-11,Active Treatment,2025-06-20,2025-09-12,84,84,100,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0405,SITE-19,Active Treatment,2024-02-08,2024-05-02,84,84,100,0.93,High,0,Completed / Ongoing
+SUBJ-0406,SITE-18,Active Treatment,2025-04-18,2025-07-11,84,84,100,0.87,Moderate,0,Completed / Ongoing
+SUBJ-0407,SITE-07,Active Treatment,2024-07-03,2024-09-25,84,84,100,0.94,High,0,Completed / Ongoing
+SUBJ-0408,SITE-17,Placebo,2024-05-28,2024-08-20,84,84,0,0.93,High,0,Completed / Ongoing
+SUBJ-0409,SITE-18,Active Treatment,2025-08-23,2025-11-15,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0410,SITE-17,Active Treatment,2024-04-10,2024-07-03,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0411,SITE-13,Placebo,2025-05-03,2025-07-26,84,84,0,0.93,High,0,Completed / Ongoing
+SUBJ-0412,SITE-01,Active Treatment,2025-04-17,2025-07-10,84,84,100,0.97,High,0,Completed / Ongoing
+SUBJ-0413,SITE-13,Active Treatment,2025-04-22,2025-07-15,84,84,100,0.96,High,0,Completed / Ongoing
+SUBJ-0414,SITE-10,Active Treatment,2024-02-04,2024-04-28,84,84,100,0.87,Moderate,0,Completed / Ongoing
+SUBJ-0415,SITE-05,Placebo,2024-04-09,2024-07-02,84,84,0,0.94,High,0,Completed / Ongoing
+SUBJ-0416,SITE-02,Placebo,2024-01-05,2024-03-29,84,84,0,0.82,Moderate,0,Completed / Ongoing
+SUBJ-0417,SITE-08,Placebo,2024-09-05,2024-11-28,84,84,0,0.98,High,0,Completed / Ongoing
+SUBJ-0418,SITE-13,Placebo,2024-12-25,2025-03-19,84,84,0,0.82,Moderate,0,Completed / Ongoing
+SUBJ-0419,SITE-15,Active Treatment,2024-08-28,2024-10-03,84,36,100,0.98,High,1,Lost to Follow-up
+SUBJ-0420,SITE-09,Active Treatment,2025-01-16,2025-04-10,84,84,100,0.88,Moderate,0,Completed / Ongoing
+SUBJ-0421,SITE-06,Active Treatment,2024-12-24,2025-03-18,84,84,100,0.87,Moderate,0,Completed / Ongoing
+SUBJ-0422,SITE-20,Placebo,2024-06-13,2024-09-05,84,84,0,0.95,High,0,Completed / Ongoing
+SUBJ-0423,SITE-08,Active Treatment,2024-11-13,2024-12-27,84,44,100,0.82,Moderate,1,Adverse Event
+SUBJ-0424,SITE-07,Active Treatment,2024-11-11,2025-02-03,84,84,100,0.87,Moderate,0,Completed / Ongoing
+SUBJ-0425,SITE-05,Active Treatment,2024-06-01,2024-08-24,84,84,100,0.9,High,0,Completed / Ongoing
+SUBJ-0426,SITE-05,Active Treatment,2025-01-07,2025-02-27,84,51,100,0.81,Moderate,1,Lost to Follow-up
+SUBJ-0427,SITE-08,Active Treatment,2025-08-04,2025-10-27,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0428,SITE-06,Placebo,2024-11-28,2025-02-20,84,84,0,0.98,High,0,Completed / Ongoing
+SUBJ-0429,SITE-04,Placebo,2024-06-22,2024-09-14,84,84,0,0.95,High,0,Completed / Ongoing
+SUBJ-0430,SITE-10,Active Treatment,2024-01-24,2024-04-17,84,84,100,0.78,Moderate,0,Completed / Ongoing
+SUBJ-0431,SITE-16,Placebo,2024-08-17,2024-11-09,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0432,SITE-20,Active Treatment,2025-01-19,2025-04-13,84,84,100,0.95,High,0,Completed / Ongoing
+SUBJ-0433,SITE-15,Active Treatment,2024-02-09,2024-05-03,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0434,SITE-14,Active Treatment,2024-10-24,2025-01-16,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0435,SITE-04,Placebo,2025-08-12,2025-11-04,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0436,SITE-14,Active Treatment,2025-07-15,2025-10-07,84,84,100,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0437,SITE-17,Active Treatment,2025-08-16,2025-11-08,84,84,100,0.91,High,0,Completed / Ongoing
+SUBJ-0438,SITE-04,Placebo,2024-05-27,2024-08-19,84,84,0,0.84,Moderate,0,Completed / Ongoing
+SUBJ-0439,SITE-04,Active Treatment,2025-07-02,2025-09-24,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0440,SITE-14,Active Treatment,2024-07-08,2024-09-30,84,84,100,0.93,High,0,Completed / Ongoing
+SUBJ-0441,SITE-11,Active Treatment,2024-06-23,2024-09-15,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0442,SITE-10,Placebo,2024-10-09,2025-01-01,84,84,0,0.9,High,0,Completed / Ongoing
+SUBJ-0443,SITE-17,Placebo,2024-07-16,2024-10-08,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0444,SITE-04,Placebo,2024-05-26,2024-08-18,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0445,SITE-01,Active Treatment,2024-01-11,2024-04-04,84,84,100,0.75,Moderate,0,Completed / Ongoing
+SUBJ-0446,SITE-05,Active Treatment,2024-10-28,2025-01-20,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0447,SITE-18,Placebo,2024-11-10,2025-02-02,84,84,0,0.97,High,0,Completed / Ongoing
+SUBJ-0448,SITE-20,Placebo,2024-02-06,2024-04-30,84,84,0,0.8,Moderate,0,Completed / Ongoing
+SUBJ-0449,SITE-06,Placebo,2025-03-22,2025-04-08,84,17,0,0.8,Moderate,1,Lost to Follow-up
+SUBJ-0450,SITE-11,Active Treatment,2025-06-24,2025-09-16,84,84,100,0.96,High,0,Completed / Ongoing
+SUBJ-0451,SITE-10,Placebo,2024-06-04,2024-08-27,84,84,0,0.96,High,0,Completed / Ongoing
+SUBJ-0452,SITE-20,Placebo,2025-02-16,2025-04-21,84,64,0,0.9,High,1,Withdrawal by Subject
+SUBJ-0453,SITE-12,Active Treatment,2025-07-17,2025-10-09,84,84,100,0.94,High,0,Completed / Ongoing
+SUBJ-0454,SITE-17,Active Treatment,2025-02-26,2025-05-21,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0455,SITE-14,Active Treatment,2025-03-09,2025-06-01,84,84,100,0.93,High,0,Completed / Ongoing
+SUBJ-0456,SITE-07,Active Treatment,2025-05-19,2025-08-11,84,84,100,0.93,High,0,Completed / Ongoing
+SUBJ-0457,SITE-13,Placebo,2024-01-13,2024-04-06,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0458,SITE-15,Active Treatment,2025-03-05,2025-05-06,84,62,100,0.96,High,1,Withdrawal by Subject
+SUBJ-0459,SITE-19,Placebo,2024-01-16,2024-04-09,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0460,SITE-08,Active Treatment,2024-07-14,2024-10-06,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0461,SITE-01,Placebo,2025-01-29,2025-04-23,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0462,SITE-02,Active Treatment,2024-02-19,2024-05-13,84,84,100,0.88,Moderate,0,Completed / Ongoing
+SUBJ-0463,SITE-12,Active Treatment,2025-02-16,2025-04-19,84,62,100,0.96,High,1,Adverse Event
+SUBJ-0464,SITE-06,Placebo,2025-06-13,2025-09-05,84,84,0,0.95,High,0,Completed / Ongoing
+SUBJ-0465,SITE-13,Placebo,2024-07-14,2024-10-06,84,84,0,0.98,High,0,Completed / Ongoing
+SUBJ-0466,SITE-11,Active Treatment,2025-07-14,2025-10-06,84,84,100,0.91,High,0,Completed / Ongoing
+SUBJ-0467,SITE-09,Placebo,2024-02-13,2024-05-07,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0468,SITE-18,Active Treatment,2025-01-26,2025-04-20,84,84,100,0.92,High,0,Completed / Ongoing
+SUBJ-0469,SITE-05,Active Treatment,2025-02-22,2025-05-17,84,84,100,0.92,High,0,Completed / Ongoing
+SUBJ-0470,SITE-17,Placebo,2025-04-14,2025-07-07,84,84,0,0.99,High,0,Completed / Ongoing
+SUBJ-0471,SITE-13,Active Treatment,2024-05-30,2024-08-22,84,84,100,0.82,Moderate,0,Completed / Ongoing
+SUBJ-0472,SITE-18,Placebo,2025-07-03,2025-09-25,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0473,SITE-07,Active Treatment,2024-11-13,2025-02-05,84,84,100,0.98,High,0,Completed / Ongoing
+SUBJ-0474,SITE-14,Active Treatment,2025-08-23,2025-11-15,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0475,SITE-19,Placebo,2025-02-07,2025-05-02,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0476,SITE-11,Placebo,2025-07-08,2025-09-30,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0477,SITE-04,Placebo,2024-11-05,2025-01-28,84,84,0,0.8,Moderate,0,Completed / Ongoing
+SUBJ-0478,SITE-12,Placebo,2025-07-28,2025-10-20,84,84,0,0.92,High,0,Completed / Ongoing
+SUBJ-0479,SITE-10,Active Treatment,2025-01-21,2025-04-15,84,84,100,0.84,Moderate,0,Completed / Ongoing
+SUBJ-0480,SITE-09,Active Treatment,2024-01-19,2024-04-12,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0481,SITE-20,Active Treatment,2024-11-16,2025-02-08,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0482,SITE-04,Placebo,2024-05-09,2024-08-01,84,84,0,0.96,High,0,Completed / Ongoing
+SUBJ-0483,SITE-15,Active Treatment,2024-06-26,2024-09-18,84,84,100,0.84,Moderate,0,Completed / Ongoing
+SUBJ-0484,SITE-12,Active Treatment,2025-07-29,2025-10-21,84,84,100,0.93,High,0,Completed / Ongoing
+SUBJ-0485,SITE-17,Placebo,2025-02-19,2025-05-14,84,84,0,0.89,Moderate,0,Completed / Ongoing
+SUBJ-0486,SITE-04,Placebo,2024-11-29,2025-02-21,84,84,0,0.92,High,0,Completed / Ongoing
+SUBJ-0487,SITE-16,Placebo,2024-11-15,2025-02-07,84,84,0,1,High,0,Completed / Ongoing
+SUBJ-0488,SITE-16,Active Treatment,2024-04-11,2024-07-04,84,84,100,1,High,0,Completed / Ongoing
+SUBJ-0489,SITE-06,Active Treatment,2024-01-12,2024-04-05,84,84,100,0.96,High,0,Completed / Ongoing
+SUBJ-0490,SITE-05,Active Treatment,2025-05-12,2025-08-04,84,84,100,0.84,Moderate,0,Completed / Ongoing
+SUBJ-0491,SITE-18,Placebo,2024-02-12,2024-05-06,84,84,0,0.9,High,0,Completed / Ongoing
+SUBJ-0492,SITE-02,Placebo,2024-07-16,2024-10-08,84,84,0,0.85,Moderate,0,Completed / Ongoing
+SUBJ-0493,SITE-15,Active Treatment,2025-02-06,2025-05-01,84,84,100,0.81,Moderate,0,Completed / Ongoing
+SUBJ-0494,SITE-19,Active Treatment,2024-01-25,2024-04-18,84,84,100,0.77,Moderate,0,Completed / Ongoing
+SUBJ-0495,SITE-14,Placebo,2024-06-03,2024-08-26,84,84,0,0.96,High,0,Completed / Ongoing
+SUBJ-0496,SITE-16,Placebo,2025-08-03,2025-10-26,84,84,0,0.9,High,0,Completed / Ongoing
+SUBJ-0497,SITE-15,Active Treatment,2024-12-18,2025-03-12,84,84,100,0.99,High,0,Completed / Ongoing
+SUBJ-0498,SITE-19,Placebo,2025-01-25,2025-04-19,84,84,0,0.88,Moderate,0,Completed / Ongoing
+SUBJ-0499,SITE-17,Active Treatment,2024-11-13,2024-11-29,84,16,100,0.9,High,1,Adverse Event
+SUBJ-0500,SITE-20,Placebo,2024-04-27,2024-07-20,84,84,0,0.9,High,0,Completed / Ongoing

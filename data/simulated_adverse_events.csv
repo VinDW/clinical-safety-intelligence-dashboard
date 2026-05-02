@@ -1,0 +1,542 @@
+ae_id,subject_id,site_id,treatment_arm,ae_sequence,ae_term,system_organ_class,ae_start_date,ae_start_day,severity,seriousness,relationship,outcome
+SUBJ-0001-AE-01,SUBJ-0001,SITE-01,Active Treatment,1,Chest Pain,Investigations,2024-03-12,24,Mild,Non-serious,Not Related,Recovering
+SUBJ-0001-AE-02,SUBJ-0001,SITE-01,Active Treatment,2,Shortness of Breath,General disorders,2024-04-22,65,Moderate,Non-serious,Possible,Recovering
+SUBJ-0004-AE-01,SUBJ-0004,SITE-15,Active Treatment,1,Nausea,Investigations,2025-10-13,107,Mild,Non-serious,Not Related,Not Recovered
+SUBJ-0004-AE-02,SUBJ-0004,SITE-15,Active Treatment,2,Vomiting,Nervous system disorders,2025-07-14,16,Moderate,Non-serious,Possible,Recovered
+SUBJ-0005-AE-01,SUBJ-0005,SITE-12,Active Treatment,1,Diarrhoea,Blood disorders,2025-01-25,80,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0005-AE-02,SUBJ-0005,SITE-12,Active Treatment,2,Headache,Blood disorders,2024-11-27,21,Mild,Non-serious,Unlikely,Unknown
+SUBJ-0007-AE-01,SUBJ-0007,SITE-16,Placebo,1,Headache,Cardiac disorders,2024-11-23,93,Severe,Serious,Not Related,Not Recovered
+SUBJ-0007-AE-02,SUBJ-0007,SITE-16,Placebo,2,Anaemia,Respiratory disorders,2024-09-30,39,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0009-AE-01,SUBJ-0009,SITE-12,Active Treatment,1,Nausea,Respiratory disorders,2024-04-05,5,Mild,Non-serious,Probable,Not Recovered
+SUBJ-0009-AE-02,SUBJ-0009,SITE-12,Active Treatment,2,Elevated ALT,Blood disorders,2024-07-10,101,Mild,Non-serious,Not Related,Recovering
+SUBJ-0013-AE-01,SUBJ-0013,SITE-14,Placebo,1,Headache,Cardiac disorders,2024-06-13,54,Mild,Non-serious,Unlikely,Recovering
+SUBJ-0015-AE-01,SUBJ-0015,SITE-12,Active Treatment,1,Chest Pain,General disorders,2025-06-05,90,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0015-AE-02,SUBJ-0015,SITE-12,Active Treatment,2,Headache,Gastrointestinal disorders,2025-04-06,30,Mild,Non-serious,Possible,Recovering
+SUBJ-0016-AE-01,SUBJ-0016,SITE-10,Placebo,1,Chest Pain,General disorders,2024-12-10,74,Severe,Non-serious,Unlikely,Recovering
+SUBJ-0017-AE-01,SUBJ-0017,SITE-18,Active Treatment,1,Vomiting,Cardiac disorders,2024-08-14,21,Moderate,Non-serious,Possible,Recovered
+SUBJ-0018-AE-01,SUBJ-0018,SITE-02,Placebo,1,Fatigue,Blood disorders,2024-09-06,12,Moderate,Non-serious,Probable,Recovered
+SUBJ-0019-AE-01,SUBJ-0019,SITE-05,Active Treatment,1,Shortness of Breath,Cardiac disorders,2024-08-15,25,Mild,Non-serious,Possible,Recovered
+SUBJ-0019-AE-02,SUBJ-0019,SITE-05,Active Treatment,2,Vomiting,Skin disorders,2024-08-11,21,Mild,Non-serious,Possible,Recovered
+SUBJ-0019-AE-03,SUBJ-0019,SITE-05,Active Treatment,3,Insomnia,General disorders,2024-08-19,29,Moderate,Non-serious,Possible,Recovered
+SUBJ-0022-AE-01,SUBJ-0022,SITE-16,Placebo,1,Chest Pain,Cardiac disorders,2025-01-02,116,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0023-AE-01,SUBJ-0023,SITE-03,Placebo,1,Fatigue,General disorders,2025-01-08,30,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0024-AE-01,SUBJ-0024,SITE-12,Placebo,1,Hypertension,Respiratory disorders,2024-09-11,107,Mild,Non-serious,Not Related,Recovering
+SUBJ-0025-AE-01,SUBJ-0025,SITE-03,Placebo,1,Neutropenia,General disorders,2024-03-24,34,Mild,Non-serious,Not Related,Recovering
+SUBJ-0027-AE-01,SUBJ-0027,SITE-10,Placebo,1,Dizziness,Gastrointestinal disorders,2025-01-19,111,Mild,Non-serious,Possible,Recovered
+SUBJ-0027-AE-02,SUBJ-0027,SITE-10,Placebo,2,Elevated AST,Nervous system disorders,2024-11-25,56,Mild,Non-serious,Not Related,Recovering
+SUBJ-0028-AE-01,SUBJ-0028,SITE-04,Active Treatment,1,Elevated ALT,Respiratory disorders,2024-04-26,104,Mild,Non-serious,Unlikely,Recovering
+SUBJ-0029-AE-01,SUBJ-0029,SITE-08,Active Treatment,1,Diarrhoea,General disorders,2025-05-26,76,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0031-AE-01,SUBJ-0031,SITE-02,Placebo,1,Rash,Skin disorders,2024-04-21,28,Mild,Non-serious,Not Related,Recovered
+SUBJ-0031-AE-02,SUBJ-0031,SITE-02,Placebo,2,Shortness of Breath,Blood disorders,2024-06-30,98,Mild,Non-serious,Not Related,Unknown
+SUBJ-0031-AE-03,SUBJ-0031,SITE-02,Placebo,3,Rash,Nervous system disorders,2024-05-26,63,Moderate,Non-serious,Probable,Recovered
+SUBJ-0031-AE-04,SUBJ-0031,SITE-02,Placebo,4,Shortness of Breath,Investigations,2024-04-15,22,Mild,Non-serious,Possible,Recovered
+SUBJ-0032-AE-01,SUBJ-0032,SITE-13,Active Treatment,1,Hypertension,Gastrointestinal disorders,2024-10-22,2,Mild,Non-serious,Not Related,Recovered
+SUBJ-0032-AE-02,SUBJ-0032,SITE-13,Active Treatment,2,Dizziness,Blood disorders,2025-02-14,117,Severe,Serious,Unlikely,Recovered
+SUBJ-0033-AE-01,SUBJ-0033,SITE-09,Active Treatment,1,Vomiting,Gastrointestinal disorders,2025-07-07,83,Mild,Non-serious,Definite,Recovered
+SUBJ-0033-AE-02,SUBJ-0033,SITE-09,Active Treatment,2,Dizziness,General disorders,2025-04-20,5,Moderate,Non-serious,Probable,Recovering
+SUBJ-0033-AE-03,SUBJ-0033,SITE-09,Active Treatment,3,Elevated ALT,Investigations,2025-08-11,118,Mild,Non-serious,Not Related,Recovered
+SUBJ-0034-AE-01,SUBJ-0034,SITE-12,Active Treatment,1,Chest Pain,Gastrointestinal disorders,2025-04-13,30,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0034-AE-02,SUBJ-0034,SITE-12,Active Treatment,2,Rash,Blood disorders,2025-05-13,60,Mild,Non-serious,Possible,Not Recovered
+SUBJ-0034-AE-03,SUBJ-0034,SITE-12,Active Treatment,3,Diarrhoea,Blood disorders,2025-06-30,108,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0035-AE-01,SUBJ-0035,SITE-05,Placebo,1,Shortness of Breath,Cardiac disorders,2025-02-11,79,Mild,Non-serious,Not Related,Recovering
+SUBJ-0036-AE-01,SUBJ-0036,SITE-09,Placebo,1,Fatigue,Skin disorders,2024-07-16,70,Severe,Non-serious,Not Related,Recovered
+SUBJ-0038-AE-01,SUBJ-0038,SITE-18,Active Treatment,1,Hypertension,Blood disorders,2025-09-27,98,Mild,Non-serious,Possible,Recovered
+SUBJ-0040-AE-01,SUBJ-0040,SITE-16,Active Treatment,1,Elevated AST,Skin disorders,2025-08-25,14,Mild,Non-serious,Not Related,Recovered
+SUBJ-0040-AE-02,SUBJ-0040,SITE-16,Active Treatment,2,Rash,Nervous system disorders,2025-11-15,96,Mild,Non-serious,Not Related,Recovering
+SUBJ-0040-AE-03,SUBJ-0040,SITE-16,Active Treatment,3,Fatigue,General disorders,2025-08-23,12,Mild,Non-serious,Not Related,Recovered
+SUBJ-0042-AE-01,SUBJ-0042,SITE-18,Active Treatment,1,Anaemia,Gastrointestinal disorders,2024-08-17,60,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0044-AE-01,SUBJ-0044,SITE-05,Placebo,1,Fatigue,Cardiac disorders,2024-05-04,103,Mild,Serious,Probable,Recovered
+SUBJ-0044-AE-02,SUBJ-0044,SITE-05,Placebo,2,Diarrhoea,Blood disorders,2024-05-08,107,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0044-AE-03,SUBJ-0044,SITE-05,Placebo,3,Insomnia,Blood disorders,2024-04-27,96,Severe,Non-serious,Unlikely,Recovering
+SUBJ-0046-AE-01,SUBJ-0046,SITE-04,Placebo,1,Headache,Gastrointestinal disorders,2024-11-11,55,Severe,Non-serious,Not Related,Recovered
+SUBJ-0046-AE-02,SUBJ-0046,SITE-04,Placebo,2,Vomiting,Respiratory disorders,2025-01-11,116,Mild,Non-serious,Possible,Recovered
+SUBJ-0046-AE-03,SUBJ-0046,SITE-04,Placebo,3,Hypertension,Gastrointestinal disorders,2024-09-28,11,Mild,Non-serious,Probable,Recovered
+SUBJ-0049-AE-01,SUBJ-0049,SITE-09,Active Treatment,1,Headache,Skin disorders,2025-12-21,116,Mild,Non-serious,Possible,Recovering
+SUBJ-0049-AE-02,SUBJ-0049,SITE-09,Active Treatment,2,Neutropenia,Nervous system disorders,2025-10-19,53,Mild,Non-serious,Probable,Recovered
+SUBJ-0051-AE-01,SUBJ-0051,SITE-15,Placebo,1,Elevated ALT,Cardiac disorders,2024-06-24,11,Mild,Non-serious,Not Related,Recovered
+SUBJ-0051-AE-02,SUBJ-0051,SITE-15,Placebo,2,Anaemia,Investigations,2024-08-22,70,Mild,Non-serious,Possible,Recovering
+SUBJ-0052-AE-01,SUBJ-0052,SITE-20,Placebo,1,Vomiting,Nervous system disorders,2024-11-18,61,Moderate,Serious,Possible,Unknown
+SUBJ-0053-AE-01,SUBJ-0053,SITE-09,Placebo,1,Headache,Gastrointestinal disorders,2024-07-27,75,Mild,Non-serious,Possible,Recovering
+SUBJ-0054-AE-01,SUBJ-0054,SITE-06,Placebo,1,Headache,Respiratory disorders,2025-06-29,104,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0055-AE-01,SUBJ-0055,SITE-04,Placebo,1,Shortness of Breath,Investigations,2024-09-20,95,Moderate,Non-serious,Not Related,Recovering
+SUBJ-0055-AE-02,SUBJ-0055,SITE-04,Placebo,2,Nausea,Nervous system disorders,2024-10-15,120,Mild,Non-serious,Not Related,Recovering
+SUBJ-0056-AE-01,SUBJ-0056,SITE-15,Placebo,1,Nausea,Blood disorders,2025-05-02,14,Moderate,Non-serious,Possible,Recovered
+SUBJ-0056-AE-02,SUBJ-0056,SITE-15,Placebo,2,Insomnia,Gastrointestinal disorders,2025-05-04,16,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0056-AE-03,SUBJ-0056,SITE-15,Placebo,3,Hypertension,Nervous system disorders,2025-08-10,114,Mild,Non-serious,Definite,Unknown
+SUBJ-0056-AE-04,SUBJ-0056,SITE-15,Placebo,4,Neutropenia,Skin disorders,2025-06-22,65,Moderate,Non-serious,Not Related,Recovering
+SUBJ-0057-AE-01,SUBJ-0057,SITE-01,Active Treatment,1,Fatigue,General disorders,2024-06-27,99,Mild,Non-serious,Unlikely,Recovering
+SUBJ-0057-AE-02,SUBJ-0057,SITE-01,Active Treatment,2,Elevated ALT,Nervous system disorders,2024-07-04,106,Mild,Non-serious,Probable,Recovered
+SUBJ-0059-AE-01,SUBJ-0059,SITE-06,Active Treatment,1,Diarrhoea,Skin disorders,2024-11-24,11,Moderate,Non-serious,Probable,Recovered
+SUBJ-0060-AE-01,SUBJ-0060,SITE-13,Active Treatment,1,Fatigue,Blood disorders,2025-06-17,113,Moderate,Non-serious,Not Related,Unknown
+SUBJ-0060-AE-02,SUBJ-0060,SITE-13,Active Treatment,2,Dizziness,Blood disorders,2025-04-17,52,Mild,Non-serious,Probable,Recovered
+SUBJ-0064-AE-01,SUBJ-0064,SITE-16,Active Treatment,1,Anaemia,Nervous system disorders,2024-09-06,17,Mild,Non-serious,Not Related,Recovering
+SUBJ-0064-AE-02,SUBJ-0064,SITE-16,Active Treatment,2,Insomnia,Gastrointestinal disorders,2024-11-05,77,Severe,Non-serious,Possible,Recovered
+SUBJ-0064-AE-03,SUBJ-0064,SITE-16,Active Treatment,3,Chest Pain,Respiratory disorders,2024-12-01,103,Moderate,Non-serious,Possible,Recovered
+SUBJ-0069-AE-01,SUBJ-0069,SITE-17,Active Treatment,1,Elevated ALT,Nervous system disorders,2025-04-29,42,Mild,Non-serious,Unlikely,Recovering
+SUBJ-0075-AE-01,SUBJ-0075,SITE-20,Placebo,1,Chest Pain,Investigations,2024-09-18,40,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0076-AE-01,SUBJ-0076,SITE-15,Placebo,1,Shortness of Breath,Cardiac disorders,2024-06-21,117,Severe,Serious,Definite,Recovered
+SUBJ-0078-AE-01,SUBJ-0078,SITE-08,Active Treatment,1,Elevated ALT,Skin disorders,2024-03-21,3,Mild,Non-serious,Possible,Not Recovered
+SUBJ-0079-AE-01,SUBJ-0079,SITE-04,Placebo,1,Insomnia,Investigations,2024-11-24,77,Moderate,Non-serious,Probable,Unknown
+SUBJ-0080-AE-01,SUBJ-0080,SITE-13,Placebo,1,Elevated ALT,Nervous system disorders,2024-09-21,65,Mild,Non-serious,Possible,Recovered
+SUBJ-0081-AE-01,SUBJ-0081,SITE-01,Active Treatment,1,Nausea,Nervous system disorders,2024-04-17,33,Mild,Non-serious,Possible,Not Recovered
+SUBJ-0082-AE-01,SUBJ-0082,SITE-12,Placebo,1,Elevated ALT,Blood disorders,2024-10-23,28,Mild,Non-serious,Not Related,Recovering
+SUBJ-0085-AE-01,SUBJ-0085,SITE-13,Active Treatment,1,Hypertension,Skin disorders,2024-10-17,92,Mild,Non-serious,Definite,Recovered
+SUBJ-0085-AE-02,SUBJ-0085,SITE-13,Active Treatment,2,Hypertension,Respiratory disorders,2024-10-26,101,Mild,Non-serious,Possible,Not Recovered
+SUBJ-0086-AE-01,SUBJ-0086,SITE-01,Placebo,1,Rash,Skin disorders,2025-03-21,59,Mild,Non-serious,Not Related,Recovered
+SUBJ-0087-AE-01,SUBJ-0087,SITE-06,Active Treatment,1,Vomiting,Gastrointestinal disorders,2025-06-12,76,Mild,Non-serious,Probable,Recovering
+SUBJ-0087-AE-02,SUBJ-0087,SITE-06,Active Treatment,2,Hypertension,Nervous system disorders,2025-06-29,93,Mild,Non-serious,Probable,Recovering
+SUBJ-0088-AE-01,SUBJ-0088,SITE-18,Placebo,1,Rash,Investigations,2025-11-10,109,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0090-AE-01,SUBJ-0090,SITE-18,Active Treatment,1,Nausea,Respiratory disorders,2024-11-19,31,Mild,Non-serious,Probable,Recovering
+SUBJ-0090-AE-02,SUBJ-0090,SITE-18,Active Treatment,2,Anaemia,Blood disorders,2025-01-27,100,Mild,Non-serious,Probable,Recovered
+SUBJ-0092-AE-01,SUBJ-0092,SITE-20,Placebo,1,Elevated AST,Skin disorders,2024-06-12,3,Moderate,Non-serious,Unlikely,Recovering
+SUBJ-0094-AE-01,SUBJ-0094,SITE-02,Active Treatment,1,Shortness of Breath,Skin disorders,2024-02-15,30,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0094-AE-02,SUBJ-0094,SITE-02,Active Treatment,2,Chest Pain,Blood disorders,2024-05-06,111,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0095-AE-01,SUBJ-0095,SITE-04,Active Treatment,1,Elevated ALT,Investigations,2025-08-02,29,Mild,Non-serious,Possible,Recovering
+SUBJ-0095-AE-02,SUBJ-0095,SITE-04,Active Treatment,2,Nausea,Investigations,2025-08-31,58,Severe,Non-serious,Not Related,Recovered
+SUBJ-0096-AE-01,SUBJ-0096,SITE-05,Active Treatment,1,Neutropenia,General disorders,2025-03-30,81,Moderate,Serious,Not Related,Recovering
+SUBJ-0098-AE-01,SUBJ-0098,SITE-01,Active Treatment,1,Dizziness,Blood disorders,2024-06-26,41,Moderate,Non-serious,Possible,Recovered
+SUBJ-0098-AE-02,SUBJ-0098,SITE-01,Active Treatment,2,Dizziness,Blood disorders,2024-05-17,1,Mild,Non-serious,Probable,Not Recovered
+SUBJ-0100-AE-01,SUBJ-0100,SITE-09,Active Treatment,1,Insomnia,Respiratory disorders,2025-10-19,120,Mild,Non-serious,Possible,Recovering
+SUBJ-0102-AE-01,SUBJ-0102,SITE-12,Active Treatment,1,Headache,Blood disorders,2025-06-30,36,Mild,Non-serious,Not Related,Recovered
+SUBJ-0102-AE-02,SUBJ-0102,SITE-12,Active Treatment,2,Chest Pain,Gastrointestinal disorders,2025-07-23,59,Mild,Non-serious,Probable,Recovered
+SUBJ-0102-AE-03,SUBJ-0102,SITE-12,Active Treatment,3,Anaemia,Investigations,2025-07-17,53,Moderate,Non-serious,Possible,Recovered
+SUBJ-0102-AE-04,SUBJ-0102,SITE-12,Active Treatment,4,Neutropenia,Gastrointestinal disorders,2025-08-13,80,Mild,Non-serious,Definite,Recovering
+SUBJ-0102-AE-05,SUBJ-0102,SITE-12,Active Treatment,5,Rash,Investigations,2025-08-20,87,Mild,Non-serious,Possible,Recovered
+SUBJ-0105-AE-01,SUBJ-0105,SITE-12,Placebo,1,Headache,Blood disorders,2024-03-01,35,Moderate,Non-serious,Not Related,Recovering
+SUBJ-0105-AE-02,SUBJ-0105,SITE-12,Placebo,2,Chest Pain,Skin disorders,2024-02-04,9,Moderate,Non-serious,Probable,Recovering
+SUBJ-0106-AE-01,SUBJ-0106,SITE-09,Placebo,1,Insomnia,Nervous system disorders,2024-03-02,61,Mild,Non-serious,Not Related,Recovered
+SUBJ-0111-AE-01,SUBJ-0111,SITE-10,Placebo,1,Hypertension,Gastrointestinal disorders,2025-08-13,79,Moderate,Non-serious,Not Related,Recovering
+SUBJ-0114-AE-01,SUBJ-0114,SITE-14,Active Treatment,1,Neutropenia,Gastrointestinal disorders,2024-08-16,17,Mild,Non-serious,Probable,Recovered
+SUBJ-0114-AE-02,SUBJ-0114,SITE-14,Active Treatment,2,Elevated ALT,Blood disorders,2024-10-26,88,Mild,Non-serious,Unlikely,Unknown
+SUBJ-0114-AE-03,SUBJ-0114,SITE-14,Active Treatment,3,Chest Pain,Blood disorders,2024-09-13,45,Mild,Non-serious,Probable,Unknown
+SUBJ-0116-AE-01,SUBJ-0116,SITE-19,Active Treatment,1,Chest Pain,Cardiac disorders,2025-03-30,5,Mild,Non-serious,Not Related,Recovered
+SUBJ-0117-AE-01,SUBJ-0117,SITE-12,Placebo,1,Rash,Blood disorders,2024-10-28,84,Moderate,Non-serious,Probable,Not Recovered
+SUBJ-0118-AE-01,SUBJ-0118,SITE-12,Placebo,1,Chest Pain,Cardiac disorders,2024-05-29,115,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0119-AE-01,SUBJ-0119,SITE-02,Placebo,1,Chest Pain,Cardiac disorders,2025-01-27,4,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0120-AE-01,SUBJ-0120,SITE-04,Active Treatment,1,Vomiting,Investigations,2024-03-20,78,Mild,Non-serious,Possible,Recovered
+SUBJ-0121-AE-01,SUBJ-0121,SITE-02,Placebo,1,Hypertension,Nervous system disorders,2025-04-27,94,Mild,Non-serious,Probable,Recovered
+SUBJ-0121-AE-02,SUBJ-0121,SITE-02,Placebo,2,Dizziness,Gastrointestinal disorders,2025-01-25,2,Mild,Non-serious,Unlikely,Recovering
+SUBJ-0121-AE-03,SUBJ-0121,SITE-02,Placebo,3,Neutropenia,Investigations,2025-03-09,45,Mild,Non-serious,Definite,Recovered
+SUBJ-0121-AE-04,SUBJ-0121,SITE-02,Placebo,4,Nausea,Blood disorders,2025-05-14,111,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0122-AE-01,SUBJ-0122,SITE-06,Active Treatment,1,Chest Pain,Skin disorders,2024-10-28,107,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0123-AE-01,SUBJ-0123,SITE-15,Placebo,1,Anaemia,Gastrointestinal disorders,2024-10-04,51,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0124-AE-01,SUBJ-0124,SITE-17,Active Treatment,1,Rash,Respiratory disorders,2025-03-11,68,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0128-AE-01,SUBJ-0128,SITE-03,Active Treatment,1,Anaemia,Gastrointestinal disorders,2025-01-19,102,Severe,Non-serious,Not Related,Recovered
+SUBJ-0128-AE-02,SUBJ-0128,SITE-03,Active Treatment,2,Neutropenia,Blood disorders,2024-12-07,59,Mild,Non-serious,Not Related,Recovering
+SUBJ-0130-AE-01,SUBJ-0130,SITE-16,Active Treatment,1,Elevated AST,Nervous system disorders,2024-12-04,18,Mild,Non-serious,Possible,Recovered
+SUBJ-0131-AE-01,SUBJ-0131,SITE-06,Placebo,1,Neutropenia,Investigations,2024-04-20,106,Moderate,Non-serious,Possible,Recovered
+SUBJ-0133-AE-01,SUBJ-0133,SITE-01,Placebo,1,Fatigue,General disorders,2025-07-01,41,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0134-AE-01,SUBJ-0134,SITE-04,Placebo,1,Shortness of Breath,General disorders,2024-05-17,52,Mild,Non-serious,Not Related,Recovered
+SUBJ-0136-AE-01,SUBJ-0136,SITE-13,Placebo,1,Chest Pain,Respiratory disorders,2024-06-28,43,Mild,Non-serious,Probable,Recovered
+SUBJ-0136-AE-02,SUBJ-0136,SITE-13,Placebo,2,Insomnia,Cardiac disorders,2024-08-18,94,Moderate,Non-serious,Probable,Recovered
+SUBJ-0137-AE-01,SUBJ-0137,SITE-03,Placebo,1,Elevated AST,Cardiac disorders,2024-12-25,15,Mild,Non-serious,Not Related,Recovered
+SUBJ-0137-AE-02,SUBJ-0137,SITE-03,Placebo,2,Dizziness,Investigations,2025-01-18,39,Moderate,Non-serious,Probable,Recovering
+SUBJ-0137-AE-03,SUBJ-0137,SITE-03,Placebo,3,Dizziness,General disorders,2025-01-23,44,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0137-AE-04,SUBJ-0137,SITE-03,Placebo,4,Dizziness,Respiratory disorders,2025-02-08,60,Moderate,Non-serious,Possible,Recovered
+SUBJ-0138-AE-01,SUBJ-0138,SITE-05,Placebo,1,Elevated ALT,Investigations,2025-08-06,109,Mild,Non-serious,Not Related,Not Recovered
+SUBJ-0140-AE-01,SUBJ-0140,SITE-19,Active Treatment,1,Neutropenia,Skin disorders,2024-09-26,37,Moderate,Non-serious,Definite,Not Recovered
+SUBJ-0140-AE-02,SUBJ-0140,SITE-19,Active Treatment,2,Fatigue,Skin disorders,2024-10-12,53,Mild,Non-serious,Unlikely,Not Recovered
+SUBJ-0142-AE-01,SUBJ-0142,SITE-10,Placebo,1,Nausea,Cardiac disorders,2025-09-18,98,Mild,Non-serious,Unlikely,Recovering
+SUBJ-0144-AE-01,SUBJ-0144,SITE-11,Active Treatment,1,Dizziness,General disorders,2025-09-25,26,Mild,Non-serious,Probable,Recovered
+SUBJ-0144-AE-02,SUBJ-0144,SITE-11,Active Treatment,2,Elevated AST,Nervous system disorders,2025-10-03,34,Moderate,Non-serious,Probable,Not Recovered
+SUBJ-0145-AE-01,SUBJ-0145,SITE-19,Active Treatment,1,Hypertension,Investigations,2024-04-13,51,Mild,Non-serious,Possible,Recovered
+SUBJ-0145-AE-02,SUBJ-0145,SITE-19,Active Treatment,2,Dizziness,Investigations,2024-03-15,22,Moderate,Non-serious,Not Related,Recovering
+SUBJ-0147-AE-01,SUBJ-0147,SITE-18,Placebo,1,Diarrhoea,Nervous system disorders,2025-04-14,9,Mild,Non-serious,Possible,Recovering
+SUBJ-0149-AE-01,SUBJ-0149,SITE-18,Placebo,1,Shortness of Breath,Nervous system disorders,2024-07-25,15,Mild,Serious,Definite,Recovered
+SUBJ-0149-AE-02,SUBJ-0149,SITE-18,Placebo,2,Dizziness,Blood disorders,2024-07-23,13,Severe,Non-serious,Unlikely,Recovering
+SUBJ-0150-AE-01,SUBJ-0150,SITE-04,Active Treatment,1,Diarrhoea,Gastrointestinal disorders,2024-04-23,108,Mild,Non-serious,Possible,Recovered
+SUBJ-0155-AE-01,SUBJ-0155,SITE-05,Active Treatment,1,Elevated AST,Respiratory disorders,2025-07-04,55,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0155-AE-02,SUBJ-0155,SITE-05,Active Treatment,2,Fatigue,General disorders,2025-08-17,99,Moderate,Non-serious,Probable,Recovering
+SUBJ-0157-AE-01,SUBJ-0157,SITE-04,Active Treatment,1,Anaemia,Nervous system disorders,2024-10-29,53,Mild,Non-serious,Not Related,Recovered
+SUBJ-0159-AE-01,SUBJ-0159,SITE-13,Active Treatment,1,Elevated AST,General disorders,2024-04-11,41,Mild,Non-serious,Probable,Recovering
+SUBJ-0159-AE-02,SUBJ-0159,SITE-13,Active Treatment,2,Chest Pain,Blood disorders,2024-04-26,56,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0161-AE-01,SUBJ-0161,SITE-18,Placebo,1,Insomnia,Cardiac disorders,2024-05-24,47,Mild,Non-serious,Probable,Recovering
+SUBJ-0161-AE-02,SUBJ-0161,SITE-18,Placebo,2,Fatigue,Investigations,2024-07-08,92,Severe,Serious,Possible,Recovering
+SUBJ-0162-AE-01,SUBJ-0162,SITE-16,Active Treatment,1,Hypertension,Respiratory disorders,2025-03-26,39,Mild,Non-serious,Possible,Recovering
+SUBJ-0163-AE-01,SUBJ-0163,SITE-14,Placebo,1,Elevated AST,Skin disorders,2024-10-31,2,Severe,Non-serious,Not Related,Not Recovered
+SUBJ-0163-AE-02,SUBJ-0163,SITE-14,Placebo,2,Dizziness,General disorders,2025-02-11,105,Severe,Non-serious,Probable,Recovered
+SUBJ-0164-AE-01,SUBJ-0164,SITE-18,Active Treatment,1,Diarrhoea,Respiratory disorders,2025-06-09,24,Mild,Non-serious,Not Related,Recovered
+SUBJ-0165-AE-01,SUBJ-0165,SITE-15,Placebo,1,Rash,Respiratory disorders,2024-11-24,81,Mild,Non-serious,Possible,Recovering
+SUBJ-0165-AE-02,SUBJ-0165,SITE-15,Placebo,2,Vomiting,General disorders,2024-12-07,94,Mild,Non-serious,Not Related,Not Recovered
+SUBJ-0166-AE-01,SUBJ-0166,SITE-08,Active Treatment,1,Elevated AST,Gastrointestinal disorders,2024-11-02,2,Mild,Non-serious,Not Related,Not Recovered
+SUBJ-0167-AE-01,SUBJ-0167,SITE-17,Active Treatment,1,Chest Pain,Blood disorders,2024-03-24,66,Moderate,Non-serious,Not Related,Not Recovered
+SUBJ-0167-AE-02,SUBJ-0167,SITE-17,Active Treatment,2,Fatigue,Cardiac disorders,2024-05-03,106,Severe,Non-serious,Not Related,Recovering
+SUBJ-0167-AE-03,SUBJ-0167,SITE-17,Active Treatment,3,Nausea,Respiratory disorders,2024-03-15,57,Severe,Non-serious,Probable,Not Recovered
+SUBJ-0168-AE-01,SUBJ-0168,SITE-11,Placebo,1,Fatigue,Gastrointestinal disorders,2025-04-12,37,Mild,Non-serious,Probable,Recovered
+SUBJ-0170-AE-01,SUBJ-0170,SITE-16,Active Treatment,1,Rash,Nervous system disorders,2024-06-12,75,Moderate,Serious,Not Related,Recovered
+SUBJ-0171-AE-01,SUBJ-0171,SITE-07,Placebo,1,Neutropenia,Gastrointestinal disorders,2024-10-04,73,Mild,Non-serious,Probable,Recovered
+SUBJ-0172-AE-01,SUBJ-0172,SITE-13,Placebo,1,Insomnia,Skin disorders,2024-07-02,11,Severe,Non-serious,Unlikely,Recovered
+SUBJ-0172-AE-02,SUBJ-0172,SITE-13,Placebo,2,Elevated AST,Cardiac disorders,2024-10-19,120,Moderate,Non-serious,Probable,Recovering
+SUBJ-0174-AE-01,SUBJ-0174,SITE-08,Active Treatment,1,Anaemia,Gastrointestinal disorders,2024-11-06,72,Mild,Non-serious,Probable,Not Recovered
+SUBJ-0175-AE-01,SUBJ-0175,SITE-12,Active Treatment,1,Neutropenia,Skin disorders,2025-08-20,68,Mild,Non-serious,Definite,Unknown
+SUBJ-0175-AE-02,SUBJ-0175,SITE-12,Active Treatment,2,Anaemia,Blood disorders,2025-09-30,109,Moderate,Non-serious,Definite,Not Recovered
+SUBJ-0175-AE-03,SUBJ-0175,SITE-12,Active Treatment,3,Neutropenia,Investigations,2025-10-02,111,Mild,Non-serious,Probable,Recovered
+SUBJ-0176-AE-01,SUBJ-0176,SITE-15,Placebo,1,Rash,Skin disorders,2024-08-18,115,Mild,Non-serious,Definite,Recovered
+SUBJ-0177-AE-01,SUBJ-0177,SITE-15,Active Treatment,1,Vomiting,Nervous system disorders,2024-05-28,116,Mild,Non-serious,Not Related,Recovered
+SUBJ-0177-AE-02,SUBJ-0177,SITE-15,Active Treatment,2,Rash,General disorders,2024-03-22,49,Moderate,Non-serious,Unlikely,Recovering
+SUBJ-0180-AE-01,SUBJ-0180,SITE-10,Active Treatment,1,Elevated AST,Cardiac disorders,2024-08-21,35,Severe,Non-serious,Not Related,Recovering
+SUBJ-0180-AE-02,SUBJ-0180,SITE-10,Active Treatment,2,Diarrhoea,Blood disorders,2024-08-24,38,Moderate,Non-serious,Probable,Recovering
+SUBJ-0180-AE-03,SUBJ-0180,SITE-10,Active Treatment,3,Insomnia,Gastrointestinal disorders,2024-11-14,120,Mild,Non-serious,Possible,Recovered
+SUBJ-0184-AE-01,SUBJ-0184,SITE-20,Placebo,1,Elevated AST,Nervous system disorders,2024-09-03,102,Severe,Non-serious,Possible,Not Recovered
+SUBJ-0185-AE-01,SUBJ-0185,SITE-05,Placebo,1,Elevated AST,General disorders,2024-09-13,76,Moderate,Non-serious,Probable,Recovered
+SUBJ-0186-AE-01,SUBJ-0186,SITE-10,Active Treatment,1,Nausea,Skin disorders,2025-08-26,85,Moderate,Non-serious,Not Related,Recovering
+SUBJ-0186-AE-02,SUBJ-0186,SITE-10,Active Treatment,2,Anaemia,Nervous system disorders,2025-09-21,111,Mild,Non-serious,Definite,Recovering
+SUBJ-0187-AE-01,SUBJ-0187,SITE-11,Active Treatment,1,Rash,Cardiac disorders,2025-06-22,13,Mild,Non-serious,Possible,Not Recovered
+SUBJ-0187-AE-02,SUBJ-0187,SITE-11,Active Treatment,2,Vomiting,Respiratory disorders,2025-07-26,47,Severe,Non-serious,Probable,Recovering
+SUBJ-0187-AE-03,SUBJ-0187,SITE-11,Active Treatment,3,Vomiting,Nervous system disorders,2025-07-20,41,Mild,Non-serious,Possible,Recovered
+SUBJ-0187-AE-04,SUBJ-0187,SITE-11,Active Treatment,4,Shortness of Breath,General disorders,2025-07-12,33,Mild,Non-serious,Not Related,Recovered
+SUBJ-0187-AE-05,SUBJ-0187,SITE-11,Active Treatment,5,Insomnia,Investigations,2025-06-28,19,Moderate,Non-serious,Probable,Recovered
+SUBJ-0187-AE-06,SUBJ-0187,SITE-11,Active Treatment,6,Rash,Cardiac disorders,2025-10-04,117,Mild,Non-serious,Unlikely,Not Recovered
+SUBJ-0187-AE-07,SUBJ-0187,SITE-11,Active Treatment,7,Hypertension,Blood disorders,2025-10-05,118,Mild,Non-serious,Possible,Recovered
+SUBJ-0187-AE-08,SUBJ-0187,SITE-11,Active Treatment,8,Nausea,General disorders,2025-09-30,113,Moderate,Non-serious,Possible,Not Recovered
+SUBJ-0188-AE-01,SUBJ-0188,SITE-01,Placebo,1,Elevated AST,Investigations,2025-07-15,83,Mild,Non-serious,Not Related,Recovered
+SUBJ-0189-AE-01,SUBJ-0189,SITE-18,Active Treatment,1,Insomnia,Cardiac disorders,2025-06-03,34,Moderate,Non-serious,Possible,Recovering
+SUBJ-0194-AE-01,SUBJ-0194,SITE-12,Active Treatment,1,Shortness of Breath,Nervous system disorders,2025-06-20,103,Severe,Non-serious,Possible,Recovering
+SUBJ-0195-AE-01,SUBJ-0195,SITE-07,Active Treatment,1,Vomiting,Nervous system disorders,2025-02-07,26,Mild,Non-serious,Not Related,Recovered
+SUBJ-0198-AE-01,SUBJ-0198,SITE-01,Placebo,1,Insomnia,Gastrointestinal disorders,2025-04-28,6,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0198-AE-02,SUBJ-0198,SITE-01,Placebo,2,Insomnia,Nervous system disorders,2025-05-07,15,Severe,Non-serious,Not Related,Not Recovered
+SUBJ-0199-AE-01,SUBJ-0199,SITE-14,Active Treatment,1,Dizziness,General disorders,2024-08-27,57,Mild,Non-serious,Possible,Recovering
+SUBJ-0199-AE-02,SUBJ-0199,SITE-14,Active Treatment,2,Insomnia,Gastrointestinal disorders,2024-09-29,90,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0200-AE-01,SUBJ-0200,SITE-04,Active Treatment,1,Shortness of Breath,Investigations,2025-04-06,12,Severe,Non-serious,Not Related,Recovered
+SUBJ-0201-AE-01,SUBJ-0201,SITE-03,Active Treatment,1,Shortness of Breath,Blood disorders,2025-09-21,41,Mild,Non-serious,Not Related,Recovered
+SUBJ-0206-AE-01,SUBJ-0206,SITE-06,Active Treatment,1,Diarrhoea,Investigations,2024-03-23,30,Moderate,Non-serious,Not Related,Recovering
+SUBJ-0206-AE-02,SUBJ-0206,SITE-06,Active Treatment,2,Headache,Gastrointestinal disorders,2024-03-08,15,Mild,Non-serious,Unlikely,Not Recovered
+SUBJ-0206-AE-03,SUBJ-0206,SITE-06,Active Treatment,3,Nausea,Investigations,2024-05-23,91,Mild,Non-serious,Not Related,Recovering
+SUBJ-0208-AE-01,SUBJ-0208,SITE-11,Placebo,1,Hypertension,Skin disorders,2025-08-02,43,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0209-AE-01,SUBJ-0209,SITE-19,Active Treatment,1,Neutropenia,Blood disorders,2024-07-24,27,Moderate,Non-serious,Definite,Recovering
+SUBJ-0210-AE-01,SUBJ-0210,SITE-04,Active Treatment,1,Nausea,Cardiac disorders,2025-06-12,33,Mild,Non-serious,Not Related,Not Recovered
+SUBJ-0211-AE-01,SUBJ-0211,SITE-09,Placebo,1,Neutropenia,Cardiac disorders,2025-02-05,67,Mild,Non-serious,Definite,Recovered
+SUBJ-0211-AE-02,SUBJ-0211,SITE-09,Placebo,2,Anaemia,Investigations,2024-12-29,29,Moderate,Non-serious,Unlikely,Unknown
+SUBJ-0212-AE-01,SUBJ-0212,SITE-13,Placebo,1,Shortness of Breath,Investigations,2025-01-17,8,Moderate,Non-serious,Probable,Recovering
+SUBJ-0212-AE-02,SUBJ-0212,SITE-13,Placebo,2,Anaemia,Skin disorders,2025-01-25,16,Severe,Non-serious,Probable,Recovered
+SUBJ-0215-AE-01,SUBJ-0215,SITE-02,Active Treatment,1,Vomiting,Skin disorders,2024-07-03,17,Mild,Non-serious,Not Related,Recovered
+SUBJ-0220-AE-01,SUBJ-0220,SITE-20,Active Treatment,1,Anaemia,Investigations,2025-04-14,89,Mild,Non-serious,Not Related,Recovered
+SUBJ-0220-AE-02,SUBJ-0220,SITE-20,Active Treatment,2,Chest Pain,Respiratory disorders,2025-02-18,34,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0222-AE-01,SUBJ-0222,SITE-20,Placebo,1,Chest Pain,Blood disorders,2024-11-21,67,Mild,Non-serious,Not Related,Recovered
+SUBJ-0223-AE-01,SUBJ-0223,SITE-19,Placebo,1,Fatigue,Gastrointestinal disorders,2024-05-02,39,Moderate,Non-serious,Probable,Recovered
+SUBJ-0227-AE-01,SUBJ-0227,SITE-01,Placebo,1,Insomnia,Nervous system disorders,2024-06-03,92,Mild,Serious,Probable,Recovered
+SUBJ-0227-AE-02,SUBJ-0227,SITE-01,Placebo,2,Elevated AST,Nervous system disorders,2024-03-12,9,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0228-AE-01,SUBJ-0228,SITE-14,Placebo,1,Neutropenia,General disorders,2024-10-02,4,Mild,Non-serious,Probable,Not Recovered
+SUBJ-0228-AE-02,SUBJ-0228,SITE-14,Placebo,2,Diarrhoea,Blood disorders,2024-12-20,83,Mild,Non-serious,Probable,Recovering
+SUBJ-0228-AE-03,SUBJ-0228,SITE-14,Placebo,3,Shortness of Breath,Cardiac disorders,2024-11-23,56,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0229-AE-01,SUBJ-0229,SITE-16,Placebo,1,Elevated ALT,Cardiac disorders,2025-04-05,75,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0230-AE-01,SUBJ-0230,SITE-06,Active Treatment,1,Diarrhoea,Blood disorders,2025-03-13,42,Severe,Serious,Unlikely,Recovered
+SUBJ-0230-AE-02,SUBJ-0230,SITE-06,Active Treatment,2,Nausea,Blood disorders,2025-02-23,24,Severe,Non-serious,Not Related,Recovered
+SUBJ-0231-AE-01,SUBJ-0231,SITE-15,Placebo,1,Headache,Blood disorders,2025-04-25,115,Mild,Non-serious,Probable,Recovered
+SUBJ-0232-AE-01,SUBJ-0232,SITE-09,Active Treatment,1,Vomiting,Nervous system disorders,2024-06-10,89,Mild,Non-serious,Not Related,Recovering
+SUBJ-0233-AE-01,SUBJ-0233,SITE-09,Placebo,1,Diarrhoea,Investigations,2024-10-02,71,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0234-AE-01,SUBJ-0234,SITE-09,Placebo,1,Insomnia,Skin disorders,2025-11-22,83,Moderate,Non-serious,Possible,Recovered
+SUBJ-0236-AE-01,SUBJ-0236,SITE-18,Placebo,1,Insomnia,Blood disorders,2025-08-12,113,Moderate,Non-serious,Possible,Recovered
+SUBJ-0236-AE-02,SUBJ-0236,SITE-18,Placebo,2,Elevated AST,General disorders,2025-07-27,97,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0237-AE-01,SUBJ-0237,SITE-11,Active Treatment,1,Anaemia,Cardiac disorders,2025-03-20,90,Severe,Non-serious,Unlikely,Recovered
+SUBJ-0239-AE-01,SUBJ-0239,SITE-03,Placebo,1,Chest Pain,Blood disorders,2025-09-26,31,Moderate,Non-serious,Unlikely,Not Recovered
+SUBJ-0240-AE-01,SUBJ-0240,SITE-05,Placebo,1,Rash,Blood disorders,2024-05-30,77,Mild,Non-serious,Possible,Recovered
+SUBJ-0241-AE-01,SUBJ-0241,SITE-02,Active Treatment,1,Anaemia,General disorders,2024-07-14,53,Mild,Non-serious,Possible,Recovered
+SUBJ-0241-AE-02,SUBJ-0241,SITE-02,Active Treatment,2,Elevated AST,Investigations,2024-06-23,32,Moderate,Non-serious,Possible,Recovering
+SUBJ-0242-AE-01,SUBJ-0242,SITE-02,Placebo,1,Fatigue,Nervous system disorders,2024-01-23,22,Moderate,Non-serious,Probable,Recovered
+SUBJ-0243-AE-01,SUBJ-0243,SITE-01,Active Treatment,1,Dizziness,Nervous system disorders,2024-07-21,56,Mild,Non-serious,Not Related,Recovered
+SUBJ-0244-AE-01,SUBJ-0244,SITE-11,Active Treatment,1,Insomnia,Gastrointestinal disorders,2025-09-22,106,Mild,Non-serious,Not Related,Recovering
+SUBJ-0244-AE-02,SUBJ-0244,SITE-11,Active Treatment,2,Rash,Respiratory disorders,2025-06-20,12,Mild,Non-serious,Possible,Recovered
+SUBJ-0244-AE-03,SUBJ-0244,SITE-11,Active Treatment,3,Dizziness,Cardiac disorders,2025-09-17,101,Mild,Non-serious,Definite,Recovered
+SUBJ-0246-AE-01,SUBJ-0246,SITE-06,Placebo,1,Elevated ALT,Blood disorders,2024-06-27,68,Mild,Non-serious,Not Related,Not Recovered
+SUBJ-0248-AE-01,SUBJ-0248,SITE-01,Active Treatment,1,Vomiting,General disorders,2025-06-28,110,Moderate,Non-serious,Definite,Recovering
+SUBJ-0249-AE-01,SUBJ-0249,SITE-03,Active Treatment,1,Insomnia,General disorders,2024-06-06,87,Severe,Non-serious,Not Related,Recovered
+SUBJ-0249-AE-02,SUBJ-0249,SITE-03,Active Treatment,2,Neutropenia,Cardiac disorders,2024-06-25,106,Moderate,Non-serious,Not Related,Recovering
+SUBJ-0250-AE-01,SUBJ-0250,SITE-07,Active Treatment,1,Neutropenia,General disorders,2024-09-17,99,Mild,Non-serious,Unlikely,Not Recovered
+SUBJ-0250-AE-02,SUBJ-0250,SITE-07,Active Treatment,2,Elevated ALT,Gastrointestinal disorders,2024-10-06,118,Severe,Serious,Definite,Recovered
+SUBJ-0250-AE-03,SUBJ-0250,SITE-07,Active Treatment,3,Neutropenia,Cardiac disorders,2024-06-21,11,Moderate,Serious,Not Related,Recovered
+SUBJ-0254-AE-01,SUBJ-0254,SITE-20,Active Treatment,1,Elevated AST,Investigations,2025-12-09,103,Mild,Non-serious,Probable,Recovered
+SUBJ-0255-AE-01,SUBJ-0255,SITE-12,Active Treatment,1,Elevated AST,Blood disorders,2024-06-17,80,Mild,Non-serious,Unlikely,Recovering
+SUBJ-0255-AE-02,SUBJ-0255,SITE-12,Active Treatment,2,Elevated ALT,Skin disorders,2024-05-11,43,Moderate,Non-serious,Unlikely,Recovering
+SUBJ-0256-AE-01,SUBJ-0256,SITE-10,Placebo,1,Hypertension,Nervous system disorders,2024-11-05,65,Mild,Non-serious,Unlikely,Not Recovered
+SUBJ-0257-AE-01,SUBJ-0257,SITE-09,Active Treatment,1,Insomnia,Skin disorders,2025-03-02,89,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0257-AE-02,SUBJ-0257,SITE-09,Active Treatment,2,Dizziness,Gastrointestinal disorders,2024-12-11,8,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0259-AE-01,SUBJ-0259,SITE-11,Active Treatment,1,Anaemia,Nervous system disorders,2025-11-16,108,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0259-AE-02,SUBJ-0259,SITE-11,Active Treatment,2,Elevated AST,Investigations,2025-10-26,87,Mild,Non-serious,Not Related,Recovered
+SUBJ-0259-AE-03,SUBJ-0259,SITE-11,Active Treatment,3,Vomiting,Blood disorders,2025-09-09,40,Severe,Non-serious,Possible,Recovered
+SUBJ-0260-AE-01,SUBJ-0260,SITE-09,Placebo,1,Insomnia,Gastrointestinal disorders,2024-07-21,46,Moderate,Non-serious,Possible,Recovered
+SUBJ-0261-AE-01,SUBJ-0261,SITE-18,Placebo,1,Chest Pain,Nervous system disorders,2024-03-28,9,Mild,Non-serious,Unlikely,Not Recovered
+SUBJ-0261-AE-02,SUBJ-0261,SITE-18,Placebo,2,Diarrhoea,Skin disorders,2024-06-16,89,Mild,Non-serious,Unlikely,Recovering
+SUBJ-0265-AE-01,SUBJ-0265,SITE-02,Placebo,1,Vomiting,Investigations,2025-02-09,74,Mild,Non-serious,Probable,Recovering
+SUBJ-0267-AE-01,SUBJ-0267,SITE-15,Active Treatment,1,Anaemia,Blood disorders,2025-05-15,105,Moderate,Non-serious,Possible,Recovered
+SUBJ-0268-AE-01,SUBJ-0268,SITE-08,Active Treatment,1,Rash,Blood disorders,2025-01-22,96,Moderate,Non-serious,Not Related,Recovering
+SUBJ-0271-AE-01,SUBJ-0271,SITE-16,Placebo,1,Vomiting,Nervous system disorders,2024-11-16,53,Severe,Non-serious,Probable,Recovering
+SUBJ-0271-AE-02,SUBJ-0271,SITE-16,Placebo,2,Hypertension,Gastrointestinal disorders,2025-01-14,112,Mild,Non-serious,Possible,Recovered
+SUBJ-0272-AE-01,SUBJ-0272,SITE-20,Active Treatment,1,Rash,Gastrointestinal disorders,2025-07-02,47,Mild,Non-serious,Possible,Recovered
+SUBJ-0272-AE-02,SUBJ-0272,SITE-20,Active Treatment,2,Anaemia,Cardiac disorders,2025-05-20,4,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0273-AE-01,SUBJ-0273,SITE-07,Active Treatment,1,Shortness of Breath,Gastrointestinal disorders,2025-04-04,88,Mild,Non-serious,Possible,Recovered
+SUBJ-0273-AE-02,SUBJ-0273,SITE-07,Active Treatment,2,Headache,Investigations,2025-02-12,37,Severe,Non-serious,Unlikely,Recovered
+SUBJ-0273-AE-03,SUBJ-0273,SITE-07,Active Treatment,3,Neutropenia,Cardiac disorders,2025-03-02,55,Severe,Non-serious,Unlikely,Recovered
+SUBJ-0274-AE-01,SUBJ-0274,SITE-17,Active Treatment,1,Nausea,Blood disorders,2025-04-09,118,Mild,Non-serious,Unlikely,Not Recovered
+SUBJ-0274-AE-02,SUBJ-0274,SITE-17,Active Treatment,2,Nausea,Gastrointestinal disorders,2025-03-04,82,Mild,Non-serious,Not Related,Recovered
+SUBJ-0276-AE-01,SUBJ-0276,SITE-13,Active Treatment,1,Shortness of Breath,Blood disorders,2024-07-11,30,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0276-AE-02,SUBJ-0276,SITE-13,Active Treatment,2,Dizziness,Cardiac disorders,2024-06-16,5,Mild,Non-serious,Definite,Recovering
+SUBJ-0276-AE-03,SUBJ-0276,SITE-13,Active Treatment,3,Insomnia,Investigations,2024-09-09,90,Mild,Non-serious,Not Related,Recovered
+SUBJ-0277-AE-01,SUBJ-0277,SITE-01,Active Treatment,1,Insomnia,Blood disorders,2024-09-06,21,Mild,Non-serious,Probable,Recovered
+SUBJ-0278-AE-01,SUBJ-0278,SITE-10,Active Treatment,1,Headache,Cardiac disorders,2025-08-29,27,Severe,Non-serious,Unlikely,Recovering
+SUBJ-0280-AE-01,SUBJ-0280,SITE-14,Active Treatment,1,Rash,Skin disorders,2024-08-27,58,Moderate,Non-serious,Possible,Recovering
+SUBJ-0280-AE-02,SUBJ-0280,SITE-14,Active Treatment,2,Rash,Skin disorders,2024-10-21,113,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0281-AE-01,SUBJ-0281,SITE-18,Placebo,1,Dizziness,Nervous system disorders,2024-08-11,2,Mild,Non-serious,Probable,Recovered
+SUBJ-0282-AE-01,SUBJ-0282,SITE-04,Placebo,1,Anaemia,Gastrointestinal disorders,2024-12-05,91,Moderate,Non-serious,Unlikely,Unknown
+SUBJ-0283-AE-01,SUBJ-0283,SITE-15,Placebo,1,Headache,Blood disorders,2025-09-23,21,Severe,Serious,Not Related,Recovered
+SUBJ-0286-AE-01,SUBJ-0286,SITE-10,Active Treatment,1,Dizziness,Investigations,2025-04-25,115,Severe,Non-serious,Unlikely,Recovered
+SUBJ-0287-AE-01,SUBJ-0287,SITE-13,Active Treatment,1,Diarrhoea,Respiratory disorders,2025-05-14,78,Moderate,Non-serious,Possible,Recovered
+SUBJ-0287-AE-02,SUBJ-0287,SITE-13,Active Treatment,2,Insomnia,Skin disorders,2025-05-14,78,Severe,Non-serious,Definite,Recovered
+SUBJ-0287-AE-03,SUBJ-0287,SITE-13,Active Treatment,3,Insomnia,Gastrointestinal disorders,2025-05-06,70,Mild,Non-serious,Not Related,Not Recovered
+SUBJ-0290-AE-01,SUBJ-0290,SITE-17,Placebo,1,Elevated ALT,General disorders,2024-11-27,104,Mild,Non-serious,Possible,Recovering
+SUBJ-0291-AE-01,SUBJ-0291,SITE-14,Placebo,1,Insomnia,Investigations,2024-03-01,2,Mild,Non-serious,Probable,Recovering
+SUBJ-0292-AE-01,SUBJ-0292,SITE-18,Placebo,1,Diarrhoea,Cardiac disorders,2025-09-22,40,Mild,Non-serious,Not Related,Recovering
+SUBJ-0293-AE-01,SUBJ-0293,SITE-11,Placebo,1,Nausea,Respiratory disorders,2024-08-11,14,Mild,Non-serious,Not Related,Recovered
+SUBJ-0293-AE-02,SUBJ-0293,SITE-11,Placebo,2,Elevated ALT,Blood disorders,2024-09-07,41,Mild,Non-serious,Not Related,Recovered
+SUBJ-0294-AE-01,SUBJ-0294,SITE-02,Active Treatment,1,Elevated AST,Nervous system disorders,2025-10-04,111,Moderate,Non-serious,Possible,Recovered
+SUBJ-0296-AE-01,SUBJ-0296,SITE-20,Placebo,1,Shortness of Breath,Skin disorders,2024-07-09,31,Moderate,Non-serious,Unlikely,Not Recovered
+SUBJ-0297-AE-01,SUBJ-0297,SITE-02,Placebo,1,Hypertension,Nervous system disorders,2025-04-25,39,Moderate,Non-serious,Possible,Recovered
+SUBJ-0298-AE-01,SUBJ-0298,SITE-10,Placebo,1,Rash,Nervous system disorders,2025-10-01,111,Moderate,Non-serious,Possible,Recovered
+SUBJ-0298-AE-02,SUBJ-0298,SITE-10,Placebo,2,Headache,Cardiac disorders,2025-06-28,16,Moderate,Non-serious,Definite,Recovered
+SUBJ-0298-AE-03,SUBJ-0298,SITE-10,Placebo,3,Shortness of Breath,Cardiac disorders,2025-08-19,68,Severe,Non-serious,Probable,Recovered
+SUBJ-0298-AE-04,SUBJ-0298,SITE-10,Placebo,4,Headache,Blood disorders,2025-07-19,37,Mild,Serious,Probable,Recovered
+SUBJ-0299-AE-01,SUBJ-0299,SITE-19,Active Treatment,1,Rash,Cardiac disorders,2024-11-29,47,Moderate,Non-serious,Unlikely,Recovering
+SUBJ-0301-AE-01,SUBJ-0301,SITE-09,Active Treatment,1,Chest Pain,General disorders,2025-03-16,106,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0303-AE-01,SUBJ-0303,SITE-16,Placebo,1,Nausea,Skin disorders,2025-05-25,84,Severe,Non-serious,Possible,Recovered
+SUBJ-0303-AE-02,SUBJ-0303,SITE-16,Placebo,2,Fatigue,Gastrointestinal disorders,2025-05-14,73,Moderate,Non-serious,Unlikely,Not Recovered
+SUBJ-0303-AE-03,SUBJ-0303,SITE-16,Placebo,3,Diarrhoea,Nervous system disorders,2025-06-09,99,Mild,Non-serious,Definite,Recovered
+SUBJ-0304-AE-01,SUBJ-0304,SITE-02,Placebo,1,Insomnia,Blood disorders,2025-07-17,56,Moderate,Non-serious,Not Related,Not Recovered
+SUBJ-0304-AE-02,SUBJ-0304,SITE-02,Placebo,2,Insomnia,General disorders,2025-09-11,112,Moderate,Non-serious,Probable,Recovered
+SUBJ-0304-AE-03,SUBJ-0304,SITE-02,Placebo,3,Anaemia,Skin disorders,2025-06-12,21,Mild,Non-serious,Possible,Recovered
+SUBJ-0306-AE-01,SUBJ-0306,SITE-13,Active Treatment,1,Insomnia,Nervous system disorders,2025-04-05,77,Mild,Non-serious,Unlikely,Recovering
+SUBJ-0306-AE-02,SUBJ-0306,SITE-13,Active Treatment,2,Rash,General disorders,2025-02-25,38,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0307-AE-01,SUBJ-0307,SITE-20,Placebo,1,Chest Pain,Cardiac disorders,2024-10-07,40,Mild,Non-serious,Probable,Recovering
+SUBJ-0308-AE-01,SUBJ-0308,SITE-12,Active Treatment,1,Nausea,Investigations,2025-07-25,79,Mild,Non-serious,Not Related,Recovered
+SUBJ-0308-AE-02,SUBJ-0308,SITE-12,Active Treatment,2,Nausea,Gastrointestinal disorders,2025-08-20,105,Moderate,Non-serious,Unlikely,Not Recovered
+SUBJ-0309-AE-01,SUBJ-0309,SITE-16,Active Treatment,1,Elevated ALT,Blood disorders,2025-03-28,104,Mild,Non-serious,Not Related,Recovered
+SUBJ-0309-AE-02,SUBJ-0309,SITE-16,Active Treatment,2,Anaemia,Investigations,2025-02-23,71,Mild,Non-serious,Possible,Recovering
+SUBJ-0310-AE-01,SUBJ-0310,SITE-11,Placebo,1,Nausea,Gastrointestinal disorders,2025-06-03,89,Mild,Non-serious,Not Related,Recovered
+SUBJ-0311-AE-01,SUBJ-0311,SITE-15,Placebo,1,Elevated ALT,Cardiac disorders,2025-01-09,112,Moderate,Non-serious,Definite,Recovering
+SUBJ-0311-AE-02,SUBJ-0311,SITE-15,Placebo,2,Elevated ALT,Blood disorders,2024-10-07,18,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0312-AE-01,SUBJ-0312,SITE-08,Active Treatment,1,Elevated AST,Respiratory disorders,2024-07-10,71,Moderate,Non-serious,Possible,Recovered
+SUBJ-0313-AE-01,SUBJ-0313,SITE-15,Placebo,1,Headache,Gastrointestinal disorders,2024-06-20,59,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0313-AE-02,SUBJ-0313,SITE-15,Placebo,2,Fatigue,Skin disorders,2024-05-17,25,Severe,Non-serious,Not Related,Recovering
+SUBJ-0314-AE-01,SUBJ-0314,SITE-20,Active Treatment,1,Chest Pain,General disorders,2024-10-19,79,Mild,Non-serious,Probable,Unknown
+SUBJ-0315-AE-01,SUBJ-0315,SITE-06,Placebo,1,Elevated AST,Respiratory disorders,2024-07-30,11,Mild,Non-serious,Possible,Recovering
+SUBJ-0315-AE-02,SUBJ-0315,SITE-06,Placebo,2,Rash,Respiratory disorders,2024-07-24,5,Mild,Serious,Probable,Recovered
+SUBJ-0316-AE-01,SUBJ-0316,SITE-10,Active Treatment,1,Hypertension,Skin disorders,2025-09-20,55,Severe,Non-serious,Unlikely,Recovered
+SUBJ-0316-AE-02,SUBJ-0316,SITE-10,Active Treatment,2,Fatigue,Respiratory disorders,2025-08-23,27,Moderate,Non-serious,Possible,Recovering
+SUBJ-0317-AE-01,SUBJ-0317,SITE-08,Active Treatment,1,Elevated ALT,Respiratory disorders,2024-07-04,53,Mild,Serious,Not Related,Recovered
+SUBJ-0317-AE-02,SUBJ-0317,SITE-08,Active Treatment,2,Elevated ALT,Respiratory disorders,2024-06-19,38,Mild,Non-serious,Possible,Not Recovered
+SUBJ-0319-AE-01,SUBJ-0319,SITE-12,Active Treatment,1,Elevated AST,Gastrointestinal disorders,2025-06-03,62,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0319-AE-02,SUBJ-0319,SITE-12,Active Treatment,2,Elevated AST,Skin disorders,2025-05-03,31,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0319-AE-03,SUBJ-0319,SITE-12,Active Treatment,3,Nausea,Investigations,2025-06-17,76,Mild,Non-serious,Possible,Recovered
+SUBJ-0320-AE-01,SUBJ-0320,SITE-15,Active Treatment,1,Neutropenia,General disorders,2025-02-26,96,Mild,Serious,Unlikely,Recovered
+SUBJ-0322-AE-01,SUBJ-0322,SITE-19,Placebo,1,Dizziness,Blood disorders,2024-03-18,31,Mild,Non-serious,Probable,Recovered
+SUBJ-0323-AE-01,SUBJ-0323,SITE-20,Active Treatment,1,Fatigue,Gastrointestinal disorders,2024-09-24,118,Mild,Non-serious,Possible,Recovered
+SUBJ-0323-AE-02,SUBJ-0323,SITE-20,Active Treatment,2,Hypertension,Cardiac disorders,2024-07-19,51,Mild,Non-serious,Not Related,Recovered
+SUBJ-0323-AE-03,SUBJ-0323,SITE-20,Active Treatment,3,Diarrhoea,Cardiac disorders,2024-07-02,34,Mild,Non-serious,Definite,Unknown
+SUBJ-0325-AE-01,SUBJ-0325,SITE-06,Active Treatment,1,Rash,Respiratory disorders,2025-12-09,110,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0326-AE-01,SUBJ-0326,SITE-19,Placebo,1,Shortness of Breath,Nervous system disorders,2024-12-05,11,Mild,Non-serious,Possible,Recovered
+SUBJ-0327-AE-01,SUBJ-0327,SITE-08,Active Treatment,1,Vomiting,Respiratory disorders,2024-07-24,71,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0327-AE-02,SUBJ-0327,SITE-08,Active Treatment,2,Vomiting,Investigations,2024-07-01,48,Moderate,Non-serious,Definite,Recovered
+SUBJ-0328-AE-01,SUBJ-0328,SITE-18,Active Treatment,1,Rash,Blood disorders,2025-02-19,18,Mild,Non-serious,Not Related,Not Recovered
+SUBJ-0328-AE-02,SUBJ-0328,SITE-18,Active Treatment,2,Anaemia,Cardiac disorders,2025-04-20,78,Mild,Non-serious,Possible,Recovering
+SUBJ-0328-AE-03,SUBJ-0328,SITE-18,Active Treatment,3,Elevated AST,Cardiac disorders,2025-05-31,119,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0329-AE-01,SUBJ-0329,SITE-13,Placebo,1,Diarrhoea,General disorders,2025-02-10,71,Mild,Serious,Possible,Recovered
+SUBJ-0330-AE-01,SUBJ-0330,SITE-07,Active Treatment,1,Rash,Cardiac disorders,2024-10-06,22,Mild,Non-serious,Possible,Recovering
+SUBJ-0330-AE-02,SUBJ-0330,SITE-07,Active Treatment,2,Elevated ALT,Gastrointestinal disorders,2024-12-25,102,Moderate,Non-serious,Unlikely,Recovering
+SUBJ-0332-AE-01,SUBJ-0332,SITE-05,Active Treatment,1,Anaemia,Blood disorders,2025-04-02,42,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0332-AE-02,SUBJ-0332,SITE-05,Active Treatment,2,Headache,General disorders,2025-04-22,62,Moderate,Non-serious,Possible,Unknown
+SUBJ-0335-AE-01,SUBJ-0335,SITE-06,Active Treatment,1,Fatigue,Investigations,2025-07-28,65,Moderate,Non-serious,Probable,Recovered
+SUBJ-0336-AE-01,SUBJ-0336,SITE-09,Placebo,1,Elevated AST,Nervous system disorders,2025-08-28,59,Mild,Non-serious,Not Related,Not Recovered
+SUBJ-0336-AE-02,SUBJ-0336,SITE-09,Placebo,2,Anaemia,Blood disorders,2025-10-02,94,Moderate,Non-serious,Unlikely,Recovering
+SUBJ-0337-AE-01,SUBJ-0337,SITE-20,Active Treatment,1,Headache,Skin disorders,2025-04-26,50,Mild,Non-serious,Not Related,Recovering
+SUBJ-0341-AE-01,SUBJ-0341,SITE-12,Placebo,1,Anaemia,Nervous system disorders,2024-10-05,20,Mild,Non-serious,Probable,Recovered
+SUBJ-0343-AE-01,SUBJ-0343,SITE-18,Active Treatment,1,Insomnia,Nervous system disorders,2024-07-16,51,Mild,Non-serious,Possible,Unknown
+SUBJ-0343-AE-02,SUBJ-0343,SITE-18,Active Treatment,2,Elevated AST,Cardiac disorders,2024-08-10,76,Mild,Non-serious,Possible,Recovering
+SUBJ-0343-AE-03,SUBJ-0343,SITE-18,Active Treatment,3,Hypertension,Investigations,2024-09-20,117,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0344-AE-01,SUBJ-0344,SITE-02,Active Treatment,1,Anaemia,Skin disorders,2025-04-22,31,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0345-AE-01,SUBJ-0345,SITE-08,Placebo,1,Dizziness,Blood disorders,2024-08-14,79,Mild,Non-serious,Probable,Recovered
+SUBJ-0345-AE-02,SUBJ-0345,SITE-08,Placebo,2,Headache,General disorders,2024-06-23,27,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0346-AE-01,SUBJ-0346,SITE-13,Active Treatment,1,Chest Pain,Gastrointestinal disorders,2025-10-29,61,Mild,Non-serious,Not Related,Recovered
+SUBJ-0346-AE-02,SUBJ-0346,SITE-13,Active Treatment,2,Shortness of Breath,Respiratory disorders,2025-10-26,58,Mild,Non-serious,Unlikely,Not Recovered
+SUBJ-0347-AE-01,SUBJ-0347,SITE-18,Placebo,1,Anaemia,Cardiac disorders,2024-07-16,32,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0347-AE-02,SUBJ-0347,SITE-18,Placebo,2,Vomiting,General disorders,2024-06-16,2,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0348-AE-01,SUBJ-0348,SITE-04,Active Treatment,1,Neutropenia,Nervous system disorders,2025-07-25,118,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0348-AE-02,SUBJ-0348,SITE-04,Active Treatment,2,Shortness of Breath,Respiratory disorders,2025-04-29,31,Mild,Non-serious,Not Related,Recovered
+SUBJ-0348-AE-03,SUBJ-0348,SITE-04,Active Treatment,3,Nausea,General disorders,2025-06-19,82,Mild,Non-serious,Unlikely,Not Recovered
+SUBJ-0348-AE-04,SUBJ-0348,SITE-04,Active Treatment,4,Vomiting,Gastrointestinal disorders,2025-06-22,85,Moderate,Non-serious,Probable,Recovered
+SUBJ-0350-AE-01,SUBJ-0350,SITE-07,Active Treatment,1,Anaemia,Nervous system disorders,2024-06-25,43,Moderate,Non-serious,Possible,Recovered
+SUBJ-0351-AE-01,SUBJ-0351,SITE-03,Placebo,1,Insomnia,Respiratory disorders,2024-05-26,24,Mild,Non-serious,Probable,Unknown
+SUBJ-0351-AE-02,SUBJ-0351,SITE-03,Placebo,2,Vomiting,General disorders,2024-08-27,117,Mild,Non-serious,Possible,Recovered
+SUBJ-0351-AE-03,SUBJ-0351,SITE-03,Placebo,3,Diarrhoea,Respiratory disorders,2024-07-21,80,Mild,Non-serious,Definite,Recovered
+SUBJ-0354-AE-01,SUBJ-0354,SITE-13,Placebo,1,Rash,Nervous system disorders,2024-11-10,17,Mild,Non-serious,Not Related,Recovered
+SUBJ-0355-AE-01,SUBJ-0355,SITE-08,Placebo,1,Nausea,Blood disorders,2025-01-03,3,Mild,Non-serious,Definite,Recovering
+SUBJ-0356-AE-01,SUBJ-0356,SITE-13,Placebo,1,Vomiting,Cardiac disorders,2024-02-27,1,Mild,Non-serious,Possible,Recovering
+SUBJ-0357-AE-01,SUBJ-0357,SITE-20,Placebo,1,Fatigue,Skin disorders,2025-04-25,88,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0358-AE-01,SUBJ-0358,SITE-09,Placebo,1,Vomiting,Blood disorders,2025-05-28,32,Severe,Non-serious,Not Related,Recovered
+SUBJ-0360-AE-01,SUBJ-0360,SITE-10,Active Treatment,1,Shortness of Breath,Nervous system disorders,2024-04-11,34,Mild,Non-serious,Possible,Not Recovered
+SUBJ-0360-AE-02,SUBJ-0360,SITE-10,Active Treatment,2,Anaemia,Respiratory disorders,2024-06-26,110,Mild,Non-serious,Not Related,Recovered
+SUBJ-0361-AE-01,SUBJ-0361,SITE-10,Placebo,1,Nausea,Nervous system disorders,2025-06-18,44,Mild,Non-serious,Not Related,Recovered
+SUBJ-0361-AE-02,SUBJ-0361,SITE-10,Placebo,2,Rash,Investigations,2025-05-14,9,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0362-AE-01,SUBJ-0362,SITE-03,Active Treatment,1,Rash,Respiratory disorders,2025-01-14,23,Mild,Non-serious,Not Related,Recovered
+SUBJ-0364-AE-01,SUBJ-0364,SITE-18,Active Treatment,1,Shortness of Breath,Investigations,2024-09-19,53,Mild,Non-serious,Unlikely,Not Recovered
+SUBJ-0365-AE-01,SUBJ-0365,SITE-01,Placebo,1,Hypertension,Cardiac disorders,2025-05-20,118,Moderate,Non-serious,Probable,Recovered
+SUBJ-0365-AE-02,SUBJ-0365,SITE-01,Placebo,2,Elevated ALT,Gastrointestinal disorders,2025-03-28,65,Mild,Non-serious,Probable,Not Recovered
+SUBJ-0367-AE-01,SUBJ-0367,SITE-09,Placebo,1,Anaemia,General disorders,2025-07-20,30,Moderate,Non-serious,Probable,Recovering
+SUBJ-0367-AE-02,SUBJ-0367,SITE-09,Placebo,2,Anaemia,Investigations,2025-10-10,112,Mild,Non-serious,Possible,Recovered
+SUBJ-0367-AE-03,SUBJ-0367,SITE-09,Placebo,3,Chest Pain,Nervous system disorders,2025-09-30,102,Mild,Non-serious,Possible,Recovered
+SUBJ-0368-AE-01,SUBJ-0368,SITE-17,Active Treatment,1,Insomnia,Investigations,2025-01-20,97,Severe,Non-serious,Probable,Recovered
+SUBJ-0369-AE-01,SUBJ-0369,SITE-05,Placebo,1,Insomnia,Gastrointestinal disorders,2025-08-18,116,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0370-AE-01,SUBJ-0370,SITE-16,Active Treatment,1,Vomiting,General disorders,2025-12-05,118,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0370-AE-02,SUBJ-0370,SITE-16,Active Treatment,2,Shortness of Breath,Respiratory disorders,2025-12-01,114,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0374-AE-01,SUBJ-0374,SITE-02,Placebo,1,Nausea,General disorders,2025-02-25,83,Moderate,Non-serious,Possible,Recovered
+SUBJ-0377-AE-01,SUBJ-0377,SITE-18,Placebo,1,Fatigue,General disorders,2024-08-17,1,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0379-AE-01,SUBJ-0379,SITE-06,Placebo,1,Chest Pain,Respiratory disorders,2024-11-22,53,Mild,Non-serious,Unlikely,Unknown
+SUBJ-0379-AE-02,SUBJ-0379,SITE-06,Placebo,2,Elevated AST,Skin disorders,2024-11-22,53,Mild,Non-serious,Possible,Recovered
+SUBJ-0380-AE-01,SUBJ-0380,SITE-16,Placebo,1,Rash,Skin disorders,2025-06-15,83,Moderate,Non-serious,Unlikely,Recovering
+SUBJ-0382-AE-01,SUBJ-0382,SITE-18,Placebo,1,Vomiting,Respiratory disorders,2025-02-26,93,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0383-AE-01,SUBJ-0383,SITE-18,Active Treatment,1,Neutropenia,Skin disorders,2025-06-09,25,Mild,Non-serious,Probable,Unknown
+SUBJ-0383-AE-02,SUBJ-0383,SITE-18,Active Treatment,2,Anaemia,Respiratory disorders,2025-07-26,72,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0386-AE-01,SUBJ-0386,SITE-09,Active Treatment,1,Elevated AST,Blood disorders,2025-06-09,110,Mild,Serious,Probable,Recovered
+SUBJ-0387-AE-01,SUBJ-0387,SITE-02,Active Treatment,1,Fatigue,Investigations,2024-08-03,3,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0387-AE-02,SUBJ-0387,SITE-02,Active Treatment,2,Fatigue,Investigations,2024-09-24,55,Mild,Non-serious,Probable,Recovering
+SUBJ-0387-AE-03,SUBJ-0387,SITE-02,Active Treatment,3,Anaemia,Skin disorders,2024-09-13,44,Mild,Non-serious,Possible,Recovered
+SUBJ-0387-AE-04,SUBJ-0387,SITE-02,Active Treatment,4,Headache,Gastrointestinal disorders,2024-08-16,16,Mild,Non-serious,Unlikely,Recovering
+SUBJ-0387-AE-05,SUBJ-0387,SITE-02,Active Treatment,5,Nausea,Respiratory disorders,2024-10-25,86,Severe,Non-serious,Unlikely,Recovering
+SUBJ-0388-AE-01,SUBJ-0388,SITE-12,Active Treatment,1,Headache,Blood disorders,2025-02-26,93,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0390-AE-01,SUBJ-0390,SITE-14,Active Treatment,1,Shortness of Breath,Nervous system disorders,2024-09-30,103,Mild,Non-serious,Possible,Recovered
+SUBJ-0391-AE-01,SUBJ-0391,SITE-17,Active Treatment,1,Chest Pain,Cardiac disorders,2025-12-09,100,Severe,Non-serious,Possible,Recovered
+SUBJ-0392-AE-01,SUBJ-0392,SITE-11,Placebo,1,Anaemia,Nervous system disorders,2025-08-08,2,Moderate,Non-serious,Possible,Recovered
+SUBJ-0393-AE-01,SUBJ-0393,SITE-01,Placebo,1,Headache,Cardiac disorders,2025-06-17,14,Moderate,Non-serious,Possible,Recovered
+SUBJ-0395-AE-01,SUBJ-0395,SITE-01,Placebo,1,Shortness of Breath,Investigations,2025-07-02,8,Moderate,Non-serious,Possible,Unknown
+SUBJ-0396-AE-01,SUBJ-0396,SITE-02,Active Treatment,1,Elevated ALT,General disorders,2025-07-15,118,Mild,Non-serious,Possible,Recovering
+SUBJ-0397-AE-01,SUBJ-0397,SITE-04,Placebo,1,Vomiting,General disorders,2025-09-16,94,Mild,Non-serious,Not Related,Recovered
+SUBJ-0398-AE-01,SUBJ-0398,SITE-19,Active Treatment,1,Rash,Nervous system disorders,2024-05-14,49,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0398-AE-02,SUBJ-0398,SITE-19,Active Treatment,2,Chest Pain,Blood disorders,2024-04-11,16,Mild,Non-serious,Probable,Recovered
+SUBJ-0398-AE-03,SUBJ-0398,SITE-19,Active Treatment,3,Elevated AST,Nervous system disorders,2024-06-18,84,Mild,Non-serious,Not Related,Recovered
+SUBJ-0400-AE-01,SUBJ-0400,SITE-08,Active Treatment,1,Diarrhoea,Respiratory disorders,2025-08-01,94,Mild,Non-serious,Possible,Recovering
+SUBJ-0401-AE-01,SUBJ-0401,SITE-10,Active Treatment,1,Fatigue,Skin disorders,2025-10-01,29,Moderate,Non-serious,Possible,Not Recovered
+SUBJ-0401-AE-02,SUBJ-0401,SITE-10,Active Treatment,2,Anaemia,Blood disorders,2025-12-25,114,Moderate,Non-serious,Possible,Recovered
+SUBJ-0402-AE-01,SUBJ-0402,SITE-15,Placebo,1,Insomnia,Blood disorders,2024-11-14,113,Mild,Non-serious,Not Related,Recovered
+SUBJ-0402-AE-02,SUBJ-0402,SITE-15,Placebo,2,Diarrhoea,Skin disorders,2024-09-21,59,Severe,Non-serious,Possible,Recovered
+SUBJ-0402-AE-03,SUBJ-0402,SITE-15,Placebo,3,Shortness of Breath,Nervous system disorders,2024-07-25,1,Mild,Non-serious,Possible,Recovering
+SUBJ-0403-AE-01,SUBJ-0403,SITE-20,Active Treatment,1,Neutropenia,Blood disorders,2024-11-09,44,Moderate,Non-serious,Unlikely,Recovering
+SUBJ-0403-AE-02,SUBJ-0403,SITE-20,Active Treatment,2,Vomiting,Nervous system disorders,2024-12-27,92,Moderate,Non-serious,Definite,Not Recovered
+SUBJ-0403-AE-03,SUBJ-0403,SITE-20,Active Treatment,3,Hypertension,Cardiac disorders,2024-10-09,13,Mild,Non-serious,Not Related,Recovered
+SUBJ-0404-AE-01,SUBJ-0404,SITE-11,Active Treatment,1,Fatigue,Blood disorders,2025-07-04,14,Mild,Non-serious,Not Related,Recovered
+SUBJ-0404-AE-02,SUBJ-0404,SITE-11,Active Treatment,2,Neutropenia,Blood disorders,2025-10-16,118,Moderate,Non-serious,Possible,Not Recovered
+SUBJ-0404-AE-03,SUBJ-0404,SITE-11,Active Treatment,3,Vomiting,Blood disorders,2025-07-11,21,Mild,Non-serious,Not Related,Not Recovered
+SUBJ-0405-AE-01,SUBJ-0405,SITE-19,Active Treatment,1,Neutropenia,Skin disorders,2024-02-22,14,Moderate,Non-serious,Not Related,Recovering
+SUBJ-0405-AE-02,SUBJ-0405,SITE-19,Active Treatment,2,Neutropenia,Cardiac disorders,2024-05-21,103,Moderate,Non-serious,Unlikely,Not Recovered
+SUBJ-0405-AE-03,SUBJ-0405,SITE-19,Active Treatment,3,Headache,Blood disorders,2024-04-09,61,Mild,Non-serious,Possible,Recovering
+SUBJ-0407-AE-01,SUBJ-0407,SITE-07,Active Treatment,1,Diarrhoea,Nervous system disorders,2024-10-01,90,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0407-AE-02,SUBJ-0407,SITE-07,Active Treatment,2,Neutropenia,General disorders,2024-08-29,57,Mild,Non-serious,Not Related,Not Recovered
+SUBJ-0408-AE-01,SUBJ-0408,SITE-17,Placebo,1,Hypertension,Gastrointestinal disorders,2024-08-27,91,Mild,Non-serious,Unlikely,Recovering
+SUBJ-0410-AE-01,SUBJ-0410,SITE-17,Active Treatment,1,Neutropenia,Respiratory disorders,2024-05-28,48,Mild,Non-serious,Possible,Recovering
+SUBJ-0411-AE-01,SUBJ-0411,SITE-13,Placebo,1,Neutropenia,Blood disorders,2025-06-21,49,Moderate,Non-serious,Not Related,Recovering
+SUBJ-0412-AE-01,SUBJ-0412,SITE-01,Active Treatment,1,Shortness of Breath,Skin disorders,2025-06-09,53,Mild,Non-serious,Not Related,Recovered
+SUBJ-0412-AE-02,SUBJ-0412,SITE-01,Active Treatment,2,Nausea,Skin disorders,2025-07-20,94,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0413-AE-01,SUBJ-0413,SITE-13,Active Treatment,1,Hypertension,Gastrointestinal disorders,2025-04-28,6,Severe,Non-serious,Unlikely,Recovered
+SUBJ-0413-AE-02,SUBJ-0413,SITE-13,Active Treatment,2,Elevated AST,Skin disorders,2025-07-22,91,Mild,Non-serious,Definite,Recovered
+SUBJ-0413-AE-03,SUBJ-0413,SITE-13,Active Treatment,3,Fatigue,Investigations,2025-05-21,29,Mild,Serious,Not Related,Unknown
+SUBJ-0413-AE-04,SUBJ-0413,SITE-13,Active Treatment,4,Dizziness,Respiratory disorders,2025-06-01,40,Mild,Non-serious,Probable,Recovered
+SUBJ-0413-AE-05,SUBJ-0413,SITE-13,Active Treatment,5,Dizziness,Blood disorders,2025-07-13,82,Mild,Non-serious,Possible,Unknown
+SUBJ-0414-AE-01,SUBJ-0414,SITE-10,Active Treatment,1,Elevated ALT,Blood disorders,2024-05-07,93,Moderate,Non-serious,Probable,Recovered
+SUBJ-0415-AE-01,SUBJ-0415,SITE-05,Placebo,1,Insomnia,Respiratory disorders,2024-04-19,10,Mild,Non-serious,Not Related,Recovered
+SUBJ-0417-AE-01,SUBJ-0417,SITE-08,Placebo,1,Dizziness,Investigations,2024-09-22,17,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0417-AE-02,SUBJ-0417,SITE-08,Placebo,2,Rash,Cardiac disorders,2024-12-05,91,Moderate,Non-serious,Possible,Not Recovered
+SUBJ-0420-AE-01,SUBJ-0420,SITE-09,Active Treatment,1,Headache,Cardiac disorders,2025-05-08,112,Moderate,Non-serious,Probable,Recovered
+SUBJ-0420-AE-02,SUBJ-0420,SITE-09,Active Treatment,2,Elevated AST,Blood disorders,2025-05-01,105,Moderate,Non-serious,Unlikely,Not Recovered
+SUBJ-0421-AE-01,SUBJ-0421,SITE-06,Active Treatment,1,Chest Pain,Investigations,2025-03-25,91,Mild,Non-serious,Not Related,Unknown
+SUBJ-0422-AE-01,SUBJ-0422,SITE-20,Placebo,1,Elevated AST,Investigations,2024-07-31,48,Mild,Non-serious,Not Related,Recovering
+SUBJ-0423-AE-01,SUBJ-0423,SITE-08,Active Treatment,1,Hypertension,Cardiac disorders,2025-03-09,116,Moderate,Non-serious,Possible,Recovering
+SUBJ-0423-AE-02,SUBJ-0423,SITE-08,Active Treatment,2,Insomnia,Skin disorders,2025-02-12,91,Mild,Non-serious,Possible,Not Recovered
+SUBJ-0423-AE-03,SUBJ-0423,SITE-08,Active Treatment,3,Shortness of Breath,General disorders,2024-11-26,13,Mild,Serious,Definite,Recovered
+SUBJ-0424-AE-01,SUBJ-0424,SITE-07,Active Treatment,1,Rash,Blood disorders,2025-03-06,115,Mild,Non-serious,Not Related,Recovered
+SUBJ-0425-AE-01,SUBJ-0425,SITE-05,Active Treatment,1,Diarrhoea,Gastrointestinal disorders,2024-06-22,21,Severe,Non-serious,Probable,Recovering
+SUBJ-0426-AE-01,SUBJ-0426,SITE-05,Active Treatment,1,Neutropenia,Gastrointestinal disorders,2025-02-18,42,Mild,Non-serious,Probable,Recovering
+SUBJ-0426-AE-02,SUBJ-0426,SITE-05,Active Treatment,2,Hypertension,Investigations,2025-04-28,111,Mild,Non-serious,Probable,Not Recovered
+SUBJ-0426-AE-03,SUBJ-0426,SITE-05,Active Treatment,3,Elevated ALT,General disorders,2025-04-30,113,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0427-AE-01,SUBJ-0427,SITE-08,Active Treatment,1,Nausea,General disorders,2025-11-07,95,Mild,Non-serious,Not Related,Recovered
+SUBJ-0427-AE-02,SUBJ-0427,SITE-08,Active Treatment,2,Elevated ALT,Respiratory disorders,2025-11-13,101,Mild,Non-serious,Not Related,Recovering
+SUBJ-0427-AE-03,SUBJ-0427,SITE-08,Active Treatment,3,Anaemia,Blood disorders,2025-08-11,7,Mild,Non-serious,Possible,Recovered
+SUBJ-0428-AE-01,SUBJ-0428,SITE-06,Placebo,1,Fatigue,Gastrointestinal disorders,2025-01-23,56,Mild,Non-serious,Possible,Recovered
+SUBJ-0429-AE-01,SUBJ-0429,SITE-04,Placebo,1,Vomiting,General disorders,2024-06-30,8,Severe,Non-serious,Not Related,Recovered
+SUBJ-0429-AE-02,SUBJ-0429,SITE-04,Placebo,2,Anaemia,Investigations,2024-06-24,2,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0431-AE-01,SUBJ-0431,SITE-16,Placebo,1,Headache,Gastrointestinal disorders,2024-09-17,31,Mild,Non-serious,Probable,Not Recovered
+SUBJ-0432-AE-01,SUBJ-0432,SITE-20,Active Treatment,1,Diarrhoea,Nervous system disorders,2025-04-05,76,Mild,Non-serious,Unlikely,Not Recovered
+SUBJ-0432-AE-02,SUBJ-0432,SITE-20,Active Treatment,2,Neutropenia,Blood disorders,2025-04-21,92,Mild,Non-serious,Definite,Not Recovered
+SUBJ-0434-AE-01,SUBJ-0434,SITE-14,Active Treatment,1,Elevated AST,Gastrointestinal disorders,2024-12-30,67,Mild,Non-serious,Probable,Recovered
+SUBJ-0434-AE-02,SUBJ-0434,SITE-14,Active Treatment,2,Hypertension,Nervous system disorders,2024-11-10,17,Moderate,Non-serious,Not Related,Not Recovered
+SUBJ-0435-AE-01,SUBJ-0435,SITE-04,Placebo,1,Rash,Investigations,2025-09-24,43,Mild,Non-serious,Not Related,Not Recovered
+SUBJ-0436-AE-01,SUBJ-0436,SITE-14,Active Treatment,1,Shortness of Breath,Investigations,2025-09-15,62,Severe,Non-serious,Possible,Recovered
+SUBJ-0436-AE-02,SUBJ-0436,SITE-14,Active Treatment,2,Diarrhoea,Gastrointestinal disorders,2025-10-21,98,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0437-AE-01,SUBJ-0437,SITE-17,Active Treatment,1,Chest Pain,Nervous system disorders,2025-08-25,9,Moderate,Non-serious,Not Related,Not Recovered
+SUBJ-0437-AE-02,SUBJ-0437,SITE-17,Active Treatment,2,Shortness of Breath,Gastrointestinal disorders,2025-10-17,62,Mild,Non-serious,Not Related,Recovered
+SUBJ-0437-AE-03,SUBJ-0437,SITE-17,Active Treatment,3,Dizziness,Skin disorders,2025-10-09,54,Severe,Non-serious,Definite,Recovered
+SUBJ-0439-AE-01,SUBJ-0439,SITE-04,Active Treatment,1,Fatigue,Investigations,2025-07-26,24,Moderate,Non-serious,Possible,Recovered
+SUBJ-0439-AE-02,SUBJ-0439,SITE-04,Active Treatment,2,Rash,Skin disorders,2025-09-16,76,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0440-AE-01,SUBJ-0440,SITE-14,Active Treatment,1,Dizziness,Skin disorders,2024-08-06,29,Mild,Non-serious,Unlikely,Recovering
+SUBJ-0440-AE-02,SUBJ-0440,SITE-14,Active Treatment,2,Headache,Skin disorders,2024-10-01,85,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0442-AE-01,SUBJ-0442,SITE-10,Placebo,1,Shortness of Breath,General disorders,2024-12-23,75,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0443-AE-01,SUBJ-0443,SITE-17,Placebo,1,Anaemia,Gastrointestinal disorders,2024-08-05,20,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0444-AE-01,SUBJ-0444,SITE-04,Placebo,1,Chest Pain,Cardiac disorders,2024-08-21,87,Mild,Non-serious,Not Related,Recovered
+SUBJ-0445-AE-01,SUBJ-0445,SITE-01,Active Treatment,1,Neutropenia,Respiratory disorders,2024-05-10,120,Mild,Non-serious,Unlikely,Recovering
+SUBJ-0445-AE-02,SUBJ-0445,SITE-01,Active Treatment,2,Vomiting,Gastrointestinal disorders,2024-01-13,2,Mild,Non-serious,Not Related,Recovering
+SUBJ-0445-AE-03,SUBJ-0445,SITE-01,Active Treatment,3,Diarrhoea,Nervous system disorders,2024-03-05,54,Mild,Non-serious,Not Related,Recovering
+SUBJ-0445-AE-04,SUBJ-0445,SITE-01,Active Treatment,4,Fatigue,Investigations,2024-04-29,109,Moderate,Non-serious,Not Related,Not Recovered
+SUBJ-0445-AE-05,SUBJ-0445,SITE-01,Active Treatment,5,Vomiting,Investigations,2024-01-12,1,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0446-AE-01,SUBJ-0446,SITE-05,Active Treatment,1,Fatigue,Cardiac disorders,2024-12-07,40,Mild,Non-serious,Possible,Recovering
+SUBJ-0446-AE-02,SUBJ-0446,SITE-05,Active Treatment,2,Chest Pain,Investigations,2024-11-23,26,Mild,Non-serious,Not Related,Recovered
+SUBJ-0446-AE-03,SUBJ-0446,SITE-05,Active Treatment,3,Vomiting,Gastrointestinal disorders,2024-10-31,3,Severe,Non-serious,Not Related,Recovering
+SUBJ-0446-AE-04,SUBJ-0446,SITE-05,Active Treatment,4,Elevated ALT,Nervous system disorders,2024-10-29,1,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0447-AE-01,SUBJ-0447,SITE-18,Placebo,1,Neutropenia,Respiratory disorders,2025-01-21,72,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0447-AE-02,SUBJ-0447,SITE-18,Placebo,2,Anaemia,Blood disorders,2024-11-24,14,Severe,Serious,Not Related,Unknown
+SUBJ-0448-AE-01,SUBJ-0448,SITE-20,Placebo,1,Fatigue,Gastrointestinal disorders,2024-02-12,6,Moderate,Non-serious,Unlikely,Recovering
+SUBJ-0449-AE-01,SUBJ-0449,SITE-06,Placebo,1,Shortness of Breath,Respiratory disorders,2025-05-19,58,Severe,Non-serious,Not Related,Recovered
+SUBJ-0450-AE-01,SUBJ-0450,SITE-11,Active Treatment,1,Insomnia,Skin disorders,2025-08-13,50,Severe,Non-serious,Not Related,Recovered
+SUBJ-0450-AE-02,SUBJ-0450,SITE-11,Active Treatment,2,Elevated AST,General disorders,2025-08-15,52,Mild,Non-serious,Possible,Unknown
+SUBJ-0451-AE-01,SUBJ-0451,SITE-10,Placebo,1,Hypertension,Nervous system disorders,2024-08-05,62,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0453-AE-01,SUBJ-0453,SITE-12,Active Treatment,1,Chest Pain,Investigations,2025-07-29,12,Mild,Non-serious,Not Related,Recovering
+SUBJ-0453-AE-02,SUBJ-0453,SITE-12,Active Treatment,2,Elevated ALT,Skin disorders,2025-08-18,32,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0453-AE-03,SUBJ-0453,SITE-12,Active Treatment,3,Insomnia,Skin disorders,2025-10-03,78,Mild,Non-serious,Possible,Recovering
+SUBJ-0454-AE-01,SUBJ-0454,SITE-17,Active Treatment,1,Hypertension,Investigations,2025-05-18,81,Mild,Non-serious,Unlikely,Not Recovered
+SUBJ-0454-AE-02,SUBJ-0454,SITE-17,Active Treatment,2,Hypertension,Cardiac disorders,2025-03-24,26,Moderate,Non-serious,Unlikely,Recovering
+SUBJ-0455-AE-01,SUBJ-0455,SITE-14,Active Treatment,1,Diarrhoea,General disorders,2025-06-09,92,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0455-AE-02,SUBJ-0455,SITE-14,Active Treatment,2,Headache,Skin disorders,2025-03-21,12,Mild,Non-serious,Not Related,Recovered
+SUBJ-0455-AE-03,SUBJ-0455,SITE-14,Active Treatment,3,Diarrhoea,Skin disorders,2025-06-24,107,Mild,Non-serious,Possible,Recovered
+SUBJ-0455-AE-04,SUBJ-0455,SITE-14,Active Treatment,4,Headache,Nervous system disorders,2025-06-24,107,Mild,Non-serious,Probable,Not Recovered
+SUBJ-0457-AE-01,SUBJ-0457,SITE-13,Placebo,1,Hypertension,Investigations,2024-03-17,64,Severe,Non-serious,Not Related,Recovering
+SUBJ-0458-AE-01,SUBJ-0458,SITE-15,Active Treatment,1,Nausea,Investigations,2025-03-15,10,Moderate,Non-serious,Not Related,Recovering
+SUBJ-0459-AE-01,SUBJ-0459,SITE-19,Placebo,1,Insomnia,Cardiac disorders,2024-04-25,100,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0459-AE-02,SUBJ-0459,SITE-19,Placebo,2,Diarrhoea,Nervous system disorders,2024-04-16,91,Mild,Non-serious,Probable,Not Recovered
+SUBJ-0462-AE-01,SUBJ-0462,SITE-02,Active Treatment,1,Insomnia,Investigations,2024-03-05,15,Severe,Non-serious,Not Related,Unknown
+SUBJ-0463-AE-01,SUBJ-0463,SITE-12,Active Treatment,1,Diarrhoea,General disorders,2025-06-06,110,Moderate,Non-serious,Unlikely,Recovering
+SUBJ-0468-AE-01,SUBJ-0468,SITE-18,Active Treatment,1,Elevated AST,Respiratory disorders,2025-04-21,85,Moderate,Non-serious,Not Related,Recovering
+SUBJ-0468-AE-02,SUBJ-0468,SITE-18,Active Treatment,2,Elevated ALT,Respiratory disorders,2025-03-15,48,Mild,Serious,Unlikely,Recovered
+SUBJ-0468-AE-03,SUBJ-0468,SITE-18,Active Treatment,3,Hypertension,Skin disorders,2025-03-09,42,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0471-AE-01,SUBJ-0471,SITE-13,Active Treatment,1,Shortness of Breath,Cardiac disorders,2024-06-09,10,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0474-AE-01,SUBJ-0474,SITE-14,Active Treatment,1,Vomiting,Nervous system disorders,2025-11-23,92,Mild,Non-serious,Possible,Not Recovered
+SUBJ-0474-AE-02,SUBJ-0474,SITE-14,Active Treatment,2,Insomnia,Cardiac disorders,2025-11-14,83,Mild,Non-serious,Unlikely,Recovering
+SUBJ-0474-AE-03,SUBJ-0474,SITE-14,Active Treatment,3,Diarrhoea,Cardiac disorders,2025-09-03,11,Mild,Non-serious,Possible,Recovering
+SUBJ-0475-AE-01,SUBJ-0475,SITE-19,Placebo,1,Neutropenia,Investigations,2025-04-21,73,Mild,Non-serious,Not Related,Recovered
+SUBJ-0476-AE-01,SUBJ-0476,SITE-11,Placebo,1,Diarrhoea,Cardiac disorders,2025-11-02,117,Mild,Non-serious,Not Related,Recovered
+SUBJ-0477-AE-01,SUBJ-0477,SITE-04,Placebo,1,Dizziness,General disorders,2025-02-26,113,Moderate,Non-serious,Definite,Recovered
+SUBJ-0479-AE-01,SUBJ-0479,SITE-10,Active Treatment,1,Shortness of Breath,Skin disorders,2025-03-07,45,Mild,Non-serious,Unlikely,Recovered
+SUBJ-0479-AE-02,SUBJ-0479,SITE-10,Active Treatment,2,Hypertension,Nervous system disorders,2025-02-17,27,Mild,Non-serious,Probable,Recovered
+SUBJ-0482-AE-01,SUBJ-0482,SITE-04,Placebo,1,Elevated ALT,Gastrointestinal disorders,2024-06-25,47,Moderate,Non-serious,Possible,Recovered
+SUBJ-0482-AE-02,SUBJ-0482,SITE-04,Placebo,2,Insomnia,Investigations,2024-09-02,116,Moderate,Non-serious,Not Related,Recovering
+SUBJ-0483-AE-01,SUBJ-0483,SITE-15,Active Treatment,1,Headache,Skin disorders,2024-09-11,77,Moderate,Non-serious,Probable,Not Recovered
+SUBJ-0484-AE-01,SUBJ-0484,SITE-12,Active Treatment,1,Diarrhoea,Cardiac disorders,2025-08-26,28,Mild,Non-serious,Possible,Recovered
+SUBJ-0486-AE-01,SUBJ-0486,SITE-04,Placebo,1,Rash,Nervous system disorders,2025-01-03,35,Mild,Non-serious,Not Related,Recovered
+SUBJ-0488-AE-01,SUBJ-0488,SITE-16,Active Treatment,1,Shortness of Breath,Gastrointestinal disorders,2024-05-21,40,Severe,Non-serious,Probable,Recovered
+SUBJ-0488-AE-02,SUBJ-0488,SITE-16,Active Treatment,2,Neutropenia,Blood disorders,2024-06-15,65,Mild,Non-serious,Possible,Unknown
+SUBJ-0488-AE-03,SUBJ-0488,SITE-16,Active Treatment,3,Anaemia,Gastrointestinal disorders,2024-05-23,42,Moderate,Non-serious,Possible,Not Recovered
+SUBJ-0490-AE-01,SUBJ-0490,SITE-05,Active Treatment,1,Elevated ALT,Cardiac disorders,2025-07-18,67,Mild,Non-serious,Possible,Recovered
+SUBJ-0490-AE-02,SUBJ-0490,SITE-05,Active Treatment,2,Headache,Respiratory disorders,2025-08-08,88,Moderate,Non-serious,Possible,Recovered
+SUBJ-0491-AE-01,SUBJ-0491,SITE-18,Placebo,1,Rash,Respiratory disorders,2024-04-24,72,Moderate,Non-serious,Not Related,Recovered
+SUBJ-0492-AE-01,SUBJ-0492,SITE-02,Placebo,1,Vomiting,Skin disorders,2024-09-23,69,Moderate,Non-serious,Possible,Recovering
+SUBJ-0492-AE-02,SUBJ-0492,SITE-02,Placebo,2,Fatigue,Blood disorders,2024-08-13,28,Mild,Non-serious,Not Related,Recovered
+SUBJ-0494-AE-01,SUBJ-0494,SITE-19,Active Treatment,1,Anaemia,Respiratory disorders,2024-02-10,16,Moderate,Non-serious,Possible,Recovered
+SUBJ-0495-AE-01,SUBJ-0495,SITE-14,Placebo,1,Anaemia,Investigations,2024-06-12,9,Moderate,Non-serious,Unlikely,Recovered
+SUBJ-0497-AE-01,SUBJ-0497,SITE-15,Active Treatment,1,Insomnia,Gastrointestinal disorders,2025-02-08,52,Severe,Serious,Not Related,Recovering
+SUBJ-0497-AE-02,SUBJ-0497,SITE-15,Active Treatment,2,Shortness of Breath,Nervous system disorders,2025-01-12,25,Mild,Non-serious,Possible,Not Recovered
+SUBJ-0497-AE-03,SUBJ-0497,SITE-15,Active Treatment,3,Fatigue,Nervous system disorders,2025-01-07,20,Mild,Non-serious,Not Related,Recovered
+SUBJ-0500-AE-01,SUBJ-0500,SITE-20,Placebo,1,Vomiting,Investigations,2024-05-12,15,Mild,Non-serious,Unlikely,Recovering

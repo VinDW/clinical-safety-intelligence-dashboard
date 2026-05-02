@@ -1,0 +1,41 @@
+site_id,treatment_arm,n_subjects,site_total
+SITE-01,Active Treatment,9,24
+SITE-01,Placebo,15,24
+SITE-02,Active Treatment,14,27
+SITE-02,Placebo,13,27
+SITE-03,Active Treatment,8,18
+SITE-03,Placebo,10,18
+SITE-04,Active Treatment,11,31
+SITE-04,Placebo,20,31
+SITE-05,Active Treatment,13,23
+SITE-05,Placebo,10,23
+SITE-06,Active Treatment,14,29
+SITE-06,Placebo,15,29
+SITE-07,Active Treatment,10,15
+SITE-07,Placebo,5,15
+SITE-08,Active Treatment,17,25
+SITE-08,Placebo,8,25
+SITE-09,Active Treatment,12,26
+SITE-09,Placebo,14,26
+SITE-10,Active Treatment,12,24
+SITE-10,Placebo,12,24
+SITE-11,Active Treatment,9,18
+SITE-11,Placebo,9,18
+SITE-12,Active Treatment,16,31
+SITE-12,Placebo,15,31
+SITE-13,Active Treatment,13,34
+SITE-13,Placebo,21,34
+SITE-14,Active Treatment,13,18
+SITE-14,Placebo,5,18
+SITE-15,Active Treatment,12,26
+SITE-15,Placebo,14,26
+SITE-16,Active Treatment,10,24
+SITE-16,Placebo,14,24
+SITE-17,Active Treatment,11,27
+SITE-17,Placebo,16,27
+SITE-18,Active Treatment,16,33
+SITE-18,Placebo,17,33
+SITE-19,Active Treatment,11,23
+SITE-19,Placebo,12,23
+SITE-20,Active Treatment,10,24
+SITE-20,Placebo,14,24

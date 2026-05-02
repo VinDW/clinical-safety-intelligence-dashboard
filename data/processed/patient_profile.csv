@@ -1,0 +1,501 @@
+subject_id,site_id,treatment_arm,sex,race,age,weight_kg,bmi,enrolment_date,discontinued,discontinuation_reason,total_ae,serious_ae,severe_ae,related_ae,abnormal_labs,grade_2_or_higher_labs,actual_treatment_days,compliance_rate,compliance_category,patient_risk_score,patient_risk_category
+SUBJ-0001,SITE-01,Active Treatment,Female,Coloured,41,100.7,25.2,2024-02-17,Yes,Lost to Follow-up,2,0,0,1,2,0,27,0.94,High,35,High Risk
+SUBJ-0002,SITE-06,Active Treatment,Male,African,66,55.7,23.2,2024-07-05,No,Completed / Ongoing,0,0,0,0,1,0,84,0.93,High,5,Low Risk
+SUBJ-0003,SITE-13,Placebo,Female,African,60,84.4,34.2,2024-05-17,No,Completed / Ongoing,0,0,0,0,2,0,84,0.98,High,10,Low Risk
+SUBJ-0004,SITE-15,Active Treatment,Female,African,55,87.7,24.2,2025-06-28,No,Completed / Ongoing,2,0,0,1,4,1,84,0.85,Moderate,38,High Risk
+SUBJ-0005,SITE-12,Active Treatment,Female,African,66,92.5,31,2024-11-06,No,Completed / Ongoing,2,0,0,0,4,0,84,0.94,High,20,Medium Risk
+SUBJ-0006,SITE-04,Placebo,Male,African,61,85,20.9,2025-03-22,No,Completed / Ongoing,0,0,0,0,3,0,84,0.93,High,15,Low Risk
+SUBJ-0007,SITE-16,Placebo,Female,African,23,102.3,24.2,2024-08-22,No,Completed / Ongoing,2,1,1,0,1,0,84,0.9,High,40,High Risk
+SUBJ-0008,SITE-05,Placebo,Female,African,58,57.7,19.7,2024-07-07,No,Completed / Ongoing,0,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0009,SITE-12,Active Treatment,Female,African,61,90.8,24.1,2024-03-31,No,Completed / Ongoing,2,0,0,1,0,0,84,0.84,Moderate,10,Low Risk
+SUBJ-0010,SITE-02,Active Treatment,Female,Other,58,72.5,32.7,2024-04-11,No,Completed / Ongoing,0,0,0,0,1,0,84,0.93,High,5,Low Risk
+SUBJ-0011,SITE-19,Placebo,Male,African,46,69.9,25.2,2024-09-21,No,Completed / Ongoing,0,0,0,0,2,0,84,0.86,Moderate,10,Low Risk
+SUBJ-0012,SITE-15,Active Treatment,Female,African,56,95.2,30.2,2024-10-25,No,Completed / Ongoing,0,0,0,0,7,0,84,0.96,High,35,High Risk
+SUBJ-0013,SITE-14,Placebo,Male,African,52,111.8,18.2,2024-04-20,Yes,Protocol Deviation,1,0,0,0,3,1,28,1,High,38,High Risk
+SUBJ-0014,SITE-17,Placebo,Male,African,39,84.4,25.3,2025-04-09,Yes,Adverse Event,0,0,0,0,3,0,25,0.85,Moderate,30,Medium Risk
+SUBJ-0015,SITE-12,Active Treatment,Male,African,80,90.4,26.7,2025-03-07,No,Completed / Ongoing,2,0,0,1,3,1,84,0.92,High,33,High Risk
+SUBJ-0016,SITE-10,Placebo,Male,African,34,71.2,23.6,2024-09-27,No,Completed / Ongoing,1,0,1,0,3,0,84,1,High,30,Medium Risk
+SUBJ-0017,SITE-18,Active Treatment,Female,Coloured,45,82,29.8,2024-07-24,No,Completed / Ongoing,1,0,0,1,3,0,84,0.99,High,25,Medium Risk
+SUBJ-0018,SITE-02,Placebo,Female,Other,69,55.9,21.6,2024-08-25,No,Completed / Ongoing,1,0,0,1,2,0,84,1,High,20,Medium Risk
+SUBJ-0019,SITE-05,Active Treatment,Male,Coloured,33,81,28.6,2024-07-21,No,Completed / Ongoing,3,0,0,3,7,1,84,0.95,High,73,High Risk
+SUBJ-0020,SITE-12,Placebo,Male,Coloured,63,101.8,28.3,2025-07-08,No,Completed / Ongoing,0,0,0,0,2,0,84,0.8,Moderate,10,Low Risk
+SUBJ-0021,SITE-05,Active Treatment,Male,White,50,100.5,30.4,2025-05-30,No,Completed / Ongoing,0,0,0,0,6,1,84,1,High,38,High Risk
+SUBJ-0022,SITE-16,Placebo,Male,African,49,76,32.4,2024-09-08,No,Completed / Ongoing,1,0,0,0,1,0,84,1,High,5,Low Risk
+SUBJ-0023,SITE-03,Placebo,Female,African,29,80.3,31.8,2024-12-09,No,Completed / Ongoing,1,0,0,0,1,0,84,0.88,Moderate,5,Low Risk
+SUBJ-0024,SITE-12,Placebo,Female,African,45,55.7,33.1,2024-05-27,Yes,Withdrawal by Subject,1,0,0,0,3,0,41,1,High,30,Medium Risk
+SUBJ-0025,SITE-03,Placebo,Male,Coloured,59,44.6,28.4,2024-02-19,No,Completed / Ongoing,1,0,0,0,1,0,84,0.92,High,5,Low Risk
+SUBJ-0026,SITE-03,Placebo,Female,African,49,87.6,21.4,2024-12-29,No,Completed / Ongoing,0,0,0,0,2,0,84,0.92,High,10,Low Risk
+SUBJ-0027,SITE-10,Placebo,Male,African,70,65.4,32,2024-09-30,No,Completed / Ongoing,2,0,0,1,3,1,84,0.87,Moderate,33,High Risk
+SUBJ-0028,SITE-04,Active Treatment,Male,African,55,79.4,35.5,2024-01-13,No,Completed / Ongoing,1,0,0,0,3,0,84,1,High,15,Low Risk
+SUBJ-0029,SITE-08,Active Treatment,Female,African,54,88.2,29,2025-03-11,No,Completed / Ongoing,1,0,0,0,5,0,84,1,High,25,Medium Risk
+SUBJ-0030,SITE-18,Placebo,Male,Indian/Asian,53,101.3,23.6,2024-09-20,No,Completed / Ongoing,0,0,0,0,3,0,84,0.97,High,15,Low Risk
+SUBJ-0031,SITE-02,Placebo,Female,Indian/Asian,59,98.6,28.3,2024-03-24,No,Completed / Ongoing,4,0,0,2,3,0,84,0.94,High,35,High Risk
+SUBJ-0032,SITE-13,Active Treatment,Male,African,71,93.4,24.5,2024-10-20,No,Completed / Ongoing,2,1,1,0,4,0,84,0.9,High,55,High Risk
+SUBJ-0033,SITE-09,Active Treatment,Female,African,65,72.6,27.9,2025-04-15,Yes,Withdrawal by Subject,3,0,0,2,2,0,32,1,High,45,High Risk
+SUBJ-0034,SITE-12,Active Treatment,Female,Coloured,65,95.5,28.2,2025-03-14,Yes,Adverse Event,3,0,0,1,1,0,62,0.94,High,30,Medium Risk
+SUBJ-0035,SITE-05,Placebo,Female,African,74,64.1,16.9,2024-11-24,No,Completed / Ongoing,1,0,0,0,1,0,84,0.87,Moderate,5,Low Risk
+SUBJ-0036,SITE-09,Placebo,Male,Coloured,48,63.6,35.5,2024-05-07,No,Completed / Ongoing,1,0,1,0,1,0,84,0.99,High,20,Medium Risk
+SUBJ-0037,SITE-13,Placebo,Female,Other,53,58.2,30.1,2024-09-24,No,Completed / Ongoing,0,0,0,0,3,0,84,1,High,15,Low Risk
+SUBJ-0038,SITE-18,Active Treatment,Female,African,78,78.6,30,2025-06-21,No,Completed / Ongoing,1,0,0,1,2,0,84,1,High,20,Medium Risk
+SUBJ-0039,SITE-09,Placebo,Female,African,48,87.7,24.5,2025-01-28,No,Completed / Ongoing,0,0,0,0,3,0,84,0.91,High,15,Low Risk
+SUBJ-0040,SITE-16,Active Treatment,Male,Coloured,63,95.7,22.7,2025-08-11,No,Completed / Ongoing,3,0,0,0,4,0,84,0.83,Moderate,20,Medium Risk
+SUBJ-0041,SITE-07,Active Treatment,Male,African,58,94.6,32.5,2025-07-16,No,Completed / Ongoing,0,0,0,0,5,0,84,0.91,High,25,Medium Risk
+SUBJ-0042,SITE-18,Active Treatment,Female,Indian/Asian,81,80.7,19.6,2024-06-18,No,Completed / Ongoing,1,0,0,0,1,0,84,0.97,High,5,Low Risk
+SUBJ-0043,SITE-05,Placebo,Male,African,75,72.9,32.9,2025-05-29,No,Completed / Ongoing,0,0,0,0,2,0,84,0.95,High,10,Low Risk
+SUBJ-0044,SITE-05,Placebo,Female,White,57,78.3,17.4,2024-01-22,No,Completed / Ongoing,3,1,1,1,3,0,84,0.92,High,60,High Risk
+SUBJ-0045,SITE-11,Placebo,Female,African,62,86.9,29.3,2024-10-13,No,Completed / Ongoing,0,0,0,0,0,0,84,0.95,High,0,Low Risk
+SUBJ-0046,SITE-04,Placebo,Male,African,18,95.9,21.7,2024-09-17,No,Completed / Ongoing,3,0,1,2,4,0,84,1,High,55,High Risk
+SUBJ-0047,SITE-17,Placebo,Female,African,53,67.5,22.5,2024-11-03,No,Completed / Ongoing,0,0,0,0,0,0,84,0.89,Moderate,0,Low Risk
+SUBJ-0048,SITE-08,Placebo,Male,African,63,59.9,22.7,2025-02-10,No,Completed / Ongoing,0,0,0,0,3,0,84,0.9,High,15,Low Risk
+SUBJ-0049,SITE-09,Active Treatment,Female,Coloured,85,46.8,28.1,2025-08-27,No,Completed / Ongoing,2,0,0,2,2,0,84,0.95,High,30,Medium Risk
+SUBJ-0050,SITE-03,Placebo,Male,African,56,57,33.7,2024-05-28,No,Completed / Ongoing,0,0,0,0,2,0,84,0.9,High,10,Low Risk
+SUBJ-0051,SITE-15,Placebo,Female,African,62,66.5,28.2,2024-06-13,Yes,Withdrawal by Subject,2,0,0,1,2,0,57,0.88,Moderate,35,High Risk
+SUBJ-0052,SITE-20,Placebo,Female,African,55,69,32.8,2024-09-18,No,Completed / Ongoing,1,1,0,1,3,0,84,0.87,Moderate,45,High Risk
+SUBJ-0053,SITE-09,Placebo,Female,African,38,82,29.4,2024-05-13,No,Completed / Ongoing,1,0,0,1,3,0,84,0.93,High,25,Medium Risk
+SUBJ-0054,SITE-06,Placebo,Female,African,55,64.7,16,2025-03-17,No,Completed / Ongoing,1,0,0,0,0,0,84,1,High,0,Low Risk
+SUBJ-0055,SITE-04,Placebo,Female,African,62,73.5,28,2024-06-17,Yes,Withdrawal by Subject,2,0,0,0,3,0,22,0.98,High,30,Medium Risk
+SUBJ-0056,SITE-15,Placebo,Male,White,58,61.5,23.5,2025-04-18,No,Completed / Ongoing,4,0,0,2,4,0,84,0.82,Moderate,40,High Risk
+SUBJ-0057,SITE-01,Active Treatment,Female,African,64,60.2,32.5,2024-03-20,No,Completed / Ongoing,2,0,0,1,2,0,84,0.96,High,20,Medium Risk
+SUBJ-0058,SITE-12,Placebo,Female,Coloured,54,72.7,20.7,2025-02-11,No,Completed / Ongoing,0,0,0,0,5,0,84,0.91,High,25,Medium Risk
+SUBJ-0059,SITE-06,Active Treatment,Female,White,48,55.8,23.2,2024-11-13,No,Completed / Ongoing,1,0,0,1,3,0,84,1,High,25,Medium Risk
+SUBJ-0060,SITE-13,Active Treatment,Female,African,67,66.5,26.2,2025-02-24,No,Completed / Ongoing,2,0,0,1,3,0,84,0.86,Moderate,25,Medium Risk
+SUBJ-0061,SITE-04,Placebo,Male,African,37,116.9,31.8,2024-10-01,No,Completed / Ongoing,0,0,0,0,2,0,84,0.91,High,10,Low Risk
+SUBJ-0062,SITE-08,Active Treatment,Male,White,64,81,25.7,2025-08-08,No,Completed / Ongoing,0,0,0,0,7,0,84,0.88,Moderate,35,High Risk
+SUBJ-0063,SITE-06,Active Treatment,Female,African,56,68.1,32.3,2024-01-09,No,Completed / Ongoing,0,0,0,0,1,0,84,0.97,High,5,Low Risk
+SUBJ-0064,SITE-16,Active Treatment,Male,Indian/Asian,20,77.2,30.9,2024-08-20,No,Completed / Ongoing,3,0,1,2,1,1,84,1,High,48,High Risk
+SUBJ-0065,SITE-06,Active Treatment,Male,African,47,89.1,30.3,2025-01-09,Yes,Lost to Follow-up,0,0,0,0,3,0,44,0.88,Moderate,30,Medium Risk
+SUBJ-0066,SITE-17,Placebo,Female,African,71,82.9,16,2024-04-14,No,Completed / Ongoing,0,0,0,0,2,0,84,0.93,High,10,Low Risk
+SUBJ-0067,SITE-19,Placebo,Female,African,27,74.6,25.9,2024-07-26,No,Completed / Ongoing,0,0,0,0,1,0,84,0.94,High,5,Low Risk
+SUBJ-0068,SITE-01,Placebo,Female,African,73,55.1,27.4,2024-01-05,No,Completed / Ongoing,0,0,0,0,2,0,84,0.84,Moderate,10,Low Risk
+SUBJ-0069,SITE-17,Active Treatment,Male,Indian/Asian,73,73.5,32.8,2025-03-18,No,Completed / Ongoing,1,0,0,0,5,0,84,0.96,High,25,Medium Risk
+SUBJ-0070,SITE-20,Placebo,Female,White,69,96.4,27.9,2025-07-04,No,Completed / Ongoing,0,0,0,0,0,0,84,1,High,0,Low Risk
+SUBJ-0071,SITE-06,Active Treatment,Male,African,53,79.6,28.9,2024-09-24,No,Completed / Ongoing,0,0,0,0,4,0,84,0.9,High,20,Medium Risk
+SUBJ-0072,SITE-05,Active Treatment,Male,African,47,84.2,31,2025-01-06,No,Completed / Ongoing,0,0,0,0,2,0,84,0.85,Moderate,10,Low Risk
+SUBJ-0073,SITE-17,Placebo,Female,White,34,79.1,29.1,2024-05-23,No,Completed / Ongoing,0,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0074,SITE-03,Active Treatment,Male,Coloured,53,87.5,22.4,2024-05-23,No,Completed / Ongoing,0,0,0,0,0,0,84,0.96,High,0,Low Risk
+SUBJ-0075,SITE-20,Placebo,Female,Indian/Asian,51,107.7,18.8,2024-08-09,No,Completed / Ongoing,1,0,0,0,2,0,84,0.94,High,10,Low Risk
+SUBJ-0076,SITE-15,Placebo,Female,African,79,86.5,23.2,2024-02-25,No,Completed / Ongoing,1,1,1,1,0,0,84,0.94,High,45,High Risk
+SUBJ-0077,SITE-17,Placebo,Female,African,57,54.2,18.2,2024-12-01,No,Completed / Ongoing,0,0,0,0,7,0,84,0.97,High,35,High Risk
+SUBJ-0078,SITE-08,Active Treatment,Female,African,47,83.3,19.7,2024-03-18,No,Completed / Ongoing,1,0,0,1,0,0,84,1,High,10,Low Risk
+SUBJ-0079,SITE-04,Placebo,Male,African,67,71.5,27.6,2024-09-08,No,Completed / Ongoing,1,0,0,1,5,0,84,0.72,Low,35,High Risk
+SUBJ-0080,SITE-13,Placebo,Male,African,65,79.7,27.4,2024-07-18,No,Completed / Ongoing,1,0,0,1,2,0,84,0.96,High,20,Medium Risk
+SUBJ-0081,SITE-01,Active Treatment,Male,African,48,67.7,21.9,2024-03-15,No,Completed / Ongoing,1,0,0,1,3,0,84,0.88,Moderate,25,Medium Risk
+SUBJ-0082,SITE-12,Placebo,Male,Indian/Asian,60,98,28.6,2024-09-25,No,Completed / Ongoing,1,0,0,0,3,0,84,0.9,High,15,Low Risk
+SUBJ-0083,SITE-03,Placebo,Female,African,46,77.8,23.5,2025-01-16,No,Completed / Ongoing,0,0,0,0,1,0,84,0.95,High,5,Low Risk
+SUBJ-0084,SITE-19,Active Treatment,Male,Indian/Asian,45,86.3,31.3,2024-02-23,No,Completed / Ongoing,0,0,0,0,1,0,84,0.89,Moderate,5,Low Risk
+SUBJ-0085,SITE-13,Active Treatment,Female,African,42,71,21.8,2024-07-17,No,Completed / Ongoing,2,0,0,2,4,0,84,0.93,High,40,High Risk
+SUBJ-0086,SITE-01,Placebo,Female,Coloured,49,117.3,29.6,2025-01-21,No,Completed / Ongoing,1,0,0,0,0,0,84,1,High,0,Low Risk
+SUBJ-0087,SITE-06,Active Treatment,Female,African,41,75.8,22.4,2025-03-28,No,Completed / Ongoing,2,0,0,2,1,0,84,1,High,25,Medium Risk
+SUBJ-0088,SITE-18,Placebo,Male,African,65,85.2,25.8,2025-07-24,Yes,Adverse Event,1,0,0,0,2,0,70,1,High,25,Medium Risk
+SUBJ-0089,SITE-20,Placebo,Male,Other,63,72.7,19.3,2025-06-12,No,Completed / Ongoing,0,0,0,0,2,0,84,0.8,Moderate,10,Low Risk
+SUBJ-0090,SITE-18,Active Treatment,Female,African,52,69.9,22.8,2024-10-19,No,Completed / Ongoing,2,0,0,2,2,0,84,0.86,Moderate,30,Medium Risk
+SUBJ-0091,SITE-01,Placebo,Male,African,75,78.9,35.3,2024-03-20,No,Completed / Ongoing,0,0,0,0,3,0,84,0.95,High,15,Low Risk
+SUBJ-0092,SITE-20,Placebo,Female,Coloured,61,98,24.5,2024-06-09,No,Completed / Ongoing,1,0,0,0,1,0,84,0.83,Moderate,5,Low Risk
+SUBJ-0093,SITE-10,Placebo,Female,African,63,103,22.1,2024-10-08,No,Completed / Ongoing,0,0,0,0,3,0,84,0.85,Moderate,15,Low Risk
+SUBJ-0094,SITE-02,Active Treatment,Male,African,49,75.3,25.5,2024-01-16,No,Completed / Ongoing,2,0,0,0,3,0,84,0.79,Moderate,15,Low Risk
+SUBJ-0095,SITE-04,Active Treatment,Female,African,72,78.3,33.2,2025-07-04,No,Completed / Ongoing,2,0,1,1,3,0,84,0.95,High,40,High Risk
+SUBJ-0096,SITE-05,Active Treatment,Female,African,56,96.5,29.8,2025-01-08,No,Completed / Ongoing,1,1,0,0,3,0,84,0.93,High,35,High Risk
+SUBJ-0097,SITE-15,Active Treatment,Female,African,48,102.6,26.3,2025-03-01,Yes,Withdrawal by Subject,0,0,0,0,3,0,43,1,High,30,Medium Risk
+SUBJ-0098,SITE-01,Active Treatment,Male,Indian/Asian,66,71.9,38,2024-05-16,No,Completed / Ongoing,2,0,0,2,3,0,84,0.86,Moderate,35,High Risk
+SUBJ-0099,SITE-17,Placebo,Male,African,44,75.5,27.3,2024-02-13,No,Completed / Ongoing,0,0,0,0,2,0,84,0.92,High,10,Low Risk
+SUBJ-0100,SITE-09,Active Treatment,Male,Coloured,40,96.9,30.6,2025-06-21,No,Completed / Ongoing,1,0,0,1,4,0,84,0.72,Low,30,Medium Risk
+SUBJ-0101,SITE-13,Active Treatment,Female,White,71,84,21.4,2024-02-14,No,Completed / Ongoing,0,0,0,0,4,0,84,0.97,High,20,Medium Risk
+SUBJ-0102,SITE-12,Active Treatment,Male,Coloured,67,63.7,31.8,2025-05-25,No,Completed / Ongoing,5,0,0,4,2,1,84,0.85,Moderate,58,High Risk
+SUBJ-0103,SITE-19,Placebo,Male,African,68,90.5,27.2,2024-09-26,No,Completed / Ongoing,0,0,0,0,2,0,84,0.78,Moderate,10,Low Risk
+SUBJ-0104,SITE-18,Active Treatment,Female,Indian/Asian,63,33.6,26.9,2025-03-14,Yes,Adverse Event,0,0,0,0,3,0,38,0.93,High,30,Medium Risk
+SUBJ-0105,SITE-12,Placebo,Male,White,57,92.7,34.5,2024-01-26,Yes,Adverse Event,2,0,0,1,2,0,45,0.8,Moderate,35,High Risk
+SUBJ-0106,SITE-09,Placebo,Male,African,42,85.7,29,2024-01-01,No,Completed / Ongoing,1,0,0,0,0,0,84,0.99,High,0,Low Risk
+SUBJ-0107,SITE-03,Placebo,Male,African,47,86.4,32.5,2025-06-22,No,Completed / Ongoing,0,0,0,0,2,0,84,0.89,Moderate,10,Low Risk
+SUBJ-0108,SITE-02,Active Treatment,Male,Indian/Asian,51,87.9,29.1,2025-02-01,Yes,Adverse Event,0,0,0,0,2,0,73,1,High,25,Medium Risk
+SUBJ-0109,SITE-17,Active Treatment,Female,African,66,72.4,23.7,2025-02-28,No,Completed / Ongoing,0,0,0,0,0,0,84,0.96,High,0,Low Risk
+SUBJ-0110,SITE-02,Active Treatment,Female,African,52,76.7,19.9,2024-03-18,No,Completed / Ongoing,0,0,0,0,3,0,84,0.94,High,15,Low Risk
+SUBJ-0111,SITE-10,Placebo,Male,African,63,63.7,28.3,2025-05-26,No,Completed / Ongoing,1,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0112,SITE-13,Placebo,Male,African,62,56.1,23.6,2025-07-26,Yes,Protocol Deviation,0,0,0,0,1,0,44,0.83,Moderate,20,Medium Risk
+SUBJ-0113,SITE-10,Placebo,Female,African,49,88,28.5,2025-01-05,No,Completed / Ongoing,0,0,0,0,2,0,84,0.74,Low,10,Low Risk
+SUBJ-0114,SITE-14,Active Treatment,Female,White,37,61.1,28.6,2024-07-30,No,Completed / Ongoing,3,0,0,2,4,0,84,0.94,High,40,High Risk
+SUBJ-0115,SITE-06,Placebo,Male,African,52,99.5,21.6,2024-05-26,No,Completed / Ongoing,0,0,0,0,1,0,84,0.89,Moderate,5,Low Risk
+SUBJ-0116,SITE-19,Active Treatment,Female,African,49,97.3,25.2,2025-03-25,No,Completed / Ongoing,1,0,0,0,3,0,84,0.99,High,15,Low Risk
+SUBJ-0117,SITE-12,Placebo,Male,Indian/Asian,33,73.8,22.3,2024-08-05,No,Completed / Ongoing,1,0,0,1,1,0,84,0.81,Moderate,15,Low Risk
+SUBJ-0118,SITE-12,Placebo,Female,Coloured,49,80.7,36.6,2024-02-04,No,Completed / Ongoing,1,0,0,0,2,0,84,0.81,Moderate,10,Low Risk
+SUBJ-0119,SITE-02,Placebo,Male,African,71,102,31.8,2025-01-23,No,Completed / Ongoing,1,0,0,0,0,0,84,0.94,High,0,Low Risk
+SUBJ-0120,SITE-04,Active Treatment,Female,Coloured,45,79.6,25.8,2024-01-02,No,Completed / Ongoing,1,0,0,1,0,0,84,0.98,High,10,Low Risk
+SUBJ-0121,SITE-02,Placebo,Female,African,45,88,33.8,2025-01-23,No,Completed / Ongoing,4,0,0,2,4,1,84,0.97,High,48,High Risk
+SUBJ-0122,SITE-06,Active Treatment,Male,African,77,89.5,30.8,2024-07-13,No,Completed / Ongoing,1,0,0,0,6,0,84,0.94,High,30,Medium Risk
+SUBJ-0123,SITE-15,Placebo,Male,African,55,100,26.2,2024-08-14,No,Completed / Ongoing,1,0,0,0,0,0,84,0.96,High,0,Low Risk
+SUBJ-0124,SITE-17,Active Treatment,Male,White,33,72.9,25.4,2025-01-02,No,Completed / Ongoing,1,0,0,0,3,0,84,0.98,High,15,Low Risk
+SUBJ-0125,SITE-12,Placebo,Male,African,38,79.7,22.8,2025-01-31,No,Completed / Ongoing,0,0,0,0,4,0,84,1,High,20,Medium Risk
+SUBJ-0126,SITE-04,Placebo,Male,African,82,70.2,29.2,2025-05-20,No,Completed / Ongoing,0,0,0,0,0,0,84,0.89,Moderate,0,Low Risk
+SUBJ-0127,SITE-04,Placebo,Female,African,69,55.8,25.5,2024-01-09,Yes,Adverse Event,0,0,0,0,3,0,71,0.84,Moderate,30,Medium Risk
+SUBJ-0128,SITE-03,Active Treatment,Male,Coloured,52,42.6,28.3,2024-10-09,Yes,Adverse Event,2,0,1,0,3,1,37,0.89,Moderate,53,High Risk
+SUBJ-0129,SITE-11,Placebo,Female,Indian/Asian,29,65.7,32.6,2024-11-19,No,Completed / Ongoing,0,0,0,0,0,0,84,0.7,Low,0,Low Risk
+SUBJ-0130,SITE-16,Active Treatment,Female,African,29,79,32.6,2024-11-16,No,Completed / Ongoing,1,0,0,1,3,0,84,0.86,Moderate,25,Medium Risk
+SUBJ-0131,SITE-06,Placebo,Male,African,36,67,28,2024-01-05,No,Completed / Ongoing,1,0,0,1,2,0,84,0.95,High,20,Medium Risk
+SUBJ-0132,SITE-06,Placebo,Female,African,36,77.4,27,2024-12-12,No,Completed / Ongoing,0,0,0,0,1,0,84,0.76,Moderate,5,Low Risk
+SUBJ-0133,SITE-01,Placebo,Male,African,50,80.7,34.5,2025-05-21,No,Completed / Ongoing,1,0,0,0,0,0,84,0.87,Moderate,0,Low Risk
+SUBJ-0134,SITE-04,Placebo,Female,White,70,94.8,23.8,2024-03-26,Yes,Withdrawal by Subject,1,0,0,0,1,0,16,1,High,20,Medium Risk
+SUBJ-0135,SITE-19,Placebo,Male,African,48,48.8,17.2,2024-07-13,No,Completed / Ongoing,0,0,0,0,2,0,84,0.88,Moderate,10,Low Risk
+SUBJ-0136,SITE-13,Placebo,Female,African,44,112.7,24.2,2024-05-16,No,Completed / Ongoing,2,0,0,2,2,0,84,0.97,High,30,Medium Risk
+SUBJ-0137,SITE-03,Placebo,Male,African,38,79.9,19.4,2024-12-10,No,Completed / Ongoing,4,0,0,2,0,0,84,0.73,Low,20,Medium Risk
+SUBJ-0138,SITE-05,Placebo,Male,Coloured,38,93.6,24.7,2025-04-19,No,Completed / Ongoing,1,0,0,0,1,0,84,0.95,High,5,Low Risk
+SUBJ-0139,SITE-06,Placebo,Female,African,49,49.4,27.7,2025-05-14,No,Completed / Ongoing,0,0,0,0,0,0,84,0.88,Moderate,0,Low Risk
+SUBJ-0140,SITE-19,Active Treatment,Male,African,37,102.9,33.1,2024-08-20,No,Completed / Ongoing,2,0,0,1,4,0,84,0.98,High,30,Medium Risk
+SUBJ-0141,SITE-15,Placebo,Male,African,76,79.5,28,2024-04-18,No,Completed / Ongoing,0,0,0,0,0,0,84,0.94,High,0,Low Risk
+SUBJ-0142,SITE-10,Placebo,Male,African,50,70,28.9,2025-06-12,No,Completed / Ongoing,1,0,0,0,1,0,84,0.94,High,5,Low Risk
+SUBJ-0143,SITE-06,Active Treatment,Female,Other,67,68.2,32.6,2024-06-22,Yes,Adverse Event,0,0,0,0,2,0,76,0.75,Moderate,25,Medium Risk
+SUBJ-0144,SITE-11,Active Treatment,Male,White,45,76.4,23.5,2025-08-30,No,Completed / Ongoing,2,0,0,2,3,0,84,0.86,Moderate,35,High Risk
+SUBJ-0145,SITE-19,Active Treatment,Male,African,55,64.9,32.4,2024-02-22,No,Completed / Ongoing,2,0,0,1,2,0,84,1,High,20,Medium Risk
+SUBJ-0146,SITE-04,Placebo,Male,African,41,67.5,27.3,2025-07-26,No,Completed / Ongoing,0,0,0,0,1,1,84,0.84,Moderate,13,Low Risk
+SUBJ-0147,SITE-18,Placebo,Female,African,44,49,29.7,2025-04-05,No,Completed / Ongoing,1,0,0,1,3,0,84,0.99,High,25,Medium Risk
+SUBJ-0148,SITE-16,Placebo,Female,African,48,74,26.9,2025-03-13,No,Completed / Ongoing,0,0,0,0,4,0,84,1,High,20,Medium Risk
+SUBJ-0149,SITE-18,Placebo,Male,African,52,62.5,23.4,2024-07-10,No,Completed / Ongoing,2,1,1,1,2,0,84,0.85,Moderate,55,High Risk
+SUBJ-0150,SITE-04,Active Treatment,Male,African,56,58.7,31.4,2024-01-06,Yes,Adverse Event,1,0,0,1,1,0,68,0.83,Moderate,30,Medium Risk
+SUBJ-0151,SITE-19,Active Treatment,Male,Coloured,56,66.3,25.2,2025-02-06,No,Completed / Ongoing,0,0,0,0,3,1,84,1,High,23,Medium Risk
+SUBJ-0152,SITE-06,Placebo,Male,White,64,90.7,28.8,2024-04-11,No,Completed / Ongoing,0,0,0,0,2,0,84,0.88,Moderate,10,Low Risk
+SUBJ-0153,SITE-12,Active Treatment,Female,African,44,67.5,26.8,2025-01-20,No,Completed / Ongoing,0,0,0,0,1,0,84,0.87,Moderate,5,Low Risk
+SUBJ-0154,SITE-01,Placebo,Female,African,67,104,22.6,2025-06-06,No,Completed / Ongoing,0,0,0,0,0,0,84,0.81,Moderate,0,Low Risk
+SUBJ-0155,SITE-05,Active Treatment,Male,African,61,112.7,16,2025-05-10,No,Completed / Ongoing,2,0,0,1,3,0,84,1,High,25,Medium Risk
+SUBJ-0156,SITE-06,Placebo,Male,African,34,53,24.7,2025-05-28,No,Completed / Ongoing,0,0,0,0,4,0,84,0.81,Moderate,20,Medium Risk
+SUBJ-0157,SITE-04,Active Treatment,Male,African,37,68.8,28,2024-09-06,No,Completed / Ongoing,1,0,0,0,5,0,84,0.94,High,25,Medium Risk
+SUBJ-0158,SITE-14,Active Treatment,Female,African,74,76.5,25.5,2024-07-11,No,Completed / Ongoing,0,0,0,0,4,0,84,0.84,Moderate,20,Medium Risk
+SUBJ-0159,SITE-13,Active Treatment,Male,Coloured,56,66.2,22.8,2024-03-01,No,Completed / Ongoing,2,0,0,1,2,0,84,1,High,20,Medium Risk
+SUBJ-0160,SITE-02,Active Treatment,Female,African,50,99.7,19.2,2024-06-17,No,Completed / Ongoing,0,0,0,0,5,0,84,1,High,25,Medium Risk
+SUBJ-0161,SITE-18,Placebo,Female,African,57,80.5,27.1,2024-04-07,No,Completed / Ongoing,2,1,1,2,3,0,84,1,High,70,High Risk
+SUBJ-0162,SITE-16,Active Treatment,Female,African,37,64.7,27.4,2025-02-15,No,Completed / Ongoing,1,0,0,1,7,0,84,0.88,Moderate,45,High Risk
+SUBJ-0163,SITE-14,Placebo,Female,White,51,69.8,33.6,2024-10-29,No,Completed / Ongoing,2,0,2,1,1,0,84,0.77,Moderate,45,High Risk
+SUBJ-0164,SITE-18,Active Treatment,Male,African,63,60.6,27.6,2025-05-16,No,Completed / Ongoing,1,0,0,0,2,1,84,0.79,Moderate,18,Low Risk
+SUBJ-0165,SITE-15,Placebo,Female,African,47,70.3,34.3,2024-09-04,No,Completed / Ongoing,2,0,0,1,3,0,84,0.84,Moderate,25,Medium Risk
+SUBJ-0166,SITE-08,Active Treatment,Female,African,45,95.4,27.1,2024-10-31,No,Completed / Ongoing,1,0,0,0,3,0,84,0.98,High,15,Low Risk
+SUBJ-0167,SITE-17,Active Treatment,Male,African,44,62.7,24.7,2024-01-18,Yes,Lost to Follow-up,3,0,2,1,2,0,74,0.94,High,65,High Risk
+SUBJ-0168,SITE-11,Placebo,Male,Other,72,87.9,28.6,2025-03-06,No,Completed / Ongoing,1,0,0,1,1,0,84,0.93,High,15,Low Risk
+SUBJ-0169,SITE-10,Active Treatment,Female,African,60,73.9,26.7,2024-06-01,No,Completed / Ongoing,0,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0170,SITE-16,Active Treatment,Male,Other,35,51.7,26.6,2024-03-29,No,Completed / Ongoing,1,1,0,0,6,0,84,0.79,Moderate,50,High Risk
+SUBJ-0171,SITE-07,Placebo,Female,Coloured,45,65.4,20.3,2024-07-23,No,Completed / Ongoing,1,0,0,1,3,0,84,0.98,High,25,Medium Risk
+SUBJ-0172,SITE-13,Placebo,Female,African,28,51.4,25.2,2024-06-21,No,Completed / Ongoing,2,0,1,1,4,1,84,0.84,Moderate,53,High Risk
+SUBJ-0173,SITE-13,Placebo,Male,African,54,108.2,19.2,2024-11-18,No,Completed / Ongoing,0,0,0,0,2,0,84,0.85,Moderate,10,Low Risk
+SUBJ-0174,SITE-08,Active Treatment,Female,African,57,82,24.7,2024-08-26,No,Completed / Ongoing,1,0,0,1,3,0,84,0.94,High,25,Medium Risk
+SUBJ-0175,SITE-12,Active Treatment,Male,African,50,80.3,31.6,2025-06-13,No,Completed / Ongoing,3,0,0,3,4,0,84,0.89,Moderate,50,High Risk
+SUBJ-0176,SITE-15,Placebo,Female,African,39,78.2,16,2024-04-25,No,Completed / Ongoing,1,0,0,1,1,0,84,0.8,Moderate,15,Low Risk
+SUBJ-0177,SITE-15,Active Treatment,Male,African,31,81.9,23.4,2024-02-02,No,Completed / Ongoing,2,0,0,0,3,1,84,0.98,High,23,Medium Risk
+SUBJ-0178,SITE-10,Active Treatment,Female,African,47,73.3,25.3,2025-05-22,No,Completed / Ongoing,0,0,0,0,3,0,84,0.97,High,15,Low Risk
+SUBJ-0179,SITE-08,Placebo,Male,African,24,71.7,20.9,2025-03-22,No,Completed / Ongoing,0,0,0,0,3,0,84,0.94,High,15,Low Risk
+SUBJ-0180,SITE-10,Active Treatment,Male,African,67,63.8,20.1,2024-07-17,No,Completed / Ongoing,3,0,1,2,1,0,84,0.93,High,40,High Risk
+SUBJ-0181,SITE-08,Placebo,Female,African,45,75.1,36,2025-08-07,No,Completed / Ongoing,0,0,0,0,1,0,84,0.95,High,5,Low Risk
+SUBJ-0182,SITE-16,Placebo,Female,African,19,76.4,30.6,2025-07-25,No,Completed / Ongoing,0,0,0,0,1,0,84,0.94,High,5,Low Risk
+SUBJ-0183,SITE-01,Placebo,Female,White,67,62.6,21.4,2024-01-19,No,Completed / Ongoing,0,0,0,0,2,0,84,0.84,Moderate,10,Low Risk
+SUBJ-0184,SITE-20,Placebo,Female,Indian/Asian,58,80.3,28,2024-05-24,No,Completed / Ongoing,1,0,1,1,2,0,84,0.92,High,35,High Risk
+SUBJ-0185,SITE-05,Placebo,Male,African,18,56.7,24.4,2024-06-29,No,Completed / Ongoing,1,0,0,1,4,0,84,0.8,Moderate,30,Medium Risk
+SUBJ-0186,SITE-10,Active Treatment,Female,African,50,81.9,21.9,2025-06-02,No,Completed / Ongoing,2,0,0,1,6,1,84,0.88,Moderate,48,High Risk
+SUBJ-0187,SITE-11,Active Treatment,Female,African,40,76.9,29.6,2025-06-09,No,Completed / Ongoing,8,0,1,6,3,0,84,0.97,High,90,High Risk
+SUBJ-0188,SITE-01,Placebo,Female,African,71,92.5,30.5,2025-04-23,No,Completed / Ongoing,1,0,0,0,2,0,84,0.94,High,10,Low Risk
+SUBJ-0189,SITE-18,Active Treatment,Male,African,79,78.1,21.8,2025-04-30,No,Completed / Ongoing,1,0,0,1,2,0,84,0.93,High,20,Medium Risk
+SUBJ-0190,SITE-03,Active Treatment,Female,Other,56,86.5,38,2024-06-27,No,Completed / Ongoing,0,0,0,0,5,0,84,0.94,High,25,Medium Risk
+SUBJ-0191,SITE-03,Placebo,Male,African,67,101,21.5,2024-09-28,No,Completed / Ongoing,0,0,0,0,1,0,84,1,High,5,Low Risk
+SUBJ-0192,SITE-02,Active Treatment,Female,White,73,83.2,31.2,2025-07-17,No,Completed / Ongoing,0,0,0,0,2,0,84,0.98,High,10,Low Risk
+SUBJ-0193,SITE-13,Placebo,Male,African,48,91.8,27,2024-02-27,No,Completed / Ongoing,0,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0194,SITE-12,Active Treatment,Male,African,60,72.5,24.9,2025-03-09,Yes,Withdrawal by Subject,1,0,1,1,3,0,19,0.97,High,55,High Risk
+SUBJ-0195,SITE-07,Active Treatment,Female,African,51,69.3,26.4,2025-01-12,Yes,Lost to Follow-up,1,0,0,0,3,0,56,0.93,High,30,Medium Risk
+SUBJ-0196,SITE-13,Active Treatment,Male,Coloured,46,73.4,34,2024-07-26,No,Completed / Ongoing,0,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0197,SITE-15,Placebo,Female,African,59,63.1,33.3,2025-04-30,No,Completed / Ongoing,0,0,0,0,1,0,84,0.9,High,5,Low Risk
+SUBJ-0198,SITE-01,Placebo,Male,African,50,80.8,27.1,2025-04-22,No,Completed / Ongoing,2,0,1,0,2,0,84,1,High,25,Medium Risk
+SUBJ-0199,SITE-14,Active Treatment,Male,African,65,82,31.7,2024-07-01,No,Completed / Ongoing,2,0,0,1,4,0,84,1,High,30,Medium Risk
+SUBJ-0200,SITE-04,Active Treatment,Female,African,49,62,26.6,2025-03-25,No,Completed / Ongoing,1,0,1,0,2,0,84,1,High,25,Medium Risk
+SUBJ-0201,SITE-03,Active Treatment,Female,Indian/Asian,41,77.2,31.8,2025-08-11,Yes,Withdrawal by Subject,1,0,0,0,3,0,56,0.8,Moderate,30,Medium Risk
+SUBJ-0202,SITE-16,Placebo,Female,African,61,84.4,26.4,2024-05-06,No,Completed / Ongoing,0,0,0,0,0,0,84,1,High,0,Low Risk
+SUBJ-0203,SITE-07,Placebo,Female,African,65,68.6,35,2025-08-01,No,Completed / Ongoing,0,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0204,SITE-05,Active Treatment,Female,African,34,61.2,18,2025-03-15,No,Completed / Ongoing,0,0,0,0,2,0,84,0.98,High,10,Low Risk
+SUBJ-0205,SITE-09,Active Treatment,Female,White,36,79.8,33.7,2024-04-14,No,Completed / Ongoing,0,0,0,0,2,0,84,0.76,Moderate,10,Low Risk
+SUBJ-0206,SITE-06,Active Treatment,Male,African,55,56.3,28,2024-02-22,No,Completed / Ongoing,3,0,0,0,4,0,84,0.87,Moderate,20,Medium Risk
+SUBJ-0207,SITE-18,Active Treatment,Female,White,56,97.8,32.4,2025-08-23,No,Completed / Ongoing,0,0,0,0,4,0,84,0.87,Moderate,20,Medium Risk
+SUBJ-0208,SITE-11,Placebo,Male,African,46,76,36.2,2025-06-20,No,Completed / Ongoing,1,0,0,0,2,0,84,0.98,High,10,Low Risk
+SUBJ-0209,SITE-19,Active Treatment,Male,Other,73,61.7,32.5,2024-06-27,Yes,Withdrawal by Subject,1,0,0,1,4,1,78,0.9,High,53,High Risk
+SUBJ-0210,SITE-04,Active Treatment,Male,Other,33,70.8,37.6,2025-05-10,No,Completed / Ongoing,1,0,0,0,1,0,84,1,High,5,Low Risk
+SUBJ-0211,SITE-09,Placebo,Male,Other,35,89.8,30.4,2024-11-30,No,Completed / Ongoing,2,0,0,1,3,0,84,0.93,High,25,Medium Risk
+SUBJ-0212,SITE-13,Placebo,Female,African,49,73.3,17.4,2025-01-09,No,Completed / Ongoing,2,0,1,2,4,0,84,1,High,55,High Risk
+SUBJ-0213,SITE-19,Placebo,Male,Coloured,56,76.5,24.3,2024-06-01,No,Completed / Ongoing,0,0,0,0,0,0,84,0.77,Moderate,0,Low Risk
+SUBJ-0214,SITE-08,Active Treatment,Female,African,39,87.6,32.4,2025-06-21,No,Completed / Ongoing,0,0,0,0,1,0,84,0.98,High,5,Low Risk
+SUBJ-0215,SITE-02,Active Treatment,Male,Indian/Asian,67,92.9,24.3,2024-06-16,No,Completed / Ongoing,1,0,0,0,4,0,84,0.88,Moderate,20,Medium Risk
+SUBJ-0216,SITE-02,Placebo,Female,African,50,71.4,29.1,2024-09-12,No,Completed / Ongoing,0,0,0,0,4,0,84,1,High,20,Medium Risk
+SUBJ-0217,SITE-12,Placebo,Female,African,39,86.3,24.4,2025-08-04,No,Completed / Ongoing,0,0,0,0,2,0,84,0.9,High,10,Low Risk
+SUBJ-0218,SITE-05,Active Treatment,Female,African,41,77.4,29.4,2024-09-13,No,Completed / Ongoing,0,0,0,0,5,0,84,1,High,25,Medium Risk
+SUBJ-0219,SITE-03,Active Treatment,Female,Coloured,42,81.6,27,2025-06-04,No,Completed / Ongoing,0,0,0,0,5,0,84,0.96,High,25,Medium Risk
+SUBJ-0220,SITE-20,Active Treatment,Male,African,59,83,26.8,2025-01-15,No,Completed / Ongoing,2,0,0,0,3,0,84,1,High,15,Low Risk
+SUBJ-0221,SITE-12,Active Treatment,Female,African,40,85.7,30.1,2025-02-21,No,Completed / Ongoing,0,0,0,0,2,0,84,0.86,Moderate,10,Low Risk
+SUBJ-0222,SITE-20,Placebo,Male,Coloured,54,81.3,34.4,2024-09-15,No,Completed / Ongoing,1,0,0,0,1,1,84,0.96,High,13,Low Risk
+SUBJ-0223,SITE-19,Placebo,Male,White,37,71.9,24.8,2024-03-24,No,Completed / Ongoing,1,0,0,1,2,0,84,0.81,Moderate,20,Medium Risk
+SUBJ-0224,SITE-12,Placebo,Female,African,54,83.4,21,2025-04-26,No,Completed / Ongoing,0,0,0,0,1,0,84,1,High,5,Low Risk
+SUBJ-0225,SITE-20,Active Treatment,Male,African,56,81,32.8,2025-01-08,No,Completed / Ongoing,0,0,0,0,4,0,84,0.89,Moderate,20,Medium Risk
+SUBJ-0226,SITE-10,Placebo,Female,Indian/Asian,70,84.5,20,2024-11-13,No,Completed / Ongoing,0,0,0,0,0,0,84,0.94,High,0,Low Risk
+SUBJ-0227,SITE-01,Placebo,Male,African,53,73.2,28.7,2024-03-03,No,Completed / Ongoing,2,1,0,1,3,0,84,0.96,High,45,High Risk
+SUBJ-0228,SITE-14,Placebo,Male,African,64,82.7,30.9,2024-09-28,No,Completed / Ongoing,3,0,0,2,6,0,84,0.82,Moderate,50,High Risk
+SUBJ-0229,SITE-16,Placebo,Male,White,31,73,28.2,2025-01-20,No,Completed / Ongoing,1,0,0,0,3,0,84,1,High,15,Low Risk
+SUBJ-0230,SITE-06,Active Treatment,Female,Coloured,58,81.5,36.3,2025-01-30,No,Completed / Ongoing,2,1,2,0,1,0,84,0.94,High,55,High Risk
+SUBJ-0231,SITE-15,Placebo,Male,Coloured,54,64.3,26.5,2024-12-31,No,Completed / Ongoing,1,0,0,1,1,0,84,0.94,High,15,Low Risk
+SUBJ-0232,SITE-09,Active Treatment,Female,African,71,108.3,32.8,2024-03-13,No,Completed / Ongoing,1,0,0,0,5,1,84,0.97,High,33,High Risk
+SUBJ-0233,SITE-09,Placebo,Female,White,35,80.4,34.2,2024-07-23,No,Completed / Ongoing,1,0,0,0,1,0,84,0.97,High,5,Low Risk
+SUBJ-0234,SITE-09,Placebo,Male,African,64,76.3,26.8,2025-08-31,No,Completed / Ongoing,1,0,0,1,0,0,84,0.81,Moderate,10,Low Risk
+SUBJ-0235,SITE-03,Active Treatment,Male,African,49,58,29.9,2025-05-13,No,Completed / Ongoing,0,0,0,0,3,0,84,0.96,High,15,Low Risk
+SUBJ-0236,SITE-18,Placebo,Male,African,54,76.6,23.1,2025-04-21,No,Completed / Ongoing,2,0,0,1,4,0,84,1,High,30,Medium Risk
+SUBJ-0237,SITE-11,Active Treatment,Female,African,54,81.4,33.2,2024-12-20,No,Completed / Ongoing,1,0,1,0,2,0,84,0.94,High,25,Medium Risk
+SUBJ-0238,SITE-17,Placebo,Male,African,57,82.5,30.6,2025-04-03,No,Completed / Ongoing,0,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0239,SITE-03,Placebo,Male,African,46,76.6,18.6,2025-08-26,Yes,Withdrawal by Subject,1,0,0,0,3,0,72,1,High,30,Medium Risk
+SUBJ-0240,SITE-05,Placebo,Male,Coloured,58,76,27.6,2024-03-14,No,Completed / Ongoing,1,0,0,1,2,0,84,0.88,Moderate,20,Medium Risk
+SUBJ-0241,SITE-02,Active Treatment,Male,African,59,84.6,29.6,2024-05-22,No,Completed / Ongoing,2,0,0,2,1,0,84,0.86,Moderate,25,Medium Risk
+SUBJ-0242,SITE-02,Placebo,Female,African,51,91.9,31.5,2024-01-01,No,Completed / Ongoing,1,0,0,1,0,0,84,0.88,Moderate,10,Low Risk
+SUBJ-0243,SITE-01,Active Treatment,Female,African,49,67.7,27.2,2024-05-26,No,Completed / Ongoing,1,0,0,0,5,0,84,0.84,Moderate,25,Medium Risk
+SUBJ-0244,SITE-11,Active Treatment,Male,African,80,74.7,21.5,2025-06-08,No,Completed / Ongoing,3,0,0,2,2,0,84,0.97,High,30,Medium Risk
+SUBJ-0245,SITE-06,Placebo,Female,African,39,62.1,26.5,2024-02-23,No,Completed / Ongoing,0,0,0,0,3,0,84,0.99,High,15,Low Risk
+SUBJ-0246,SITE-06,Placebo,Female,African,51,70.3,36.1,2024-04-20,No,Completed / Ongoing,1,0,0,0,2,0,84,0.98,High,10,Low Risk
+SUBJ-0247,SITE-09,Active Treatment,Male,African,62,59.3,21.9,2024-08-23,No,Completed / Ongoing,0,0,0,0,3,0,84,0.89,Moderate,15,Low Risk
+SUBJ-0248,SITE-01,Active Treatment,Female,African,56,67.4,22,2025-03-10,No,Completed / Ongoing,1,0,0,1,3,1,84,0.9,High,33,High Risk
+SUBJ-0249,SITE-03,Active Treatment,Male,African,71,94.9,25,2024-03-11,No,Completed / Ongoing,2,0,1,0,5,1,84,0.91,High,48,High Risk
+SUBJ-0250,SITE-07,Active Treatment,Male,African,60,92.2,16,2024-06-10,No,Completed / Ongoing,3,2,1,1,3,0,84,1,High,80,High Risk
+SUBJ-0251,SITE-08,Active Treatment,Male,African,63,70,20.6,2024-05-05,Yes,Protocol Deviation,0,0,0,0,1,0,40,1,High,20,Medium Risk
+SUBJ-0252,SITE-14,Active Treatment,Female,Indian/Asian,66,81.6,18.4,2025-01-15,No,Completed / Ongoing,0,0,0,0,3,1,84,0.92,High,23,Medium Risk
+SUBJ-0253,SITE-07,Placebo,Female,African,34,81.6,32.6,2025-05-04,No,Completed / Ongoing,0,0,0,0,2,1,84,0.99,High,18,Low Risk
+SUBJ-0254,SITE-20,Active Treatment,Male,African,53,111.7,31.9,2025-08-28,No,Completed / Ongoing,1,0,0,1,3,0,84,0.9,High,25,Medium Risk
+SUBJ-0255,SITE-12,Active Treatment,Female,African,62,58,21.4,2024-03-29,Yes,Adverse Event,2,0,0,0,3,0,72,0.93,High,30,Medium Risk
+SUBJ-0256,SITE-10,Placebo,Female,African,75,73.2,29.4,2024-09-01,No,Completed / Ongoing,1,0,0,0,1,0,84,0.87,Moderate,5,Low Risk
+SUBJ-0257,SITE-09,Active Treatment,Male,White,29,81.9,25.2,2024-12-03,Yes,Lost to Follow-up,2,0,0,0,5,0,56,0.84,Moderate,40,High Risk
+SUBJ-0258,SITE-16,Active Treatment,Female,White,41,65.5,27.4,2025-08-10,No,Completed / Ongoing,0,0,0,0,4,0,84,1,High,20,Medium Risk
+SUBJ-0259,SITE-11,Active Treatment,Female,African,67,77.4,34.6,2025-07-31,Yes,Adverse Event,3,0,1,1,4,0,72,0.96,High,60,High Risk
+SUBJ-0260,SITE-09,Placebo,Female,African,67,62.5,17.1,2024-06-05,No,Completed / Ongoing,1,0,0,1,0,0,84,0.85,Moderate,10,Low Risk
+SUBJ-0261,SITE-18,Placebo,Male,African,47,75.1,25.5,2024-03-19,No,Completed / Ongoing,2,0,0,0,2,0,84,0.94,High,10,Low Risk
+SUBJ-0262,SITE-18,Placebo,Male,African,33,93.8,28.7,2025-03-04,Yes,Adverse Event,0,0,0,0,2,0,47,0.97,High,25,Medium Risk
+SUBJ-0263,SITE-08,Active Treatment,Female,White,41,77.9,17.1,2025-01-14,No,Completed / Ongoing,0,0,0,0,3,0,84,0.86,Moderate,15,Low Risk
+SUBJ-0264,SITE-04,Active Treatment,Female,African,73,79.2,27.4,2025-03-29,No,Completed / Ongoing,0,0,0,0,4,0,84,0.86,Moderate,20,Medium Risk
+SUBJ-0265,SITE-02,Placebo,Male,Indian/Asian,25,76.6,31.5,2024-11-27,No,Completed / Ongoing,1,0,0,1,3,0,84,1,High,25,Medium Risk
+SUBJ-0266,SITE-18,Active Treatment,Male,African,50,62.8,26.1,2024-04-04,No,Completed / Ongoing,0,0,0,0,3,0,84,0.94,High,15,Low Risk
+SUBJ-0267,SITE-15,Active Treatment,Female,African,61,41.1,27.3,2025-01-30,No,Completed / Ongoing,1,0,0,1,1,0,84,0.89,Moderate,15,Low Risk
+SUBJ-0268,SITE-08,Active Treatment,Male,Other,52,83.4,27.2,2024-10-18,No,Completed / Ongoing,1,0,0,0,1,0,84,0.91,High,5,Low Risk
+SUBJ-0269,SITE-01,Placebo,Female,Other,53,62.7,28.2,2025-01-28,Yes,Withdrawal by Subject,0,0,0,0,1,0,42,0.99,High,20,Medium Risk
+SUBJ-0270,SITE-13,Placebo,Female,Indian/Asian,75,35.5,30.1,2025-04-01,Yes,Adverse Event,0,0,0,0,2,0,45,0.89,Moderate,25,Medium Risk
+SUBJ-0271,SITE-16,Placebo,Male,African,49,75,26.3,2024-09-24,No,Completed / Ongoing,2,0,1,2,2,0,84,0.88,Moderate,45,High Risk
+SUBJ-0272,SITE-20,Active Treatment,Female,White,57,60.8,17.2,2025-05-16,No,Completed / Ongoing,2,0,0,1,4,0,84,0.76,Moderate,30,Medium Risk
+SUBJ-0273,SITE-07,Active Treatment,Female,African,48,78.2,34.5,2025-01-06,Yes,Withdrawal by Subject,3,0,2,1,5,0,55,0.96,High,80,High Risk
+SUBJ-0274,SITE-17,Active Treatment,Male,African,61,72.5,23.1,2024-12-12,No,Completed / Ongoing,2,0,0,0,4,0,84,0.95,High,20,Medium Risk
+SUBJ-0275,SITE-17,Placebo,Female,White,49,79.6,24.5,2024-11-25,No,Completed / Ongoing,0,0,0,0,3,0,84,0.96,High,15,Low Risk
+SUBJ-0276,SITE-13,Active Treatment,Female,White,58,93.9,24.7,2024-06-11,No,Completed / Ongoing,3,0,0,1,5,0,84,1,High,35,High Risk
+SUBJ-0277,SITE-01,Active Treatment,Female,African,53,61.9,28.1,2024-08-16,No,Completed / Ongoing,1,0,0,1,0,0,84,0.92,High,10,Low Risk
+SUBJ-0278,SITE-10,Active Treatment,Female,African,85,89,26.4,2025-08-02,No,Completed / Ongoing,1,0,1,0,6,0,84,0.95,High,45,High Risk
+SUBJ-0279,SITE-07,Placebo,Male,Coloured,76,75.9,29,2025-08-31,No,Completed / Ongoing,0,0,0,0,2,0,84,0.9,High,10,Low Risk
+SUBJ-0280,SITE-14,Active Treatment,Male,African,46,67.9,24.7,2024-06-30,No,Completed / Ongoing,2,0,0,1,3,0,84,0.77,Moderate,25,Medium Risk
+SUBJ-0281,SITE-18,Placebo,Female,African,47,67.5,27.3,2024-08-09,No,Completed / Ongoing,1,0,0,1,1,0,84,0.86,Moderate,15,Low Risk
+SUBJ-0282,SITE-04,Placebo,Female,African,36,69.6,28.4,2024-09-05,No,Completed / Ongoing,1,0,0,0,1,0,84,0.98,High,5,Low Risk
+SUBJ-0283,SITE-15,Placebo,Male,African,40,68,30.8,2025-09-02,Yes,Protocol Deviation,1,1,1,0,2,0,47,1,High,60,High Risk
+SUBJ-0284,SITE-05,Placebo,Male,African,28,57,24.2,2024-08-31,No,Completed / Ongoing,0,0,0,0,1,0,84,0.98,High,5,Low Risk
+SUBJ-0285,SITE-17,Placebo,Male,Other,62,68.6,28.4,2024-11-17,No,Completed / Ongoing,0,0,0,0,2,0,84,0.82,Moderate,10,Low Risk
+SUBJ-0286,SITE-10,Active Treatment,Female,White,41,85.5,29.2,2024-12-31,Yes,Lost to Follow-up,1,0,1,0,4,0,35,1,High,50,High Risk
+SUBJ-0287,SITE-13,Active Treatment,Female,African,52,72.5,26.8,2025-02-25,No,Completed / Ongoing,3,0,1,2,3,0,84,1,High,50,High Risk
+SUBJ-0288,SITE-12,Placebo,Male,African,77,65.8,25.7,2025-03-23,No,Completed / Ongoing,0,0,0,0,3,0,84,0.86,Moderate,15,Low Risk
+SUBJ-0289,SITE-15,Placebo,Female,White,63,85.2,32.3,2024-03-01,No,Completed / Ongoing,0,0,0,0,0,0,84,1,High,0,Low Risk
+SUBJ-0290,SITE-17,Placebo,Male,African,37,63.5,28.4,2024-08-15,No,Completed / Ongoing,1,0,0,1,2,0,84,0.98,High,20,Medium Risk
+SUBJ-0291,SITE-14,Placebo,Female,African,43,66.6,16,2024-02-28,No,Completed / Ongoing,1,0,0,1,5,0,84,0.99,High,35,High Risk
+SUBJ-0292,SITE-18,Placebo,Male,African,30,82,26.2,2025-08-13,No,Completed / Ongoing,1,0,0,0,1,0,84,0.89,Moderate,5,Low Risk
+SUBJ-0293,SITE-11,Placebo,Male,African,38,69.7,24.8,2024-07-28,No,Completed / Ongoing,2,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0294,SITE-02,Active Treatment,Male,African,73,79.4,28,2025-06-15,No,Completed / Ongoing,1,0,0,1,3,0,84,0.84,Moderate,25,Medium Risk
+SUBJ-0295,SITE-13,Placebo,Female,African,60,59.8,28.9,2025-07-25,No,Completed / Ongoing,0,0,0,0,1,0,84,0.89,Moderate,5,Low Risk
+SUBJ-0296,SITE-20,Placebo,Male,African,36,67.8,29,2024-06-08,No,Completed / Ongoing,1,0,0,0,1,0,84,1,High,5,Low Risk
+SUBJ-0297,SITE-02,Placebo,Male,African,62,93.7,30.6,2025-03-17,No,Completed / Ongoing,1,0,0,1,4,0,84,0.91,High,30,Medium Risk
+SUBJ-0298,SITE-10,Placebo,Female,Other,64,75.8,21.5,2025-06-12,No,Completed / Ongoing,4,1,1,4,1,0,84,0.84,Moderate,80,High Risk
+SUBJ-0299,SITE-19,Active Treatment,Female,African,40,91.2,19.1,2024-10-13,Yes,Adverse Event,1,0,0,0,4,0,17,0.92,High,35,High Risk
+SUBJ-0300,SITE-17,Placebo,Female,African,52,61.4,26.3,2025-01-27,No,Completed / Ongoing,0,0,0,0,0,0,84,0.8,Moderate,0,Low Risk
+SUBJ-0301,SITE-09,Active Treatment,Female,African,55,62.5,25.6,2024-11-30,No,Completed / Ongoing,1,0,0,0,3,1,84,0.93,High,23,Medium Risk
+SUBJ-0302,SITE-11,Placebo,Male,Other,58,76.8,30.6,2025-06-24,No,Completed / Ongoing,0,0,0,0,3,0,84,0.89,Moderate,15,Low Risk
+SUBJ-0303,SITE-16,Placebo,Female,African,64,92,33.3,2025-03-02,No,Completed / Ongoing,3,0,1,2,1,0,84,1,High,40,High Risk
+SUBJ-0304,SITE-02,Placebo,Female,Indian/Asian,61,64.1,26.4,2025-05-22,No,Completed / Ongoing,3,0,0,2,4,0,84,0.91,High,40,High Risk
+SUBJ-0305,SITE-14,Active Treatment,Female,African,55,69,18.3,2024-01-02,No,Completed / Ongoing,0,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0306,SITE-13,Active Treatment,Male,Coloured,85,91.1,33.7,2025-01-18,No,Completed / Ongoing,2,0,0,0,4,0,84,0.93,High,20,Medium Risk
+SUBJ-0307,SITE-20,Placebo,Male,African,53,85.9,29.1,2024-08-28,No,Completed / Ongoing,1,0,0,1,0,0,84,0.96,High,10,Low Risk
+SUBJ-0308,SITE-12,Active Treatment,Female,Coloured,31,74.7,26.1,2025-05-07,No,Completed / Ongoing,2,0,0,0,3,0,84,0.98,High,15,Low Risk
+SUBJ-0309,SITE-16,Active Treatment,Male,African,42,76.1,30.5,2024-12-14,No,Completed / Ongoing,2,0,0,1,2,0,84,0.91,High,20,Medium Risk
+SUBJ-0310,SITE-11,Placebo,Male,African,49,89.7,27.1,2025-03-06,No,Completed / Ongoing,1,0,0,0,3,0,84,0.98,High,15,Low Risk
+SUBJ-0311,SITE-15,Placebo,Female,Indian/Asian,65,107.2,38.9,2024-09-19,No,Completed / Ongoing,2,0,0,1,0,0,84,0.99,High,10,Low Risk
+SUBJ-0312,SITE-08,Active Treatment,Male,African,35,79.5,24.1,2024-04-30,No,Completed / Ongoing,1,0,0,1,4,0,84,0.84,Moderate,30,Medium Risk
+SUBJ-0313,SITE-15,Placebo,Female,African,36,86.3,27.5,2024-04-22,Yes,Adverse Event,2,0,1,0,3,0,23,1,High,45,High Risk
+SUBJ-0314,SITE-20,Active Treatment,Female,African,50,80.3,21.4,2024-08-01,No,Completed / Ongoing,1,0,0,1,3,0,84,1,High,25,Medium Risk
+SUBJ-0315,SITE-06,Placebo,Female,African,62,86,19.8,2024-07-19,No,Completed / Ongoing,2,1,0,2,1,0,84,0.86,Moderate,45,High Risk
+SUBJ-0316,SITE-10,Active Treatment,Male,African,64,87.3,30.7,2025-07-27,No,Completed / Ongoing,2,0,1,1,2,0,84,0.7,Low,35,High Risk
+SUBJ-0317,SITE-08,Active Treatment,Female,African,50,79.8,33.5,2024-05-12,No,Completed / Ongoing,2,1,0,1,2,0,84,0.88,Moderate,40,High Risk
+SUBJ-0318,SITE-08,Placebo,Female,African,42,84.1,30.6,2024-01-16,No,Completed / Ongoing,0,0,0,0,1,0,84,0.89,Moderate,5,Low Risk
+SUBJ-0319,SITE-12,Active Treatment,Male,Coloured,83,86.3,19.9,2025-04-02,No,Completed / Ongoing,3,0,0,1,1,0,84,0.99,High,15,Low Risk
+SUBJ-0320,SITE-15,Active Treatment,Female,African,60,99.6,29.1,2024-11-22,No,Completed / Ongoing,1,1,0,0,5,0,84,0.73,Low,45,High Risk
+SUBJ-0321,SITE-12,Placebo,Female,African,55,96.3,22.1,2024-05-02,No,Completed / Ongoing,0,0,0,0,5,1,84,1,High,33,High Risk
+SUBJ-0322,SITE-19,Placebo,Female,African,62,51.3,29,2024-02-16,No,Completed / Ongoing,1,0,0,1,0,0,84,0.9,High,10,Low Risk
+SUBJ-0323,SITE-20,Active Treatment,Male,African,44,68.5,16.2,2024-05-29,No,Completed / Ongoing,3,0,0,2,1,0,84,0.96,High,25,Medium Risk
+SUBJ-0324,SITE-13,Placebo,Male,Indian/Asian,57,118.5,33.1,2024-11-11,No,Completed / Ongoing,0,0,0,0,0,0,84,0.91,High,0,Low Risk
+SUBJ-0325,SITE-06,Active Treatment,Male,African,60,91.3,36.4,2025-08-21,No,Completed / Ongoing,1,0,0,0,5,0,84,0.96,High,25,Medium Risk
+SUBJ-0326,SITE-19,Placebo,Female,Indian/Asian,45,48.4,27.8,2024-11-24,No,Completed / Ongoing,1,0,0,1,5,0,84,0.79,Moderate,35,High Risk
+SUBJ-0327,SITE-08,Active Treatment,Male,African,51,83,33.6,2024-05-14,Yes,Lost to Follow-up,2,0,0,1,1,0,61,0.86,Moderate,30,Medium Risk
+SUBJ-0328,SITE-18,Active Treatment,Male,Coloured,61,74.5,23.2,2025-02-01,No,Completed / Ongoing,3,0,0,1,2,0,84,0.83,Moderate,20,Medium Risk
+SUBJ-0329,SITE-13,Placebo,Male,African,34,100.6,26,2024-12-01,No,Completed / Ongoing,1,1,0,1,0,0,84,0.88,Moderate,30,Medium Risk
+SUBJ-0330,SITE-07,Active Treatment,Male,White,69,68.6,31,2024-09-14,No,Completed / Ongoing,2,0,0,1,4,0,84,0.95,High,30,Medium Risk
+SUBJ-0331,SITE-08,Active Treatment,Female,Indian/Asian,52,71.5,27.2,2025-01-16,No,Completed / Ongoing,0,0,0,0,2,0,84,0.92,High,10,Low Risk
+SUBJ-0332,SITE-05,Active Treatment,Female,Coloured,46,103,20.6,2025-02-19,No,Completed / Ongoing,2,0,0,1,0,0,84,0.86,Moderate,10,Low Risk
+SUBJ-0333,SITE-18,Placebo,Male,Coloured,44,67.5,26.1,2024-03-15,No,Completed / Ongoing,0,0,0,0,2,0,84,0.91,High,10,Low Risk
+SUBJ-0334,SITE-04,Placebo,Female,African,74,69.4,25.1,2024-12-03,No,Completed / Ongoing,0,0,0,0,4,0,84,1,High,20,Medium Risk
+SUBJ-0335,SITE-06,Active Treatment,Male,African,49,60.4,24.7,2025-05-24,No,Completed / Ongoing,1,0,0,1,4,0,84,0.82,Moderate,30,Medium Risk
+SUBJ-0336,SITE-09,Placebo,Male,Other,55,63.2,30.8,2025-06-30,No,Completed / Ongoing,2,0,0,0,3,0,84,0.83,Moderate,15,Low Risk
+SUBJ-0337,SITE-20,Active Treatment,Female,African,46,56.9,34.5,2025-03-07,Yes,Protocol Deviation,1,0,0,0,2,1,35,0.99,High,33,High Risk
+SUBJ-0338,SITE-01,Placebo,Female,African,42,85.1,28.1,2025-06-26,No,Completed / Ongoing,0,0,0,0,1,0,84,0.85,Moderate,5,Low Risk
+SUBJ-0339,SITE-13,Active Treatment,Male,African,62,70.3,28.8,2024-09-27,No,Completed / Ongoing,0,0,0,0,6,0,84,0.84,Moderate,30,Medium Risk
+SUBJ-0340,SITE-13,Placebo,Male,White,53,94.5,30.5,2025-07-08,No,Completed / Ongoing,0,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0341,SITE-12,Placebo,Female,African,56,71.4,27,2024-09-15,No,Completed / Ongoing,1,0,0,1,1,0,84,0.97,High,15,Low Risk
+SUBJ-0342,SITE-08,Placebo,Male,Indian/Asian,45,78.7,38,2025-08-23,No,Completed / Ongoing,0,0,0,0,1,0,84,1,High,5,Low Risk
+SUBJ-0343,SITE-18,Active Treatment,Male,Coloured,67,66.3,28.4,2024-05-26,No,Completed / Ongoing,3,0,0,2,2,0,84,1,High,30,Medium Risk
+SUBJ-0344,SITE-02,Active Treatment,Female,White,61,85.3,28.6,2025-03-22,No,Completed / Ongoing,1,0,0,0,3,0,84,1,High,15,Low Risk
+SUBJ-0345,SITE-08,Placebo,Female,African,59,103.3,35.4,2024-05-27,No,Completed / Ongoing,2,0,0,1,2,0,84,1,High,20,Medium Risk
+SUBJ-0346,SITE-13,Active Treatment,Female,African,60,82.4,16,2025-08-29,No,Completed / Ongoing,2,0,0,0,4,0,84,1,High,20,Medium Risk
+SUBJ-0347,SITE-18,Placebo,Female,African,70,90.7,29.3,2024-06-14,No,Completed / Ongoing,2,0,0,0,5,0,84,0.97,High,25,Medium Risk
+SUBJ-0348,SITE-04,Active Treatment,Male,African,64,77.3,25,2025-03-29,Yes,Protocol Deviation,4,0,0,1,3,0,64,0.79,Moderate,40,High Risk
+SUBJ-0349,SITE-17,Placebo,Female,White,47,78,24.2,2025-03-20,No,Completed / Ongoing,0,0,0,0,0,0,84,0.98,High,0,Low Risk
+SUBJ-0350,SITE-07,Active Treatment,Male,African,59,65.1,26.2,2024-05-13,No,Completed / Ongoing,1,0,0,1,3,0,84,1,High,25,Medium Risk
+SUBJ-0351,SITE-03,Placebo,Male,Indian/Asian,54,62.7,39.5,2024-05-02,Yes,Withdrawal by Subject,3,0,0,3,2,0,27,0.94,High,55,High Risk
+SUBJ-0352,SITE-06,Placebo,Male,African,77,52.5,29.2,2025-08-17,No,Completed / Ongoing,0,0,0,0,2,1,84,0.81,Moderate,18,Low Risk
+SUBJ-0353,SITE-14,Active Treatment,Female,African,37,63.3,25.3,2024-01-07,Yes,Lost to Follow-up,0,0,0,0,3,0,26,0.99,High,30,Medium Risk
+SUBJ-0354,SITE-13,Placebo,Male,African,57,87.9,20.9,2024-10-24,No,Completed / Ongoing,1,0,0,0,1,0,84,1,High,5,Low Risk
+SUBJ-0355,SITE-08,Placebo,Female,Indian/Asian,44,86.4,37.1,2024-12-31,No,Completed / Ongoing,1,0,0,1,1,0,84,0.9,High,15,Low Risk
+SUBJ-0356,SITE-13,Placebo,Male,African,31,81.2,22.2,2024-02-26,No,Completed / Ongoing,1,0,0,1,1,0,84,0.89,Moderate,15,Low Risk
+SUBJ-0357,SITE-20,Placebo,Male,Other,48,80.6,29,2025-01-27,No,Completed / Ongoing,1,0,0,0,0,0,84,1,High,0,Low Risk
+SUBJ-0358,SITE-09,Placebo,Female,Indian/Asian,41,79.3,30.9,2025-04-26,Yes,Withdrawal by Subject,1,0,1,0,0,0,61,1,High,30,Medium Risk
+SUBJ-0359,SITE-09,Placebo,Female,African,55,64.8,30.6,2025-05-14,No,Completed / Ongoing,0,0,0,0,1,0,84,1,High,5,Low Risk
+SUBJ-0360,SITE-10,Active Treatment,Female,African,59,68.1,23.7,2024-03-08,No,Completed / Ongoing,2,0,0,1,3,0,84,0.95,High,25,Medium Risk
+SUBJ-0361,SITE-10,Placebo,Male,African,55,87.7,22.7,2025-05-05,No,Completed / Ongoing,2,0,0,0,3,0,84,0.97,High,15,Low Risk
+SUBJ-0362,SITE-03,Active Treatment,Male,White,54,73,21.5,2024-12-22,No,Completed / Ongoing,1,0,0,0,4,0,84,0.87,Moderate,20,Medium Risk
+SUBJ-0363,SITE-13,Placebo,Male,African,63,81.6,28.6,2025-05-25,No,Completed / Ongoing,0,0,0,0,3,0,84,1,High,15,Low Risk
+SUBJ-0364,SITE-18,Active Treatment,Female,Indian/Asian,48,69.9,28.4,2024-07-28,Yes,Lost to Follow-up,1,0,0,0,0,0,59,0.83,Moderate,15,Low Risk
+SUBJ-0365,SITE-01,Placebo,Female,African,19,54.5,26.1,2025-01-22,No,Completed / Ongoing,2,0,0,2,2,0,84,0.99,High,30,Medium Risk
+SUBJ-0366,SITE-09,Placebo,Female,African,69,94.9,20.6,2025-09-01,No,Completed / Ongoing,0,0,0,0,0,0,84,1,High,0,Low Risk
+SUBJ-0367,SITE-09,Placebo,Female,White,53,76.4,19.4,2025-06-20,No,Completed / Ongoing,3,0,0,3,4,0,84,0.85,Moderate,50,High Risk
+SUBJ-0368,SITE-17,Active Treatment,Male,African,64,73.8,32.8,2024-10-15,No,Completed / Ongoing,1,0,1,1,3,0,84,0.91,High,40,High Risk
+SUBJ-0369,SITE-05,Placebo,Male,Indian/Asian,61,84.7,26.8,2025-04-24,No,Completed / Ongoing,1,0,0,0,3,0,84,0.99,High,15,Low Risk
+SUBJ-0370,SITE-16,Active Treatment,Male,African,52,111.8,27.6,2025-08-09,No,Completed / Ongoing,2,0,0,0,2,1,84,0.93,High,18,Low Risk
+SUBJ-0371,SITE-16,Active Treatment,Female,African,63,78.5,31.4,2025-09-01,No,Completed / Ongoing,0,0,0,0,4,0,84,0.86,Moderate,20,Medium Risk
+SUBJ-0372,SITE-02,Placebo,Female,African,37,100.7,29.4,2024-11-05,No,Completed / Ongoing,0,0,0,0,3,0,84,0.89,Moderate,15,Low Risk
+SUBJ-0373,SITE-04,Placebo,Male,African,60,91.7,22.3,2025-01-18,No,Completed / Ongoing,0,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0374,SITE-02,Placebo,Male,African,71,69.9,21.1,2024-12-04,No,Completed / Ongoing,1,0,0,1,5,0,84,0.96,High,35,High Risk
+SUBJ-0375,SITE-12,Placebo,Female,African,74,88.2,19,2025-02-04,No,Completed / Ongoing,0,0,0,0,2,0,84,0.96,High,10,Low Risk
+SUBJ-0376,SITE-07,Placebo,Male,African,48,80.6,21.7,2025-04-13,No,Completed / Ongoing,0,0,0,0,1,0,84,0.92,High,5,Low Risk
+SUBJ-0377,SITE-18,Placebo,Female,Indian/Asian,50,91.4,27.6,2024-08-16,No,Completed / Ongoing,1,0,0,0,2,0,84,0.99,High,10,Low Risk
+SUBJ-0378,SITE-02,Active Treatment,Female,African,68,88.6,28.6,2025-07-26,Yes,Withdrawal by Subject,0,0,0,0,2,0,59,0.86,Moderate,25,Medium Risk
+SUBJ-0379,SITE-06,Placebo,Female,African,47,71.8,22,2024-09-30,No,Completed / Ongoing,2,0,0,1,2,0,84,0.85,Moderate,20,Medium Risk
+SUBJ-0380,SITE-16,Placebo,Female,African,61,54.1,34.5,2025-03-24,No,Completed / Ongoing,1,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0381,SITE-16,Placebo,Female,African,51,84.9,28.9,2024-11-26,No,Completed / Ongoing,0,0,0,0,0,0,84,1,High,0,Low Risk
+SUBJ-0382,SITE-18,Placebo,Female,Indian/Asian,45,82,38.7,2024-11-25,No,Completed / Ongoing,1,0,0,0,3,0,84,0.79,Moderate,15,Low Risk
+SUBJ-0383,SITE-18,Active Treatment,Female,African,55,69,30.9,2025-05-15,No,Completed / Ongoing,2,0,0,1,3,0,84,0.96,High,25,Medium Risk
+SUBJ-0384,SITE-19,Placebo,Female,White,52,87.4,26.5,2024-11-27,No,Completed / Ongoing,0,0,0,0,4,0,84,1,High,20,Medium Risk
+SUBJ-0385,SITE-16,Placebo,Female,Coloured,49,74.3,31.9,2025-03-26,No,Completed / Ongoing,0,0,0,0,3,0,84,1,High,15,Low Risk
+SUBJ-0386,SITE-09,Active Treatment,Female,Indian/Asian,46,103.2,28.8,2025-02-19,No,Completed / Ongoing,1,1,0,1,4,0,84,1,High,50,High Risk
+SUBJ-0387,SITE-02,Active Treatment,Female,African,63,80.4,29.5,2024-07-31,No,Completed / Ongoing,5,0,1,2,1,0,84,0.85,Moderate,40,High Risk
+SUBJ-0388,SITE-12,Active Treatment,Female,African,77,71.6,33.6,2024-11-25,No,Completed / Ongoing,1,0,0,0,2,0,84,0.9,High,10,Low Risk
+SUBJ-0389,SITE-04,Active Treatment,Male,African,49,98.6,34.8,2025-08-01,No,Completed / Ongoing,0,0,0,0,3,0,84,0.89,Moderate,15,Low Risk
+SUBJ-0390,SITE-14,Active Treatment,Female,Coloured,39,42.1,27.3,2024-06-19,No,Completed / Ongoing,1,0,0,1,1,0,84,0.81,Moderate,15,Low Risk
+SUBJ-0391,SITE-17,Active Treatment,Male,African,42,75.3,27.4,2025-08-31,No,Completed / Ongoing,1,0,1,1,4,0,84,0.95,High,45,High Risk
+SUBJ-0392,SITE-11,Placebo,Male,African,57,91.6,29.4,2025-08-06,No,Completed / Ongoing,1,0,0,1,1,0,84,0.86,Moderate,15,Low Risk
+SUBJ-0393,SITE-01,Placebo,Female,African,54,78.6,24,2025-06-03,No,Completed / Ongoing,1,0,0,1,2,0,84,0.86,Moderate,20,Medium Risk
+SUBJ-0394,SITE-09,Active Treatment,Female,Other,40,78.2,34.6,2025-02-11,No,Completed / Ongoing,0,0,0,0,2,0,84,0.94,High,10,Low Risk
+SUBJ-0395,SITE-01,Placebo,Male,African,57,88.2,31.4,2025-06-24,No,Completed / Ongoing,1,0,0,1,2,0,84,1,High,20,Medium Risk
+SUBJ-0396,SITE-02,Active Treatment,Female,African,53,57.3,21.8,2025-03-19,No,Completed / Ongoing,1,0,0,1,2,0,84,0.86,Moderate,20,Medium Risk
+SUBJ-0397,SITE-04,Placebo,Female,African,58,70.4,25.7,2025-06-14,No,Completed / Ongoing,1,0,0,0,3,0,84,1,High,15,Low Risk
+SUBJ-0398,SITE-19,Active Treatment,Female,African,53,71.2,27.6,2024-03-26,No,Completed / Ongoing,3,0,0,1,2,0,84,0.84,Moderate,20,Medium Risk
+SUBJ-0399,SITE-19,Active Treatment,Male,Indian/Asian,35,72.2,32.7,2024-10-04,Yes,Adverse Event,0,0,0,0,3,0,24,0.94,High,30,Medium Risk
+SUBJ-0400,SITE-08,Active Treatment,Male,Indian/Asian,72,92.9,31.9,2025-04-29,No,Completed / Ongoing,1,0,0,1,2,0,84,0.87,Moderate,20,Medium Risk
+SUBJ-0401,SITE-10,Active Treatment,Male,Other,72,69.7,33.7,2025-09-02,No,Completed / Ongoing,2,0,0,2,4,0,84,0.96,High,40,High Risk
+SUBJ-0402,SITE-15,Placebo,Female,Coloured,55,75.1,34.7,2024-07-24,No,Completed / Ongoing,3,0,1,2,0,0,84,0.85,Moderate,35,High Risk
+SUBJ-0403,SITE-20,Active Treatment,Female,Coloured,74,65.3,28.6,2024-09-26,No,Completed / Ongoing,3,0,0,1,2,0,84,1,High,20,Medium Risk
+SUBJ-0404,SITE-11,Active Treatment,Male,Other,66,51.8,27.1,2025-06-20,No,Completed / Ongoing,3,0,0,1,2,0,84,0.89,Moderate,20,Medium Risk
+SUBJ-0405,SITE-19,Active Treatment,Female,African,41,107.3,26.3,2024-02-08,No,Completed / Ongoing,3,0,0,1,7,0,84,0.93,High,45,High Risk
+SUBJ-0406,SITE-18,Active Treatment,Female,Indian/Asian,65,87.9,26,2025-04-18,No,Completed / Ongoing,0,0,0,0,3,0,84,0.87,Moderate,15,Low Risk
+SUBJ-0407,SITE-07,Active Treatment,Female,African,40,73.4,34.5,2024-07-03,No,Completed / Ongoing,2,0,0,0,2,0,84,0.94,High,10,Low Risk
+SUBJ-0408,SITE-17,Placebo,Male,African,50,85.5,38,2024-05-28,No,Completed / Ongoing,1,0,0,0,1,0,84,0.93,High,5,Low Risk
+SUBJ-0409,SITE-18,Active Treatment,Female,White,60,78.7,33.4,2025-08-23,No,Completed / Ongoing,0,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0410,SITE-17,Active Treatment,Female,Indian/Asian,71,71.5,30.8,2024-04-10,No,Completed / Ongoing,1,0,0,1,2,0,84,1,High,20,Medium Risk
+SUBJ-0411,SITE-13,Placebo,Male,Coloured,44,63.2,37.8,2025-05-03,No,Completed / Ongoing,1,0,0,0,1,0,84,0.93,High,5,Low Risk
+SUBJ-0412,SITE-01,Active Treatment,Female,African,57,70.9,26.3,2025-04-17,No,Completed / Ongoing,2,0,0,0,3,0,84,0.97,High,15,Low Risk
+SUBJ-0413,SITE-13,Active Treatment,Female,Coloured,70,54.6,19.7,2025-04-22,No,Completed / Ongoing,5,1,1,3,5,0,84,0.96,High,90,High Risk
+SUBJ-0414,SITE-10,Active Treatment,Male,White,54,51.1,16.2,2024-02-04,No,Completed / Ongoing,1,0,0,1,3,0,84,0.87,Moderate,25,Medium Risk
+SUBJ-0415,SITE-05,Placebo,Female,African,31,51.4,25,2024-04-09,No,Completed / Ongoing,1,0,0,0,3,0,84,0.94,High,15,Low Risk
+SUBJ-0416,SITE-02,Placebo,Female,Coloured,66,64.6,24.7,2024-01-05,No,Completed / Ongoing,0,0,0,0,3,0,84,0.82,Moderate,15,Low Risk
+SUBJ-0417,SITE-08,Placebo,Female,African,62,76.1,25.3,2024-09-05,No,Completed / Ongoing,2,0,0,1,2,0,84,0.98,High,20,Medium Risk
+SUBJ-0418,SITE-13,Placebo,Female,African,66,61.3,25.2,2024-12-25,No,Completed / Ongoing,0,0,0,0,1,0,84,0.82,Moderate,5,Low Risk
+SUBJ-0419,SITE-15,Active Treatment,Female,African,53,93.5,25.2,2024-08-28,Yes,Lost to Follow-up,0,0,0,0,1,0,36,0.98,High,20,Medium Risk
+SUBJ-0420,SITE-09,Active Treatment,Male,African,70,68.6,21,2025-01-16,No,Completed / Ongoing,2,0,0,1,1,0,84,0.88,Moderate,15,Low Risk
+SUBJ-0421,SITE-06,Active Treatment,Male,White,56,65.8,32.9,2024-12-24,No,Completed / Ongoing,1,0,0,0,5,0,84,0.87,Moderate,25,Medium Risk
+SUBJ-0422,SITE-20,Placebo,Male,African,55,80,24.1,2024-06-13,No,Completed / Ongoing,1,0,0,0,2,0,84,0.95,High,10,Low Risk
+SUBJ-0423,SITE-08,Active Treatment,Female,African,53,76.8,25.7,2024-11-13,Yes,Adverse Event,3,1,0,3,4,0,44,0.82,Moderate,85,High Risk
+SUBJ-0424,SITE-07,Active Treatment,Female,African,84,60.6,22.5,2024-11-11,No,Completed / Ongoing,1,0,0,0,2,0,84,0.87,Moderate,10,Low Risk
+SUBJ-0425,SITE-05,Active Treatment,Male,Coloured,65,96.2,16,2024-06-01,No,Completed / Ongoing,1,0,1,1,2,0,84,0.9,High,35,High Risk
+SUBJ-0426,SITE-05,Active Treatment,Male,Coloured,23,78.7,28.2,2025-01-07,Yes,Lost to Follow-up,3,0,0,2,0,0,51,0.81,Moderate,35,High Risk
+SUBJ-0427,SITE-08,Active Treatment,Male,African,48,95.2,30.6,2025-08-04,No,Completed / Ongoing,3,0,0,1,4,0,84,1,High,30,Medium Risk
+SUBJ-0428,SITE-06,Placebo,Female,African,64,87.1,23.7,2024-11-28,No,Completed / Ongoing,1,0,0,1,3,0,84,0.98,High,25,Medium Risk
+SUBJ-0429,SITE-04,Placebo,Female,White,46,91.3,34.5,2024-06-22,No,Completed / Ongoing,2,0,1,0,0,0,84,0.95,High,15,Low Risk
+SUBJ-0430,SITE-10,Active Treatment,Female,African,43,60.4,29.6,2024-01-24,No,Completed / Ongoing,0,0,0,0,3,0,84,0.78,Moderate,15,Low Risk
+SUBJ-0431,SITE-16,Placebo,Female,African,44,66.5,18,2024-08-17,No,Completed / Ongoing,1,0,0,1,1,0,84,1,High,15,Low Risk
+SUBJ-0432,SITE-20,Active Treatment,Female,African,59,73.3,32.9,2025-01-19,No,Completed / Ongoing,2,0,0,1,2,0,84,0.95,High,20,Medium Risk
+SUBJ-0433,SITE-15,Active Treatment,Male,African,47,54.1,37.5,2024-02-09,No,Completed / Ongoing,0,0,0,0,1,0,84,1,High,5,Low Risk
+SUBJ-0434,SITE-14,Active Treatment,Male,Indian/Asian,54,85.6,22.8,2024-10-24,No,Completed / Ongoing,2,0,0,1,3,2,84,1,High,41,High Risk
+SUBJ-0435,SITE-04,Placebo,Male,Other,52,83.2,22.1,2025-08-12,No,Completed / Ongoing,1,0,0,0,1,0,84,1,High,5,Low Risk
+SUBJ-0436,SITE-14,Active Treatment,Female,Indian/Asian,52,78.2,27.2,2025-07-15,No,Completed / Ongoing,2,0,1,1,2,0,84,0.89,Moderate,35,High Risk
+SUBJ-0437,SITE-17,Active Treatment,Female,African,47,52.8,28.2,2025-08-16,No,Completed / Ongoing,3,0,1,1,1,0,84,0.91,High,30,Medium Risk
+SUBJ-0438,SITE-04,Placebo,Female,White,44,70.2,25.6,2024-05-27,No,Completed / Ongoing,0,0,0,0,3,0,84,0.84,Moderate,15,Low Risk
+SUBJ-0439,SITE-04,Active Treatment,Male,African,74,87.3,26.1,2025-07-02,No,Completed / Ongoing,2,0,0,1,3,0,84,1,High,25,Medium Risk
+SUBJ-0440,SITE-14,Active Treatment,Female,African,66,68.2,25.7,2024-07-08,No,Completed / Ongoing,2,0,0,0,3,0,84,0.93,High,15,Low Risk
+SUBJ-0441,SITE-11,Active Treatment,Male,African,56,76.6,29.9,2024-06-23,No,Completed / Ongoing,0,0,0,0,2,1,84,1,High,18,Low Risk
+SUBJ-0442,SITE-10,Placebo,Female,African,56,80,29.7,2024-10-09,No,Completed / Ongoing,1,0,0,0,0,0,84,0.9,High,0,Low Risk
+SUBJ-0443,SITE-17,Placebo,Female,Coloured,57,96.5,28.5,2024-07-16,No,Completed / Ongoing,1,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0444,SITE-04,Placebo,Female,White,78,78.4,28.3,2024-05-26,No,Completed / Ongoing,1,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0445,SITE-01,Active Treatment,Female,Indian/Asian,49,72,26.6,2024-01-11,No,Completed / Ongoing,5,0,0,0,4,0,84,0.75,Moderate,20,Medium Risk
+SUBJ-0446,SITE-05,Active Treatment,Male,African,39,84.1,28.1,2024-10-28,No,Completed / Ongoing,4,0,1,1,6,0,84,1,High,55,High Risk
+SUBJ-0447,SITE-18,Placebo,Male,African,55,63.1,33.9,2024-11-10,No,Completed / Ongoing,2,1,1,0,1,0,84,0.97,High,40,High Risk
+SUBJ-0448,SITE-20,Placebo,Female,African,61,35.5,32.5,2024-02-06,No,Completed / Ongoing,1,0,0,0,4,0,84,0.8,Moderate,20,Medium Risk
+SUBJ-0449,SITE-06,Placebo,Male,African,56,76.9,21.4,2025-03-22,Yes,Lost to Follow-up,1,0,1,0,0,0,17,0.8,Moderate,30,Medium Risk
+SUBJ-0450,SITE-11,Active Treatment,Male,African,49,64.9,31,2025-06-24,No,Completed / Ongoing,2,0,1,1,2,1,84,0.96,High,43,High Risk
+SUBJ-0451,SITE-10,Placebo,Female,African,65,65.3,21.6,2024-06-04,No,Completed / Ongoing,1,0,0,0,0,0,84,0.96,High,0,Low Risk
+SUBJ-0452,SITE-20,Placebo,Male,African,74,100.3,24.8,2025-02-16,Yes,Withdrawal by Subject,0,0,0,0,4,0,64,0.9,High,35,High Risk
+SUBJ-0453,SITE-12,Active Treatment,Female,Indian/Asian,55,87,32.2,2025-07-17,No,Completed / Ongoing,3,0,0,1,3,1,84,0.94,High,33,High Risk
+SUBJ-0454,SITE-17,Active Treatment,Male,African,78,92,28.1,2025-02-26,No,Completed / Ongoing,2,0,0,0,3,0,84,1,High,15,Low Risk
+SUBJ-0455,SITE-14,Active Treatment,Female,White,36,103.3,32.2,2025-03-09,No,Completed / Ongoing,4,0,0,2,4,0,84,0.93,High,40,High Risk
+SUBJ-0456,SITE-07,Active Treatment,Female,African,44,61.8,25.5,2025-05-19,No,Completed / Ongoing,0,0,0,0,3,0,84,0.93,High,15,Low Risk
+SUBJ-0457,SITE-13,Placebo,Female,Indian/Asian,69,77.4,27.1,2024-01-13,No,Completed / Ongoing,1,0,1,0,2,0,84,1,High,25,Medium Risk
+SUBJ-0458,SITE-15,Active Treatment,Female,African,47,94.6,16,2025-03-05,Yes,Withdrawal by Subject,1,0,0,0,4,1,62,0.96,High,43,High Risk
+SUBJ-0459,SITE-19,Placebo,Male,African,69,83.3,27.6,2024-01-16,No,Completed / Ongoing,2,0,0,1,1,0,84,1,High,15,Low Risk
+SUBJ-0460,SITE-08,Active Treatment,Female,African,45,70,28.8,2024-07-14,No,Completed / Ongoing,0,0,0,0,3,0,84,1,High,15,Low Risk
+SUBJ-0461,SITE-01,Placebo,Female,African,70,77,34.2,2025-01-29,No,Completed / Ongoing,0,0,0,0,3,0,84,1,High,15,Low Risk
+SUBJ-0462,SITE-02,Active Treatment,Male,African,49,58.5,39.5,2024-02-19,No,Completed / Ongoing,1,0,1,0,3,0,84,0.88,Moderate,30,Medium Risk
+SUBJ-0463,SITE-12,Active Treatment,Female,Indian/Asian,54,92.9,27.4,2025-02-16,Yes,Adverse Event,1,0,0,0,3,0,62,0.96,High,30,Medium Risk
+SUBJ-0464,SITE-06,Placebo,Female,White,59,91.2,23.2,2025-06-13,No,Completed / Ongoing,0,0,0,0,3,0,84,0.95,High,15,Low Risk
+SUBJ-0465,SITE-13,Placebo,Male,White,38,66.7,27.8,2024-07-14,No,Completed / Ongoing,0,0,0,0,2,0,84,0.98,High,10,Low Risk
+SUBJ-0466,SITE-11,Active Treatment,Male,African,53,101.4,21,2025-07-14,No,Completed / Ongoing,0,0,0,0,5,1,84,0.91,High,33,High Risk
+SUBJ-0467,SITE-09,Placebo,Male,Coloured,54,98.8,27.8,2024-02-13,No,Completed / Ongoing,0,0,0,0,1,0,84,1,High,5,Low Risk
+SUBJ-0468,SITE-18,Active Treatment,Male,Other,70,54.3,26.5,2025-01-26,No,Completed / Ongoing,3,1,0,0,1,0,84,0.92,High,25,Medium Risk
+SUBJ-0469,SITE-05,Active Treatment,Female,Indian/Asian,40,105.7,30.4,2025-02-22,No,Completed / Ongoing,0,0,0,0,5,0,84,0.92,High,25,Medium Risk
+SUBJ-0470,SITE-17,Placebo,Male,African,71,73.8,26.1,2025-04-14,No,Completed / Ongoing,0,0,0,0,0,0,84,0.99,High,0,Low Risk
+SUBJ-0471,SITE-13,Active Treatment,Male,African,53,100.1,28.8,2024-05-30,No,Completed / Ongoing,1,0,0,0,7,1,84,0.82,Moderate,43,High Risk
+SUBJ-0472,SITE-18,Placebo,Male,African,49,50.3,34.6,2025-07-03,No,Completed / Ongoing,0,0,0,0,4,0,84,1,High,20,Medium Risk
+SUBJ-0473,SITE-07,Active Treatment,Male,African,66,78.1,26,2024-11-13,No,Completed / Ongoing,0,0,0,0,4,0,84,0.98,High,20,Medium Risk
+SUBJ-0474,SITE-14,Active Treatment,Male,African,58,80.1,25,2025-08-23,No,Completed / Ongoing,3,0,0,2,4,0,84,1,High,40,High Risk
+SUBJ-0475,SITE-19,Placebo,Male,African,65,72.2,31,2025-02-07,No,Completed / Ongoing,1,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0476,SITE-11,Placebo,Male,African,75,85.6,18.3,2025-07-08,No,Completed / Ongoing,1,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0477,SITE-04,Placebo,Female,African,53,63.4,26.6,2024-11-05,No,Completed / Ongoing,1,0,0,1,1,0,84,0.8,Moderate,15,Low Risk
+SUBJ-0478,SITE-12,Placebo,Female,White,31,73,17.7,2025-07-28,No,Completed / Ongoing,0,0,0,0,3,0,84,0.92,High,15,Low Risk
+SUBJ-0479,SITE-10,Active Treatment,Female,African,47,61.3,23.7,2025-01-21,No,Completed / Ongoing,2,0,0,1,3,0,84,0.84,Moderate,25,Medium Risk
+SUBJ-0480,SITE-09,Active Treatment,Male,African,51,80.5,37.6,2024-01-19,No,Completed / Ongoing,0,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0481,SITE-20,Active Treatment,Male,African,55,74.9,34.5,2024-11-16,No,Completed / Ongoing,0,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0482,SITE-04,Placebo,Male,African,34,77,34.1,2024-05-09,No,Completed / Ongoing,2,0,0,1,3,0,84,0.96,High,25,Medium Risk
+SUBJ-0483,SITE-15,Active Treatment,Female,Indian/Asian,45,89.3,33.4,2024-06-26,No,Completed / Ongoing,1,0,0,1,2,0,84,0.84,Moderate,20,Medium Risk
+SUBJ-0484,SITE-12,Active Treatment,Female,African,48,70.1,31.3,2025-07-29,No,Completed / Ongoing,1,0,0,1,1,0,84,0.93,High,15,Low Risk
+SUBJ-0485,SITE-17,Placebo,Male,Other,51,73,19.7,2025-02-19,No,Completed / Ongoing,0,0,0,0,0,0,84,0.89,Moderate,0,Low Risk
+SUBJ-0486,SITE-04,Placebo,Female,African,46,77.4,32.8,2024-11-29,No,Completed / Ongoing,1,0,0,0,0,0,84,0.92,High,0,Low Risk
+SUBJ-0487,SITE-16,Placebo,Female,African,47,74.2,28,2024-11-15,No,Completed / Ongoing,0,0,0,0,2,0,84,1,High,10,Low Risk
+SUBJ-0488,SITE-16,Active Treatment,Male,African,77,91.9,21.6,2024-04-11,No,Completed / Ongoing,3,0,1,3,2,1,84,1,High,63,High Risk
+SUBJ-0489,SITE-06,Active Treatment,Male,African,52,93.6,32.8,2024-01-12,No,Completed / Ongoing,0,0,0,0,3,0,84,0.96,High,15,Low Risk
+SUBJ-0490,SITE-05,Active Treatment,Female,African,37,109.2,28.4,2025-05-12,No,Completed / Ongoing,2,0,0,2,2,0,84,0.84,Moderate,30,Medium Risk
+SUBJ-0491,SITE-18,Placebo,Male,African,40,72.8,27.2,2024-02-12,No,Completed / Ongoing,1,0,0,0,1,0,84,0.9,High,5,Low Risk
+SUBJ-0492,SITE-02,Placebo,Female,African,54,105.3,32.4,2024-07-16,No,Completed / Ongoing,2,0,0,1,1,0,84,0.85,Moderate,15,Low Risk
+SUBJ-0493,SITE-15,Active Treatment,Male,African,78,80.8,29.2,2025-02-06,No,Completed / Ongoing,0,0,0,0,4,0,84,0.81,Moderate,20,Medium Risk
+SUBJ-0494,SITE-19,Active Treatment,Male,African,62,46.2,18.7,2024-01-25,No,Completed / Ongoing,1,0,0,1,3,0,84,0.77,Moderate,25,Medium Risk
+SUBJ-0495,SITE-14,Placebo,Male,African,37,54.8,26.6,2024-06-03,No,Completed / Ongoing,1,0,0,0,1,0,84,0.96,High,5,Low Risk
+SUBJ-0496,SITE-16,Placebo,Male,Indian/Asian,53,58.9,21.7,2025-08-03,No,Completed / Ongoing,0,0,0,0,4,0,84,0.9,High,20,Medium Risk
+SUBJ-0497,SITE-15,Active Treatment,Female,African,44,59.5,34.2,2024-12-18,No,Completed / Ongoing,3,1,1,1,2,0,84,0.99,High,55,High Risk
+SUBJ-0498,SITE-19,Placebo,Female,African,39,81.5,36,2025-01-25,No,Completed / Ongoing,0,0,0,0,1,0,84,0.88,Moderate,5,Low Risk
+SUBJ-0499,SITE-17,Active Treatment,Male,African,55,104.2,21,2024-11-13,Yes,Adverse Event,0,0,0,0,5,0,16,0.9,High,40,High Risk
+SUBJ-0500,SITE-20,Placebo,Male,Coloured,85,82.2,26.7,2024-04-27,No,Completed / Ongoing,1,0,0,0,1,0,84,0.9,High,5,Low Risk

@@ -1,0 +1,45 @@
+ae_term,severity,n,total
+Insomnia,Mild,21,45
+Insomnia,Moderate,14,45
+Insomnia,Severe,10,45
+Anaemia,Mild,19,44
+Anaemia,Moderate,21,44
+Anaemia,Severe,4,44
+Rash,Mild,24,39
+Rash,Moderate,15,39
+Shortness of Breath,Mild,23,39
+Shortness of Breath,Moderate,9,39
+Shortness of Breath,Severe,7,39
+Elevated AST,Mild,21,38
+Elevated AST,Moderate,14,38
+Elevated AST,Severe,3,38
+Vomiting,Mild,23,38
+Vomiting,Moderate,9,38
+Vomiting,Severe,6,38
+Neutropenia,Mild,21,36
+Neutropenia,Moderate,14,36
+Neutropenia,Severe,1,36
+Chest Pain,Mild,20,35
+Chest Pain,Moderate,13,35
+Chest Pain,Severe,2,35
+Diarrhoea,Mild,22,34
+Diarrhoea,Moderate,9,34
+Diarrhoea,Severe,3,34
+Elevated ALT,Mild,26,34
+Elevated ALT,Moderate,7,34
+Elevated ALT,Severe,1,34
+Fatigue,Mild,14,34
+Fatigue,Moderate,16,34
+Fatigue,Severe,4,34
+Hypertension,Mild,22,33
+Hypertension,Moderate,8,33
+Hypertension,Severe,3,33
+Headache,Mild,17,32
+Headache,Moderate,10,32
+Headache,Severe,5,32
+Nausea,Mild,19,31
+Nausea,Moderate,7,31
+Nausea,Severe,5,31
+Dizziness,Mild,16,29
+Dizziness,Moderate,8,29
+Dizziness,Severe,5,29

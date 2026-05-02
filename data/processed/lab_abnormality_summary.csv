@@ -1,0 +1,33 @@
+lab_test,abnormal_flag,treatment_arm,n,percentage
+ALT,Normal,Active Treatment,996,82.7
+ALT,Normal,Placebo,1229,94.9
+ALT,High,Active Treatment,209,17.3
+ALT,High,Placebo,66,5.1
+AST,Normal,Active Treatment,1063,88.2
+AST,Normal,Placebo,1243,96
+AST,High,Active Treatment,142,11.8
+AST,High,Placebo,52,4
+Creatinine,Normal,Active Treatment,1132,93.9
+Creatinine,Normal,Placebo,1188,91.7
+Creatinine,Low,Active Treatment,21,1.7
+Creatinine,Low,Placebo,47,3.6
+Creatinine,High,Active Treatment,52,4.3
+Creatinine,High,Placebo,60,4.6
+Haemoglobin,Normal,Active Treatment,1054,87.5
+Haemoglobin,Normal,Placebo,1145,88.4
+Haemoglobin,Low,Active Treatment,129,10.7
+Haemoglobin,Low,Placebo,126,9.7
+Haemoglobin,High,Active Treatment,22,1.8
+Haemoglobin,High,Placebo,24,1.9
+Neutrophils,Normal,Active Treatment,1131,93.9
+Neutrophils,Normal,Placebo,1242,95.9
+Neutrophils,Low,Active Treatment,70,5.8
+Neutrophils,Low,Placebo,46,3.6
+Neutrophils,High,Active Treatment,4,0.3
+Neutrophils,High,Placebo,7,0.5
+Platelets,Normal,Active Treatment,1142,94.8
+Platelets,Normal,Placebo,1231,95.1
+Platelets,Low,Active Treatment,56,4.6
+Platelets,Low,Placebo,60,4.6
+Platelets,High,Active Treatment,7,0.6
+Platelets,High,Placebo,4,0.3

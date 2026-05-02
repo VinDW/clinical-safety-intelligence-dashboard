@@ -1,0 +1,63 @@
+ae_month,treatment_arm,seriousness,n_ae,cumulative_ae
+2024-01-01,Active Treatment,Non-serious,2,2
+2024-01-01,Placebo,Non-serious,1,1
+2024-02-01,Active Treatment,Non-serious,3,5
+2024-02-01,Placebo,Non-serious,3,4
+2024-03-01,Active Treatment,Non-serious,11,16
+2024-03-01,Placebo,Non-serious,8,12
+2024-04-01,Active Treatment,Non-serious,12,28
+2024-04-01,Placebo,Non-serious,8,20
+2024-05-01,Active Treatment,Non-serious,13,41
+2024-05-01,Placebo,Non-serious,10,30
+2024-05-01,Placebo,Serious,1,1
+2024-06-01,Active Treatment,Non-serious,15,56
+2024-06-01,Active Treatment,Serious,2,2
+2024-06-01,Placebo,Non-serious,14,44
+2024-06-01,Placebo,Serious,2,3
+2024-07-01,Active Treatment,Non-serious,13,69
+2024-07-01,Active Treatment,Serious,1,3
+2024-07-01,Placebo,Non-serious,11,55
+2024-07-01,Placebo,Serious,3,6
+2024-08-01,Active Treatment,Non-serious,15,84
+2024-08-01,Placebo,Non-serious,13,68
+2024-09-01,Active Treatment,Non-serious,14,98
+2024-09-01,Placebo,Non-serious,15,83
+2024-10-01,Active Treatment,Non-serious,16,114
+2024-10-01,Active Treatment,Serious,1,4
+2024-10-01,Placebo,Non-serious,12,95
+2024-11-01,Active Treatment,Non-serious,11,125
+2024-11-01,Active Treatment,Serious,1,5
+2024-11-01,Placebo,Non-serious,13,108
+2024-11-01,Placebo,Serious,3,9
+2024-12-01,Active Treatment,Non-serious,8,133
+2024-12-01,Placebo,Non-serious,9,117
+2025-01-01,Active Treatment,Non-serious,8,141
+2025-01-01,Placebo,Non-serious,16,133
+2025-02-01,Active Treatment,Non-serious,11,152
+2025-02-01,Active Treatment,Serious,3,8
+2025-02-01,Placebo,Non-serious,8,141
+2025-02-01,Placebo,Serious,1,10
+2025-03-01,Active Treatment,Non-serious,17,169
+2025-03-01,Active Treatment,Serious,3,11
+2025-03-01,Placebo,Non-serious,3,144
+2025-04-01,Active Treatment,Non-serious,23,192
+2025-04-01,Placebo,Non-serious,9,153
+2025-05-01,Active Treatment,Non-serious,12,204
+2025-05-01,Active Treatment,Serious,1,12
+2025-05-01,Placebo,Non-serious,10,163
+2025-06-01,Active Treatment,Non-serious,25,229
+2025-06-01,Active Treatment,Serious,1,13
+2025-06-01,Placebo,Non-serious,10,173
+2025-07-01,Active Treatment,Non-serious,22,251
+2025-07-01,Placebo,Non-serious,6,179
+2025-07-01,Placebo,Serious,1,11
+2025-08-01,Active Treatment,Non-serious,21,272
+2025-08-01,Placebo,Non-serious,9,188
+2025-09-01,Active Treatment,Non-serious,13,285
+2025-09-01,Placebo,Non-serious,7,195
+2025-09-01,Placebo,Serious,1,12
+2025-10-01,Active Treatment,Non-serious,17,302
+2025-10-01,Placebo,Non-serious,3,198
+2025-11-01,Active Treatment,Non-serious,6,308
+2025-11-01,Placebo,Non-serious,3,201
+2025-12-01,Active Treatment,Non-serious,7,315

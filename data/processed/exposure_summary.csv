@@ -1,0 +1,3 @@
+treatment_arm,n_subjects,mean_treatment_days,median_treatment_days,mean_compliance,low_compliance_subjects,discontinued_subjects,low_compliance_rate,discontinuation_rate
+Active Treatment,241,79,84,0.922,3,35,0.012,0.145
+Placebo,259,80.8,84,0.925,4,20,0.015,0.077
